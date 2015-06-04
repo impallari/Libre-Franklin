@@ -1,0 +1,30 @@
+Process Log:
+Notes on the Libre Franklin revival process
+
+Step 1: Importing Artwork
+- Tracing from high resolution ATF scan
+- Importing Artwork into Glyphs, each letter into his slot.
+
+Step 2: Spacing
+- Initial rougth Spacing
+- Deciding the general spacing amount, in relation to the intended usage size range.
+- Setting total advance widths for each glyphs, and visually centering the contours inside the selected width.
+- Printing test using the Testing Page “Spacing” tool
+- Refining and improving the spacing.
+
+Step 3: Starting Cleaning Artwork outlines
+- Testing different degrees of cleaning (Sharp corners vs Rounded corners vs Organic corners)
+- Decided not to use crystal-clear sharp corners, nor mecanicaly rounded corners.
+- We are going to use eyevaled rounded corners, trying to get a warmer organic feeling (But not too much, just a little bit of it).
+
+Step 4: 
+- Test, refine and set vertical metrics
+
+Step 5: Completing charset
+- Adding all the missing glyphs
+
+
+
+TO-do:
+- Test increasing spacing by approx 15%
+
