@@ -1,3 +1,12 @@
+TO-Do:
+
+- Decitions to make:
+Caps are bolder than lowercases, as in the metal font.
+Most digital version have normalized that.
+Should we also normalize them? or do we like the heavy caps?
+
+——————————————————————————————————————
+
 Process Log:
 Notes on the Libre Franklin revival process
 
@@ -7,24 +16,27 @@ Step 1: Importing Artwork
 
 Step 2: Spacing
 - Initial rougth Spacing
-- Deciding the general spacing amount, in relation to the intended usage size range.
+- Deciding the general spacing amount, in relation to the intended usage size range (In this case, since Franklin is a quintessential display face, we decided to space for 30px or bigger).
 - Setting total advance widths for each glyphs, and visually centering the contours inside the selected width.
 - Printing test using the Testing Page “Spacing” tool
 - Refining and improving the spacing.
 
-Step 3: Starting Cleaning Artwork outlines
+Step 3: Cleaning Artwork outlines
 - Testing different degrees of cleaning (Sharp corners vs Rounded corners vs Organic corners)
 - Decided not to use crystal-clear sharp corners, nor mecanicaly rounded corners.
 - We are going to use eyevaled rounded corners, trying to get a warmer organic feeling (But not too much, just a little bit of it).
 
-Step 4: 
-- Test, refine and set vertical metrics
+Step 4: Optimizations
+- Refine the BBox, and set the Vertical metrics
+- Rescale to make the most out of BBox
+- Review Overshoots for consistency
+- Review Stems and counters widths for consistency
+- Round Widths and Refine Spacing
 
-Step 5: Completing charset
+Step 5: Uppercase
+- Deciding what to do on the Uppercase: Leave it as is (bolder than lowercases) or make it a bit ligther.
+
+Step 6: Completing charset
 - Adding all the missing glyphs
 
-
-
-TO-do:
-- Test increasing spacing by approx 15%
 
