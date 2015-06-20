@@ -1,5 +1,10 @@
 TO-Do:
 
+- Achicar Left sidebearing en /a y /c
+- /f /t, mover contornos hacia el left side just a bit
+- /g ear: make shorter and taller
+- Ligaduras, dejar un poco mas de espacio blanco entre los miembros
+
 - Decitions to make:
 Caps are bolder than lowercases, as in the metal font.
 Most digital version have normalized that.
@@ -37,6 +42,6 @@ Step 5: Uppercase
 - Deciding what to do on the Uppercase: Leave it as is (bolder than lowercases) or make it a bit ligther.
 
 Step 6: Completing charset
-- Adding all the missing glyphs
+- Adding all the missing glyphs. Punctuation, diacritics, etc.
 
 
