@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="600"/>
+  <advance width="420"/>
   <unicode hex="02C7"/>
   <outline>
+    <contour>
+      <point x="220" y="703" type="line" smooth="yes"/>
+      <point x="210" y="695"/>
+      <point x="206" y="695"/>
+      <point x="196" y="703" type="curve" smooth="yes"/>
+      <point x="158" y="733" type="line" smooth="yes"/>
+      <point x="150" y="740"/>
+      <point x="145" y="742"/>
+      <point x="132" y="742" type="curve" smooth="yes"/>
+      <point x="20" y="742" type="line" smooth="yes"/>
+      <point x="8" y="742"/>
+      <point x="6" y="733"/>
+      <point x="17" y="724" type="curve" smooth="yes"/>
+      <point x="174" y="598" type="line" smooth="yes"/>
+      <point x="194" y="582"/>
+      <point x="224" y="581"/>
+      <point x="243" y="597" type="curve" smooth="yes"/>
+      <point x="400" y="724" type="line" smooth="yes"/>
+      <point x="413" y="735"/>
+      <point x="412" y="742"/>
+      <point x="398" y="742" type="curve" smooth="yes"/>
+      <point x="285" y="742" type="line" smooth="yes"/>
+      <point x="273" y="742"/>
+      <point x="266" y="740"/>
+      <point x="258" y="733" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="210" y="530" type="move" name="_top"/>
+    </contour>
   </outline>
 </glyph>

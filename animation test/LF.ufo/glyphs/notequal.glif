@@ -4,31 +4,23 @@
   <unicode hex="2260"/>
   <outline>
     <contour>
-      <point x="480" y="659"/>
-      <point x="475" y="668"/>
-      <point x="464" y="671" type="curve" smooth="yes"/>
+      <point x="484" y="671"/>
+      <point x="479" y="683"/>
+      <point x="468" y="683" type="curve" smooth="yes"/>
       <point x="425" y="683" type="line" smooth="yes"/>
-      <point x="415" y="686"/>
+      <point x="415" y="683"/>
       <point x="406" y="679"/>
       <point x="400" y="665" type="curve" smooth="yes"/>
-      <point x="131" y="48" type="line" smooth="yes"/>
-      <point x="123" y="31"/>
-      <point x="132" y="24"/>
-      <point x="152" y="17" type="curve" smooth="yes"/>
-      <point x="169" y="11" type="line" smooth="yes"/>
-      <point x="193" y="3"/>
+      <point x="125" y="36" type="line" smooth="yes"/>
+      <point x="118" y="20"/>
+      <point x="124" y="11"/>
+      <point x="141" y="11" type="curve" smooth="yes"/>
+      <point x="178" y="11" type="line" smooth="yes"/>
+      <point x="194" y="11"/>
       <point x="198" y="10"/>
       <point x="208" y="32" type="curve" smooth="yes"/>
-      <point x="475" y="647" type="line" smooth="yes"/>
+      <point x="479" y="659" type="line" smooth="yes"/>
     </contour>
     <component base="equal"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
-    </dict>
-  </lib>
 </glyph>
