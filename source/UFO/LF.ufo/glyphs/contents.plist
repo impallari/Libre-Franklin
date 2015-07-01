@@ -56,16 +56,10 @@
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
-	<key>asciicircum</key>
-	<string>asciicircum.glif</string>
-	<key>asterisk</key>
-	<string>asterisk.glif</string>
+	<key>ampersand</key>
+	<string>ampersand.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
-	<key>backslash</key>
-	<string>backslash.glif</string>
-	<key>bullet</key>
-	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>colon</key>
@@ -74,20 +68,16 @@
 	<string>comma.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>dollar</key>
+	<string>dollar.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
-	<key>ellipsis</key>
-	<string>ellipsis.glif</string>
-	<key>emdash</key>
-	<string>emdash.glif</string>
-	<key>endash</key>
-	<string>endash.glif</string>
+	<key>espaciador</key>
+	<string>espaciador.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
-	<key>exclamdown</key>
-	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>five</key>
@@ -114,8 +104,6 @@
 	<string>n.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
-	<key>numbersign</key>
-	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>one</key>
@@ -124,16 +112,10 @@
 	<string>p.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
-	<key>periodcentered</key>
-	<string>periodcentered.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
-	<key>questiondown</key>
-	<string>questiondown.glif</string>
-	<key>quotedbl</key>
-	<string>quotedbl.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>r</key>
@@ -146,8 +128,6 @@
 	<string>seven.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
-	<key>slash</key>
-	<string>slash.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>
@@ -158,8 +138,6 @@
 	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
-	<key>underscore</key>
-	<string>underscore.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>
