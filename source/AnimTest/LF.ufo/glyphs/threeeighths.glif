@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeeighths" format="1">
+  <advance width="1099"/>
+  <unicode hex="215C"/>
+  <outline>
+    <component base="three.numr" xOffset="46"/>
+    <component base="fraction" xOffset="437"/>
+    <component base="eight.dnom" xOffset="652"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>eight.dnom</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

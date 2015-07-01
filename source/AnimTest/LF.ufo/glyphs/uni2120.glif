@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2120" format="1">
+  <advance width="1050"/>
+  <unicode hex="2120"/>
+  <outline>
+    <component base="S" xOffset="5" yOffset="278" xScale="0.625" yScale="0.625"/>
+    <component base="M" xOffset="434" yOffset="278" xScale="0.625" yScale="0.625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>M</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

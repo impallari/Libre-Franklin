@@ -8,10 +8,10 @@
       <point x="237" y="522"/>
       <point x="231" y="530"/>
       <point x="219" y="530" type="curve" smooth="yes"/>
-      <point x="61" y="530" type="line" smooth="yes"/>
-      <point x="49" y="530"/>
-      <point x="42" y="521"/>
-      <point x="42" y="507" type="curve" smooth="yes"/>
+      <point x="58" y="530" type="line" smooth="yes"/>
+      <point x="46" y="530"/>
+      <point x="39" y="521"/>
+      <point x="39" y="507" type="curve" smooth="yes"/>
       <point x="38" y="25" type="line" smooth="yes"/>
       <point x="38" y="7"/>
       <point x="45" y="0"/>
@@ -46,11 +46,15 @@
       <point x="237" y="457"/>
       <point x="237" y="465" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="302" y="530" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="302" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -447,8 +451,6 @@
           <integer>604</integer>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

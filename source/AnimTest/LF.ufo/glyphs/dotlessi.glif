@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="290"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="245" y="522"/>
+      <point x="238" y="530"/>
+      <point x="227" y="530" type="curve" smooth="yes"/>
+      <point x="64" y="530" type="line" smooth="yes"/>
+      <point x="52" y="530"/>
+      <point x="45" y="522"/>
+      <point x="45" y="507" type="curve" smooth="yes"/>
+      <point x="45" y="25" type="line" smooth="yes"/>
+      <point x="45" y="8"/>
+      <point x="51" y="0"/>
+      <point x="71" y="0" type="curve" smooth="yes"/>
+      <point x="212" y="0" type="line" smooth="yes"/>
+      <point x="235" y="0"/>
+      <point x="245" y="8"/>
+      <point x="245" y="29" type="curve" smooth="yes"/>
+      <point x="245" y="510" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="213" y="9" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="145" y="530" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=i</string>
+    </dict>
+  </lib>
+</glyph>
