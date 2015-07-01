@@ -4,24 +4,28 @@
   <unicode hex="01FB"/>
   <outline>
     <component base="a"/>
-    <component base="ring" xOffset="188"/>
-    <component base="acute" xOffset="130" yOffset="209"/>
+    <component base="acute" xOffset="130" yOffset="206"/>
+    <component base="ring" xOffset="179" yOffset="-9"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>0</integer>
-      <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
           <key>disableAlignment</key>
           <true/>
           <key>index</key>
-          <integer>2</integer>
+          <integer>1</integer>
           <key>name</key>
           <string>acute</string>
+        </dict>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>ring</string>
         </dict>
       </array>
     </dict>

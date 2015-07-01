@@ -30,7 +30,7 @@
 			<key>isGlobal</key>
 			<true/>
 			<key>x</key>
-			<integer>-40</integer>
+			<integer>-81</integer>
 			<key>y</key>
 			<integer>964</integer>
 		</dict>
@@ -388,9 +388,6 @@
 		<string>zcaron</string>
 		<string>zdotaccent</string>
 		<string>zdotbelow</string>
-		<string>f_f</string>
-		<string>f_f_i</string>
-		<string>f_f_l</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>ordfeminine</string>
@@ -519,6 +516,7 @@
 		<string>approxequal</string>
 		<string>asciitilde</string>
 		<string>divide</string>
+		<string>emptyset</string>
 		<string>equal</string>
 		<string>greater</string>
 		<string>greaterequal</string>

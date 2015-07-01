@@ -3,9 +3,9 @@
   <advance width="710"/>
   <unicode hex="01FA"/>
   <outline>
+    <component base="acute" xOffset="204" yOffset="189"/>
     <component base="A"/>
-    <component base="ring" xOffset="243" yOffset="212"/>
-    <component base="acute" xOffset="321" yOffset="196"/>
+    <component base="ring" xOffset="243" yOffset="163"/>
   </outline>
   <lib>
     <dict>
@@ -19,9 +19,17 @@
           <key>disableAlignment</key>
           <true/>
           <key>index</key>
-          <integer>2</integer>
+          <integer>0</integer>
           <key>name</key>
           <string>acute</string>
+        </dict>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>ring</string>
         </dict>
       </array>
     </dict>
