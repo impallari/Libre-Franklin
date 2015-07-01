@@ -52,9 +52,9 @@
 			<key>showMeasurements</key>
 			<true/>
 			<key>x</key>
-			<integer>3</integer>
+			<integer>640</integer>
 			<key>y</key>
-			<integer>371</integer>
+			<integer>88</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -64,32 +64,45 @@
 			<key>showMeasurements</key>
 			<true/>
 			<key>x</key>
-			<integer>-252</integer>
+			<integer>39</integer>
 			<key>y</key>
-			<integer>506</integer>
+			<integer>-107</integer>
 		</dict>
 	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
+		<string>AE</string>
 		<string>B</string>
 		<string>C</string>
 		<string>D</string>
+		<string>uni01F1</string>
+		<string>uni01F2</string>
 		<string>E</string>
 		<string>F</string>
 		<string>G</string>
 		<string>H</string>
 		<string>I</string>
+		<string>IJ</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
+		<string>uni01C7</string>
+		<string>uni01C8</string>
 		<string>M</string>
 		<string>N</string>
+		<string>uni01CA</string>
+		<string>Eng</string>
+		<string>uni01CB</string>
 		<string>O</string>
+		<string>Oslash</string>
+		<string>OE</string>
 		<string>P</string>
+		<string>Thorn</string>
 		<string>Q</string>
 		<string>R</string>
 		<string>S</string>
+		<string>uni018F</string>
 		<string>T</string>
 		<string>U</string>
 		<string>V</string>
@@ -98,24 +111,38 @@
 		<string>Y</string>
 		<string>Z</string>
 		<string>a</string>
+		<string>ae</string>
 		<string>b</string>
 		<string>c</string>
 		<string>d</string>
+		<string>eth</string>
+		<string>uni01F3</string>
 		<string>e</string>
 		<string>f</string>
 		<string>g</string>
 		<string>h</string>
 		<string>i</string>
+		<string>dotlessi</string>
 		<string>j</string>
+		<string>uni0237</string>
 		<string>k</string>
+		<string>kgreenlandic</string>
 		<string>l</string>
+		<string>uni01C9</string>
 		<string>m</string>
 		<string>n</string>
+		<string>eng</string>
+		<string>uni01CC</string>
 		<string>o</string>
+		<string>oslash</string>
+		<string>oe</string>
 		<string>p</string>
+		<string>thorn</string>
 		<string>q</string>
 		<string>r</string>
 		<string>s</string>
+		<string>germandbls</string>
+		<string>uni0259</string>
 		<string>t</string>
 		<string>u</string>
 		<string>v</string>
@@ -123,6 +150,14 @@
 		<string>x</string>
 		<string>y</string>
 		<string>z</string>
+		<string>f_f</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
+		<string>uni03BC</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -133,17 +168,119 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>uni2153</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>oneeighth</string>
+		<string>threeeighths</string>
+		<string>fiveeighths</string>
+		<string>seveneighths</string>
+		<string>zero.dnom</string>
+		<string>one.dnom</string>
+		<string>two.dnom</string>
+		<string>three.dnom</string>
+		<string>four.dnom</string>
+		<string>five.dnom</string>
+		<string>six.dnom</string>
+		<string>seven.dnom</string>
+		<string>eight.dnom</string>
+		<string>nine.dnom</string>
+		<string>zero.numr</string>
+		<string>one.numr</string>
+		<string>two.numr</string>
+		<string>three.numr</string>
+		<string>four.numr</string>
+		<string>five.numr</string>
+		<string>six.numr</string>
+		<string>seven.numr</string>
+		<string>eight.numr</string>
+		<string>nine.numr</string>
+		<string>asterisk</string>
+		<string>backslash</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
 		<string>colon</string>
 		<string>comma</string>
+		<string>ellipsis</string>
 		<string>exclam</string>
+		<string>exclamdown</string>
+		<string>numbersign</string>
 		<string>period</string>
 		<string>question</string>
+		<string>questiondown</string>
+		<string>quotedbl</string>
 		<string>quotesingle</string>
 		<string>semicolon</string>
+		<string>slash</string>
+		<string>underscore</string>
+		<string>braceleft</string>
+		<string>braceright</string>
+		<string>bracketleft</string>
+		<string>bracketright</string>
+		<string>parenleft</string>
+		<string>parenright</string>
+		<string>emdash</string>
+		<string>endash</string>
 		<string>hyphen</string>
+		<string>uni00AD</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedblbase</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotesinglbase</string>
 		<string>space</string>
+		<string>cent</string>
+		<string>colonmonetary</string>
+		<string>currency</string>
 		<string>dollar</string>
+		<string>Euro</string>
+		<string>florin</string>
+		<string>franc</string>
+		<string>lira</string>
+		<string>uni20BA</string>
+		<string>uni20A6</string>
+		<string>uni20B9</string>
+		<string>sterling</string>
+		<string>uni20A9</string>
+		<string>yen</string>
+		<string>approxequal</string>
+		<string>divide</string>
+		<string>uni2215</string>
+		<string>equal</string>
+		<string>greater</string>
+		<string>greaterequal</string>
+		<string>less</string>
+		<string>lessequal</string>
+		<string>logicalnot</string>
+		<string>uni00B5</string>
+		<string>minus</string>
+		<string>multiply</string>
+		<string>notequal</string>
+		<string>plus</string>
+		<string>plusminus</string>
+		<string>lozenge</string>
+		<string>bar</string>
+		<string>brokenbar</string>
+		<string>at</string>
 		<string>ampersand</string>
+		<string>paragraph</string>
+		<string>copyright</string>
+		<string>registered</string>
+		<string>section</string>
+		<string>trademark</string>
+		<string>degree</string>
+		<string>uni2116</string>
+		<string>asciicircum</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>uni2120</string>
 		<string>espaciador</string>
 	</array>
 </dict>
