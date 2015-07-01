@@ -15,12 +15,12 @@ feature aalt {
 # automatic
 feature locl;
 feature subs;
+feature sinf;
 feature sups;
 feature numr;
 feature dnom;
 feature frac;
 feature ordn;
-feature sinf;
 } aalt;
 
 feature locl {
@@ -144,10 +144,7 @@ sub N o period by numero;
 
 feature liga {
 # automatic
-sub f f l by f_f_l;
-sub f f i by f_f_i;
 sub f i by fi;
-sub f f by f_f;
 sub f l by fl;
 } liga;
 
