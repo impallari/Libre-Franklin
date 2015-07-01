@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.dnom" format="1">
-  <advance width="600"/>
+  <advance width="299"/>
   <outline>
+    <component base="one" xOffset="-28" xScale="0.629" yScale="0.629"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>one</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
