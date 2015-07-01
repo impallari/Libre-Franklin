@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seveneighths" format="1">
-  <advance width="1800"/>
+  <advance width="987"/>
   <unicode hex="215E"/>
   <outline>
-    <component base="seven.numr"/>
-    <component base="fraction" xOffset="600"/>
-    <component base="eight.dnom" xOffset="1200"/>
+    <component base="seven.numr" xOffset="45"/>
+    <component base="fraction" xOffset="305"/>
+    <component base="eight.dnom" xOffset="540"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>seven.numr</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>seven.numr</string>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>eight.dnom</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

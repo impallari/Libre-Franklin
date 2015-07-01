@@ -64,9 +64,9 @@
 			<key>showMeasurements</key>
 			<true/>
 			<key>x</key>
-			<integer>39</integer>
+			<integer>-163</integer>
 			<key>y</key>
-			<integer>-107</integer>
+			<integer>196</integer>
 		</dict>
 	</array>
 	<key>public.glyphOrder</key>
@@ -281,6 +281,19 @@
 		<string>dagger</string>
 		<string>daggerdbl</string>
 		<string>uni2120</string>
+		<string>acute</string>
+		<string>breve</string>
+		<string>caron</string>
+		<string>cedilla</string>
+		<string>circumflex</string>
+		<string>dieresis</string>
+		<string>dotaccent</string>
+		<string>grave</string>
+		<string>hungarumlaut</string>
+		<string>macron</string>
+		<string>ogonek</string>
+		<string>ring</string>
+		<string>tilde</string>
 		<string>espaciador</string>
 	</array>
 </dict>

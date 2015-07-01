@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2153" format="1">
-  <advance width="1800"/>
+  <advance width="1035"/>
   <unicode hex="2153"/>
   <outline>
-    <component base="one.numr"/>
-    <component base="fraction" xOffset="600"/>
-    <component base="three.dnom" xOffset="1200"/>
+    <component base="one.numr" xOffset="46"/>
+    <component base="fraction" xOffset="366"/>
+    <component base="three.dnom" xOffset="590"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>one.numr</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>one.numr</string>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
