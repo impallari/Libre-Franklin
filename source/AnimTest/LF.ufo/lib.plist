@@ -6,12 +6,65 @@
 	<dict>
 		<key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
 		<dict>
+			<key>HV</key>
+			<integer>224</integer>
+			<key>OV</key>
+			<integer>238</integer>
+			<key>nV</key>
+			<integer>200</integer>
+			<key>oV</key>
+			<integer>202</integer>
 		</dict>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>258ED206-D907-4350-8EBA-CBDDA1C16BF7</string>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<integer>1</integer>
+	<key>com.typemytype.robofont.guides</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>1</integer>
+			<key>y</key>
+			<integer>964</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>-3</integer>
+			<key>y</key>
+			<integer>-286</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>showMeasurements</key>
+			<true/>
+			<key>x</key>
+			<integer>122</integer>
+			<key>y</key>
+			<integer>369</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>90</integer>
+			<key>isGlobal</key>
+			<true/>
+			<key>x</key>
+			<integer>180</integer>
+			<key>y</key>
+			<integer>441</integer>
+		</dict>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
