@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="twoinferior" format="1">
-  <advance width="452"/>
-  <unicode hex="2082"/>
+<glyph name="Rdblgrave" format="1">
+  <advance width="724"/>
+  <unicode hex="0210"/>
   <outline>
-    <component base="two.dnom" xOffset="34" yOffset="-165"/>
+    <component base="R"/>
+    <component base="dblgravecomb" xOffset="98" yOffset="212"/>
   </outline>
   <lib>
     <dict>
@@ -13,9 +14,9 @@
           <key>disableAlignment</key>
           <true/>
           <key>index</key>
-          <integer>0</integer>
+          <integer>1</integer>
           <key>name</key>
-          <string>two.dnom</string>
+          <string>dblgravecomb</string>
         </dict>
       </array>
     </dict>

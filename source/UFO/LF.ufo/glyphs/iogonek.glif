@@ -5,14 +5,6 @@
   <outline>
     <component base="dotlessi"/>
     <component base="dotaccent" xOffset="32"/>
-    <component base="ogonek" xOffset="25"/>
+    <component base="ogonek" xOffset="-6"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>5</integer>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
-    </dict>
-  </lib>
 </glyph>

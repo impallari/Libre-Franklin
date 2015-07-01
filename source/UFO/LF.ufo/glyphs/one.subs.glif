@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eightinferior" format="1">
-  <advance width="469"/>
-  <unicode hex="2088"/>
+<glyph name="one.subs" format="1">
+  <advance width="367"/>
   <outline>
-    <component base="eight.dnom" xOffset="34" yOffset="-164"/>
+    <component base="one.dnom" xOffset="34" yOffset="-165"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +14,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>eight.dnom</string>
+          <string>one.dnom</string>
         </dict>
       </array>
     </dict>

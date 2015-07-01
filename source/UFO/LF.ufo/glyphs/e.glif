@@ -50,13 +50,13 @@
       <point x="232" y="333" type="line"/>
     </contour>
     <contour>
-      <point x="517" y="10" type="move" name="ogonek"/>
+      <point x="398" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="298" y="0" type="move" name="bottom"/>
+      <point x="306" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="313" y="530" type="move" name="top"/>
+      <point x="303" y="530" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
