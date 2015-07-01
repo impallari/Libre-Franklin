@@ -7,7 +7,9 @@
 		<key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
 		<dict>
 			<key>HV</key>
-			<integer>224</integer>
+			<integer>227</integer>
+			<key>OH</key>
+			<integer>154</integer>
 			<key>OV</key>
 			<integer>238</integer>
 			<key>nV</key>
@@ -28,7 +30,7 @@
 			<key>isGlobal</key>
 			<true/>
 			<key>x</key>
-			<integer>1</integer>
+			<integer>-40</integer>
 			<key>y</key>
 			<integer>964</integer>
 		</dict>
@@ -38,7 +40,7 @@
 			<key>isGlobal</key>
 			<true/>
 			<key>x</key>
-			<integer>-3</integer>
+			<integer>-40</integer>
 			<key>y</key>
 			<integer>-286</integer>
 		</dict>
@@ -50,19 +52,21 @@
 			<key>showMeasurements</key>
 			<true/>
 			<key>x</key>
-			<integer>122</integer>
+			<integer>3</integer>
 			<key>y</key>
-			<integer>369</integer>
+			<integer>371</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
 			<integer>90</integer>
 			<key>isGlobal</key>
 			<true/>
+			<key>showMeasurements</key>
+			<true/>
 			<key>x</key>
-			<integer>180</integer>
+			<integer>-252</integer>
 			<key>y</key>
-			<integer>441</integer>
+			<integer>506</integer>
 		</dict>
 	</array>
 	<key>public.glyphOrder</key>
