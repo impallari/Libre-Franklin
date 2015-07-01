@@ -50,17 +50,19 @@
       <point x="232" y="333" type="line"/>
     </contour>
     <contour>
-      <point x="517" y="10" type="move" name="ogonek"/>
+      <point x="398" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="298" y="0" type="move" name="bottom"/>
+      <point x="306" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="313" y="530" type="move" name="top"/>
+      <point x="303" y="530" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -466,6 +468,8 @@
           <integer>595</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

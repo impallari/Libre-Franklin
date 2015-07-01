@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2087" format="1">
-  <advance width="432"/>
-  <unicode hex="2087"/>
+<glyph name="three.subs" format="1">
+  <advance width="467"/>
   <outline>
-    <component base="seven.dnom" xOffset="33" yOffset="-165"/>
+    <component base="three.dnom" xOffset="34" yOffset="-165"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -15,7 +18,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>seven.dnom</string>
+          <string>three.dnom</string>
         </dict>
       </array>
     </dict>

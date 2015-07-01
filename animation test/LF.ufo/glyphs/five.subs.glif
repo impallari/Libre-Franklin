@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2088" format="1">
-  <advance width="469"/>
-  <unicode hex="2088"/>
+<glyph name="five.subs" format="1">
+  <advance width="470"/>
   <outline>
-    <component base="eight.dnom" xOffset="34" yOffset="-164"/>
+    <component base="five.dnom" xOffset="35" yOffset="-165"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
       <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
       <array>
         <dict>
@@ -15,7 +18,7 @@
           <key>index</key>
           <integer>0</integer>
           <key>name</key>
-          <string>eight.dnom</string>
+          <string>five.dnom</string>
         </dict>
       </array>
     </dict>

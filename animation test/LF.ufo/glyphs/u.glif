@@ -47,7 +47,7 @@
       <point x="365" y="64" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="542" y="10" type="move" name="ogonek"/>
+      <point x="533" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="301" y="530" type="move" name="top"/>
@@ -55,6 +55,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
@@ -455,6 +457,8 @@
           <integer>602</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
