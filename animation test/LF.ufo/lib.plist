@@ -52,7 +52,7 @@
 			<key>showMeasurements</key>
 			<true/>
 			<key>x</key>
-			<integer>385</integer>
+			<integer>-58</integer>
 			<key>y</key>
 			<integer>152</integer>
 		</dict>
@@ -505,6 +505,7 @@
 		<string>colonmonetary</string>
 		<string>currency</string>
 		<string>dollar</string>
+		<string>dong</string>
 		<string>Euro</string>
 		<string>florin</string>
 		<string>franc</string>

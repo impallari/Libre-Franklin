@@ -72,14 +72,14 @@
       <point x="274" y="-1"/>
       <point x="278" y="-5"/>
       <point x="278" y="-20" type="curve" smooth="yes"/>
-      <point x="278" y="-93" type="line" smooth="yes"/>
-      <point x="278" y="-110"/>
-      <point x="285" y="-119"/>
-      <point x="305" y="-119" type="curve" smooth="yes"/>
-      <point x="372" y="-119" type="line" smooth="yes"/>
-      <point x="394" y="-119"/>
-      <point x="403" y="-110"/>
-      <point x="403" y="-90" type="curve" smooth="yes"/>
+      <point x="278" y="-47" type="line" smooth="yes"/>
+      <point x="278" y="-64"/>
+      <point x="285" y="-73"/>
+      <point x="305" y="-73" type="curve" smooth="yes"/>
+      <point x="372" y="-73" type="line" smooth="yes"/>
+      <point x="394" y="-73"/>
+      <point x="403" y="-64"/>
+      <point x="403" y="-44" type="curve" smooth="yes"/>
       <point x="403" y="-22" type="line" smooth="yes"/>
       <point x="403" y="-6"/>
       <point x="405" y="-3"/>
@@ -121,8 +121,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -1079,8 +1077,6 @@
           <integer>687</integer>
         </dict>
       </dict>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
