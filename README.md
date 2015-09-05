@@ -1,9 +1,9 @@
-Libre Franklin Fonts
+Libre Franklin Font
 ======================
 
 ... Work in Progres ...
 
-Libre Franklin is an 1912 ATF Franklin Gothic revival
+Libre Franklin is a 1912 ATF Franklin Gothic revival
 
 ## License
 

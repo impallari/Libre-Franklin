@@ -1,7 +1,10 @@
 TO-Do:
 
+- Fix /Aringacute 
+- Add /dong /emptyset
+- Make the slash ligther in /oslash (and related ones).
+- Review Stem widths in Bold master
 - Review /I /J /K /V according to printing tests
-- Review the Red glyphs
 
 - Decitions to make:
 Caps are bolder than lowercases, as in the metal font.
@@ -41,5 +44,10 @@ Step 5: Uppercase
 
 Step 6: Completing charset
 - Adding all the missing glyphs. Punctuation, diacritics, etc.
+- Refine and test everything.
 
+Step 7: Adding a Ligth Master
+- Draw a new ligth master
 
+Step 8: Adding a Regular Master
+- Use the Regular instance as a new Regular master, and refine as needed.
