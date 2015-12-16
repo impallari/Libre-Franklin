@@ -1,9 +1,9 @@
 Libre Franklin Font
 ======================
 
-... Work in Progres ...
+Libre Franklin is a reinterpretation and expansion of the 1912 Morris Fuller Benton’s classic.
 
-Libre Franklin is a 1912 ATF Franklin Gothic revival
+... Italics in Progres ...
 
 ## License
 
