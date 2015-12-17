@@ -1,8 +1,8 @@
 {
-copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com), with Reserved Font Name Libre Franklin.";
+copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
-name = openTypeOS2Type;
+name = fsType;
 value = (
 );
 },
@@ -27,7 +27,7 @@ name = vendorID;
 value = IMPA;
 }
 );
-date = "2015-07-18 00:41:51 +0000";
+date = "2015-12-17 01:09:51 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida";
 designerURL = "http://www.impallari.com/";
 familyName = "Libre Franklin";
@@ -12444,7 +12444,7 @@ unicode = 1E92;
 {
 color = 4;
 glyphname = a;
-lastChange = "2015-12-16 12:11:09 +0000";
+lastChange = "2015-12-17 21:43:07 +0000";
 layers = (
 {
 anchors = (
@@ -13858,7 +13858,7 @@ unicode = 0062;
 {
 color = 4;
 glyphname = c;
-lastChange = "2015-12-16 11:44:07 +0000";
+lastChange = "2015-12-17 21:50:36 +0000";
 layers = (
 {
 anchors = (
@@ -14236,7 +14236,7 @@ unicode = 010B;
 {
 color = 4;
 glyphname = d;
-lastChange = "2015-12-16 11:48:55 +0000";
+lastChange = "2015-12-17 21:52:25 +0000";
 layers = (
 {
 anchors = (
@@ -15079,7 +15079,7 @@ unicode = 01C6;
 {
 color = 4;
 glyphname = e;
-lastChange = "2015-12-16 12:12:58 +0000";
+lastChange = "2015-12-17 21:51:52 +0000";
 layers = (
 {
 anchors = (
@@ -15829,7 +15829,7 @@ unicode = 1EBD;
 {
 color = 4;
 glyphname = f;
-lastChange = "2015-12-16 12:11:26 +0000";
+lastChange = "2015-12-17 21:53:39 +0000";
 layers = (
 {
 background = {
@@ -16105,7 +16105,7 @@ unicode = 0066;
 {
 color = 4;
 glyphname = g;
-lastChange = "2015-12-16 12:10:36 +0000";
+lastChange = "2015-12-17 21:43:21 +0000";
 layers = (
 {
 anchors = (
@@ -19151,7 +19151,7 @@ unicode = 0142;
 {
 color = 4;
 glyphname = m;
-lastChange = "2015-12-16 10:46:41 +0000";
+lastChange = "2015-12-17 21:43:36 +0000";
 layers = (
 {
 guideLines = (
@@ -20086,7 +20086,7 @@ unicode = 00F1;
 {
 color = 4;
 glyphname = o;
-lastChange = "2015-12-16 12:26:07 +0000";
+lastChange = "2015-12-17 21:53:14 +0000";
 layers = (
 {
 anchors = (
@@ -21216,7 +21216,7 @@ unicode = 0153;
 {
 color = 4;
 glyphname = p;
-lastChange = "2015-12-16 08:59:35 +0000";
+lastChange = "2015-12-17 21:43:49 +0000";
 layers = (
 {
 background = {
@@ -21680,7 +21680,7 @@ unicode = 00FE;
 {
 color = 4;
 glyphname = q;
-lastChange = "2015-12-16 08:59:35 +0000";
+lastChange = "2015-12-17 21:53:54 +0000";
 layers = (
 {
 background = {
@@ -21942,7 +21942,7 @@ unicode = 0071;
 {
 color = 4;
 glyphname = r;
-lastChange = "2015-12-16 11:47:42 +0000";
+lastChange = "2015-12-17 21:44:04 +0000";
 layers = (
 {
 anchors = (
@@ -22428,7 +22428,7 @@ unicode = 0213;
 {
 color = 4;
 glyphname = s;
-lastChange = "2015-12-16 12:14:16 +0000";
+lastChange = "2015-12-17 21:44:09 +0000";
 layers = (
 {
 anchors = (
@@ -23174,7 +23174,7 @@ unicode = 0259;
 {
 color = 4;
 glyphname = t;
-lastChange = "2015-12-16 12:26:20 +0000";
+lastChange = "2015-12-17 21:53:41 +0000";
 layers = (
 {
 anchors = (
@@ -24438,7 +24438,7 @@ unicode = 0169;
 {
 color = 4;
 glyphname = v;
-lastChange = "2015-12-16 12:00:52 +0000";
+lastChange = "2015-12-17 21:52:29 +0000";
 layers = (
 {
 background = {
@@ -24602,7 +24602,7 @@ unicode = 0076;
 {
 color = 4;
 glyphname = w;
-lastChange = "2015-12-16 12:00:53 +0000";
+lastChange = "2015-12-17 21:44:16 +0000";
 layers = (
 {
 anchors = (
@@ -25026,7 +25026,7 @@ unicode = 1E81;
 {
 color = 4;
 glyphname = x;
-lastChange = "2015-12-16 12:08:23 +0000";
+lastChange = "2015-12-17 21:52:47 +0000";
 layers = (
 {
 background = {
@@ -25270,7 +25270,7 @@ unicode = 0078;
 {
 color = 4;
 glyphname = y;
-lastChange = "2015-12-16 12:10:14 +0000";
+lastChange = "2015-12-17 21:44:23 +0000";
 layers = (
 {
 anchors = (
@@ -25664,7 +25664,7 @@ unicode = 1EF9;
 {
 color = 4;
 glyphname = z;
-lastChange = "2015-12-16 11:30:29 +0000";
+lastChange = "2015-12-17 21:44:28 +0000";
 layers = (
 {
 anchors = (
@@ -47907,49 +47907,168 @@ unicode = 0000;
 );
 instances = (
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin Thin";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Thin;
+},
+{
+name = weightClass;
+value = "200";
+}
+);
 interpolationWeight = 40;
-name = "40 Thin";
-weightClass = Thin;
+name = Thin;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin ExtraLight";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = ExtraLight;
+},
+{
+name = weightClass;
+value = "275";
+}
+);
 interpolationWeight = 50;
-name = "50 ExtraLigth";
-weightClass = ExtraLight;
+name = ExtraLight;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin Light";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Light;
+},
+{
+name = weightClass;
+value = "300";
+}
+);
 interpolationWeight = 66;
-name = "66 Ligth";
-weightClass = Light;
+name = Light;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Regular;
+},
+{
+name = weightClass;
+value = "400";
+}
+);
 interpolationWeight = 84;
-name = "84 Regular";
+name = Regular;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin Medium";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Medium;
+},
+{
+name = weightClass;
+value = "500";
+}
+);
 interpolationWeight = 106;
-name = "106 Medium";
-weightClass = Medium;
+name = Medium;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin SemiBold";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = SemiBold;
+},
+{
+name = weightClass;
+value = "600";
+}
+);
 interpolationWeight = 130;
-name = "130 SemiBold";
-weightClass = SemiBold;
+name = SemiBold;
 },
 {
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin Bold";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Bold;
+},
+{
+name = weightClass;
+value = "700";
+}
+);
 interpolationWeight = 154;
 isBold = 1;
-name = "154 Bold";
+name = Bold;
 weightClass = Bold;
 },
 {
-interpolationWeight = 178;
-name = "178 ExtraBold";
-weightClass = ExtraBold;
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin ExtraBold";
 },
 {
+name = openTypeNamePreferredSubfamilyName;
+value = ExtraBold;
+},
+{
+name = weightClass;
+value = "800";
+}
+);
+interpolationWeight = 178;
+name = ExtraBold;
+},
+{
+customParameters = (
+{
+name = openTypeNameCompatibleFullName;
+value = "Libre Franklin Black";
+},
+{
+name = openTypeNamePreferredSubfamilyName;
+value = Black;
+},
+{
+name = weightClass;
+value = "900";
+}
+);
 interpolationWeight = 200;
-name = "200 Black";
-weightClass = Black;
+name = Black;
 }
 );
 kerning = {
@@ -47978,10 +48097,22 @@ kerning = {
 "@MMK_R_AE" = -150;
 "@MMK_R_J" = -50;
 "@MMK_R_O" = -20;
-"@MMK_R_a" = -30;
-"@MMK_R_o" = -50;
+"@MMK_R_a" = -80;
+"@MMK_R_o" = -70;
 "@MMK_R_period" = -130;
 "@MMK_R_u" = -30;
+"@MMK_R_f" = -60;
+"@MMK_R_g" = -50;
+"@MMK_R_n" = -60;
+p = -60;
+q = -70;
+"@MMK_R_r" = -50;
+"@MMK_R_s" = -40;
+"@MMK_R_t" = -40;
+"@MMK_R_w" = -20;
+"@MMK_R_x" = -50;
+"@MMK_R_y" = -30;
+"@MMK_R_z" = -50;
 };
 "@MMK_L_G" = {
 "@MMK_R_Y" = -40;
@@ -48125,6 +48256,8 @@ adblgrave = -20;
 "@MMK_R_period" = -50;
 "@MMK_R_quoteright" = 70;
 asterisk = 10;
+"@MMK_R_o" = -20;
+q = -10;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_T" = -120;
@@ -48137,14 +48270,17 @@ asterisk = 10;
 };
 "@MMK_L_k" = {
 "@MMK_R_hyphen" = -60;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -20;
 "@MMK_R_s" = -10;
+q = -20;
 };
 "@MMK_L_o" = {
 "@MMK_R_period" = -30;
 "@MMK_R_quotesingle" = -40;
 "@MMK_R_v" = -20;
 "@MMK_R_x" = -10;
+"@MMK_R_f" = -10;
+"@MMK_R_t" = 0;
 };
 "@MMK_L_period" = {
 "@MMK_R_O" = -70;
@@ -48180,17 +48316,20 @@ asterisk = 10;
 "@MMK_R_o" = -10;
 "@MMK_R_period" = -80;
 "@MMK_R_quotesingle" = 10;
+q = -10;
 };
 "@MMK_L_v" = {
-"@MMK_R_o" = -20;
+"@MMK_R_o" = -30;
 "@MMK_R_period" = -70;
+q = -30;
 };
 "@MMK_L_w" = {
 "@MMK_R_period" = -70;
 };
 "@MMK_L_x" = {
 "@MMK_R_hyphen" = -60;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -20;
+q = -10;
 };
 "@MMK_L_y" = {
 "@MMK_R_period" = -60;
@@ -48227,6 +48366,18 @@ j = 40;
 t = {
 "@MMK_R_quoteright" = 30;
 "@MMK_R_quotesingle" = 10;
+"@MMK_R_o" = -10;
+};
+b = {
+"@MMK_R_v" = -30;
+"@MMK_R_x" = -10;
+"@MMK_R_f" = -10;
+"@MMK_R_t" = 0;
+};
+p = {
+"@MMK_R_v" = -30;
+"@MMK_R_x" = -10;
+"@MMK_R_f" = -10;
 };
 };
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = {
@@ -48255,10 +48406,23 @@ t = {
 "@MMK_R_AE" = -160;
 "@MMK_R_J" = -80;
 "@MMK_R_O" = -70;
-"@MMK_R_a" = -80;
-"@MMK_R_o" = -90;
+"@MMK_R_a" = -100;
+"@MMK_R_o" = -100;
 "@MMK_R_period" = -130;
 "@MMK_R_u" = -50;
+"@MMK_R_f" = -60;
+"@MMK_R_g" = -100;
+"@MMK_R_n" = -80;
+p = -90;
+q = -80;
+"@MMK_R_r" = -70;
+"@MMK_R_s" = -90;
+"@MMK_R_t" = -50;
+"@MMK_R_v" = -80;
+"@MMK_R_w" = -70;
+"@MMK_R_x" = -100;
+"@MMK_R_y" = -100;
+"@MMK_R_z" = -100;
 };
 "@MMK_L_G" = {
 "@MMK_R_Y" = -50;
@@ -48402,6 +48566,7 @@ adblgrave = -30;
 "@MMK_R_parenright" = 50;
 "@MMK_R_period" = -30;
 "@MMK_R_quoteright" = 50;
+q = -20;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_T" = -120;
@@ -48416,12 +48581,15 @@ adblgrave = -30;
 "@MMK_R_hyphen" = -50;
 "@MMK_R_o" = -50;
 "@MMK_R_s" = -20;
+q = -50;
 };
 "@MMK_L_o" = {
 "@MMK_R_period" = -20;
 "@MMK_R_quotesingle" = -20;
 "@MMK_R_v" = -30;
 "@MMK_R_x" = -50;
+"@MMK_R_f" = -20;
+"@MMK_R_t" = -20;
 };
 "@MMK_L_period" = {
 "@MMK_R_O" = -40;
@@ -48454,10 +48622,12 @@ adblgrave = -30;
 "@MMK_R_o" = -20;
 "@MMK_R_period" = -90;
 "@MMK_R_quotesingle" = 10;
+q = -20;
 };
 "@MMK_L_v" = {
 "@MMK_R_o" = -30;
 "@MMK_R_period" = -70;
+q = -30;
 };
 "@MMK_L_w" = {
 "@MMK_R_period" = -70;
@@ -48468,6 +48638,7 @@ adblgrave = -30;
 "@MMK_R_o" = -50;
 "@MMK_R_t" = -50;
 "@MMK_R_y" = -40;
+q = -50;
 };
 "@MMK_L_y" = {
 "@MMK_R_g" = -20;
@@ -48516,6 +48687,20 @@ j = 90;
 };
 t = {
 "@MMK_R_quoteright" = 20;
+"@MMK_R_o" = -20;
+q = -20;
+};
+b = {
+"@MMK_R_v" = -30;
+"@MMK_R_x" = -50;
+"@MMK_R_f" = -20;
+"@MMK_R_t" = -20;
+};
+p = {
+"@MMK_R_v" = -30;
+"@MMK_R_x" = -50;
+"@MMK_R_f" = -20;
+"@MMK_R_t" = -10;
 };
 };
 };
@@ -48549,5 +48734,5 @@ tH = 35;
 };
 };
 versionMajor = 0;
-versionMinor = 43;
+versionMinor = 45;
 }
