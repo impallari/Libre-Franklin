@@ -1,9 +1,7 @@
 Libre Franklin Font
 ======================
 
-Libre Franklin is a reinterpretation and expansion of the 1912 Morris Fuller Benton’s classic.
-
-Romans are Ready, Italics in Progres...
+Libre Franklin is an interpretation and expancion based on the 1912 Morris Fuller Benton’s classic.
 
 #### Libre Franklin covers all 104 Latin Languages:
 
