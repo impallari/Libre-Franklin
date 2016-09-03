@@ -5756,7 +5756,7 @@ unicode = 1E24;
 },
 {
 glyphname = I;
-lastChange = "2016-09-02 21:56:08 +0000";
+lastChange = "2016-09-03 06:17:36 +0000";
 layers = (
 {
 anchors = (
@@ -5846,7 +5846,7 @@ position = "{100, 0}";
 },
 {
 name = ogonek;
-position = "{113, 10}";
+position = "{115, 11}";
 },
 {
 name = top;
@@ -6286,7 +6286,7 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2016-09-02 21:56:08 +0000";
+lastChange = "2016-09-03 06:17:36 +0000";
 layers = (
 {
 components = (
@@ -6307,9 +6307,9 @@ components = (
 name = I;
 },
 {
-alignment = -1;
+alignment = 1;
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, -36, -1}";
+transform = "{1, 0, 0, 1, 1, -1}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -64124,7 +64124,6 @@ q = -70;
 "@MMK_R_s" = -40;
 "@MMK_R_u" = -60;
 "@MMK_R_y" = -30;
-adblgrave = -20;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -90;
@@ -64434,7 +64433,6 @@ q = -80;
 "@MMK_R_s" = -70;
 "@MMK_R_u" = -50;
 "@MMK_R_y" = -50;
-adblgrave = -30;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -120;
