@@ -1,5 +1,5 @@
 {
-.appVersion = "936";
+.appVersion = "937";
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
@@ -28,10 +28,10 @@ name = vendorID;
 value = IMPA;
 }
 );
-date = "2016-09-02 18:59:26 +0000";
+date = "2016-11-15 03:14:49 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Nhung Nguyen";
 designerURL = "http://www.impallari.com/";
-familyName = "Libre Franklin Italic";
+familyName = "Libre Franklin Italics";
 featurePrefixes = (
 {
 automatic = 1;
@@ -42189,7 +42189,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2016-09-02 21:56:08 +0000";
+lastChange = "2016-11-15 03:14:26 +0000";
 layers = (
 {
 background = {
@@ -42267,39 +42267,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"213 411 LINE SMOOTH",
-"224 411 OFFCURVE",
-"236 424 OFFCURVE",
-"238 438 CURVE SMOOTH",
-"257 570 LINE SMOOTH",
-"259 586 OFFCURVE",
-"257 586 OFFCURVE",
-"239 588 CURVE SMOOTH",
-"224 590 LINE SMOOTH",
-"209 593 OFFCURVE",
-"205 605 OFFCURVE",
-"213 623 CURVE SMOOTH",
-"271 725 LINE SMOOTH",
-"276 735 OFFCURVE",
-"276 742 OFFCURVE",
-"264 742 CURVE SMOOTH",
-"248 742 LINE SMOOTH",
-"234 742 OFFCURVE",
-"212 730 OFFCURVE",
-"202 716 CURVE SMOOTH",
-"80 565 LINE SMOOTH",
-"78 562 OFFCURVE",
-"73 556 OFFCURVE",
-"72 550 CURVE SMOOTH",
-"54 423 LINE SMOOTH",
-"53 412 OFFCURVE",
-"55 411 OFFCURVE",
-"66 411 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
 "469 411 LINE SMOOTH",
 "480 411 OFFCURVE",
 "492 424 OFFCURVE",
@@ -42328,6 +42295,39 @@ nodes = (
 "309 412 OFFCURVE",
 "311 411 OFFCURVE",
 "322 411 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"213 411 LINE SMOOTH",
+"224 411 OFFCURVE",
+"236 424 OFFCURVE",
+"238 438 CURVE SMOOTH",
+"257 570 LINE SMOOTH",
+"259 586 OFFCURVE",
+"257 586 OFFCURVE",
+"239 588 CURVE SMOOTH",
+"224 590 LINE SMOOTH",
+"209 593 OFFCURVE",
+"205 605 OFFCURVE",
+"213 623 CURVE SMOOTH",
+"271 725 LINE SMOOTH",
+"276 735 OFFCURVE",
+"276 742 OFFCURVE",
+"264 742 CURVE SMOOTH",
+"248 742 LINE SMOOTH",
+"234 742 OFFCURVE",
+"212 730 OFFCURVE",
+"202 716 CURVE SMOOTH",
+"80 565 LINE SMOOTH",
+"78 562 OFFCURVE",
+"73 556 OFFCURVE",
+"72 550 CURVE SMOOTH",
+"54 423 LINE SMOOTH",
+"53 412 OFFCURVE",
+"55 411 OFFCURVE",
+"66 411 CURVE SMOOTH"
 );
 }
 );
@@ -65253,5 +65253,5 @@ tH = 35;
 };
 };
 versionMajor = 1;
-versionMinor = 14;
+versionMinor = 15;
 }

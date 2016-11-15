@@ -1,5 +1,5 @@
 {
-.appVersion = "936";
+.appVersion = "937";
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
@@ -28,7 +28,7 @@ name = vendorID;
 value = IMPA;
 }
 );
-date = "2016-09-06 20:22:19 +0000";
+date = "2016-11-15 03:13:29 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Nhung Nguyen";
 designerURL = "http://www.impallari.com/";
 familyName = "Libre Franklin";
@@ -17513,7 +17513,7 @@ unicode = 00E6;
 },
 {
 glyphname = aeacute;
-lastChange = "2016-09-03 08:14:17 +0000";
+lastChange = "2016-11-15 03:12:56 +0000";
 layers = (
 {
 components = (
@@ -17522,11 +17522,11 @@ name = ae;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 296, 0}";
+transform = "{1, 0, 0, 1, 286, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 915;
+width = 905;
 },
 {
 components = (
@@ -64766,5 +64766,5 @@ tH = 35;
 };
 };
 versionMajor = 1;
-versionMinor = 14;
+versionMinor = 15;
 }
