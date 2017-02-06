@@ -4,6 +4,24 @@
   <unicode hex="04F6"/>
   <outline>
     <contour>
+      <point x="160" y="40" type="line"/>
+      <point x="197" y="40" type="line" smooth="yes"/>
+      <point x="204" y="40"/>
+      <point x="206" y="38"/>
+      <point x="206" y="30" type="curve" smooth="yes"/>
+      <point x="206" y="-130" type="line" smooth="yes"/>
+      <point x="206" y="-137"/>
+      <point x="203" y="-140"/>
+      <point x="197" y="-140" type="curve" smooth="yes"/>
+      <point x="170" y="-140" type="line" smooth="yes"/>
+      <point x="163" y="-140"/>
+      <point x="160" y="-138"/>
+      <point x="160" y="-131" type="curve" smooth="yes"/>
+      <point x="160" y="0" type="line"/>
+      <point x="124" y="0" type="line" smooth="yes"/>
+      <point x="117" y="0"/>
+      <point x="114" y="2"/>
+      <point x="114" y="10" type="curve" smooth="yes"/>
       <point x="114" y="732" type="line" smooth="yes"/>
       <point x="114" y="740"/>
       <point x="116" y="742"/>
@@ -20,14 +38,6 @@
       <point x="162" y="702"/>
       <point x="160" y="701"/>
       <point x="160" y="693" type="curve"/>
-      <point x="160" y="7" type="line"/>
-      <point x="160" y="2"/>
-      <point x="158" y="0"/>
-      <point x="153" y="0" type="curve" smooth="yes"/>
-      <point x="123" y="0" type="line" smooth="yes"/>
-      <point x="116" y="0"/>
-      <point x="114" y="2"/>
-      <point x="114" y="10" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -36,12 +46,6 @@
       <dict>
         <key>hhints</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
           <dict>
             <key>position</key>
             <integer>702</integer>
@@ -54,6 +58,12 @@
           <dict>
             <key>position</key>
             <integer>114</integer>
+            <key>width</key>
+            <integer>46</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>160</integer>
             <key>width</key>
             <integer>46</integer>
           </dict>
