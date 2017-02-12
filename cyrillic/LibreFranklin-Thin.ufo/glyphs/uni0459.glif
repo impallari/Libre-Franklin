@@ -6,7 +6,8 @@
     <contour>
       <point x="48" y="0" type="curve" smooth="yes"/>
       <point x="46" y="0"/>
-      <point x="41" y="0" type="line" smooth="yes"/>
+      <point x="41" y="0"/>
+      <point x="41" y="0" type="curve" smooth="yes"/>
       <point x="33" y="0"/>
       <point x="30" y="2"/>
       <point x="30" y="10" type="curve" smooth="yes"/>
@@ -14,6 +15,7 @@
       <point x="30" y="37"/>
       <point x="34" y="40"/>
       <point x="41" y="40" type="curve" smooth="yes"/>
+      <point x="41" y="40"/>
       <point x="46" y="40"/>
       <point x="48" y="40" type="curve" smooth="yes"/>
       <point x="123" y="40"/>

@@ -4,24 +4,6 @@
   <unicode hex="0498"/>
   <outline>
     <contour>
-      <point x="275" y="12" type="curve" smooth="yes"/>
-      <point x="303" y="12" type="line" smooth="yes"/>
-      <point x="310" y="12"/>
-      <point x="312" y="10"/>
-      <point x="312" y="2" type="curve" smooth="yes"/>
-      <point x="312" y="-128" type="line" smooth="yes"/>
-      <point x="312" y="-138"/>
-      <point x="310" y="-140"/>
-      <point x="300" y="-140" type="curve" smooth="yes"/>
-      <point x="277" y="-140" type="line" smooth="yes"/>
-      <point x="268" y="-140"/>
-      <point x="266" y="-138"/>
-      <point x="266" y="-130" type="curve" smooth="yes"/>
-      <point x="266" y="2" type="line" smooth="yes"/>
-      <point x="266" y="10"/>
-      <point x="268" y="12"/>
-    </contour>
-    <contour>
       <point x="85" y="645" type="line" smooth="yes"/>
       <point x="82" y="649"/>
       <point x="82" y="654"/>
@@ -39,11 +21,20 @@
       <point x="474" y="368"/>
       <point x="553" y="316"/>
       <point x="553" y="199" type="curve" smooth="yes"/>
-      <point x="553" y="86"/>
-      <point x="463" y="-10"/>
-      <point x="285" y="-10" type="curve" smooth="yes"/>
-      <point x="192" y="-10"/>
-      <point x="123" y="15"/>
+      <point x="553" y="92"/>
+      <point x="472" y="0"/>
+      <point x="312" y="-9" type="curve"/>
+      <point x="312" y="-128" type="line" smooth="yes"/>
+      <point x="312" y="-138"/>
+      <point x="310" y="-140"/>
+      <point x="300" y="-140" type="curve" smooth="yes"/>
+      <point x="277" y="-140" type="line" smooth="yes"/>
+      <point x="268" y="-140"/>
+      <point x="266" y="-138"/>
+      <point x="266" y="-130" type="curve" smooth="yes"/>
+      <point x="266" y="-10" type="line"/>
+      <point x="182" y="-6"/>
+      <point x="118" y="20"/>
       <point x="53" y="85" type="curve" smooth="yes"/>
       <point x="49" y="89"/>
       <point x="48" y="89"/>
@@ -94,7 +85,7 @@
             <key>position</key>
             <integer>-10</integer>
             <key>width</key>
-            <integer>22</integer>
+            <integer>42</integer>
           </dict>
           <dict>
             <key>position</key>
