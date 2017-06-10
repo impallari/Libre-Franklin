@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043B" format="1">
-  <advance width="543"/>
+  <advance width="603"/>
   <unicode hex="043B"/>
   <outline>
     <contour>
@@ -28,22 +28,22 @@
       <point x="150" y="527"/>
       <point x="154" y="530"/>
       <point x="161" y="530" type="curve" smooth="yes"/>
-      <point x="465" y="530" type="line" smooth="yes"/>
-      <point x="471" y="530"/>
-      <point x="473" y="527"/>
-      <point x="473" y="520" type="curve" smooth="yes"/>
-      <point x="473" y="11" type="line" smooth="yes"/>
-      <point x="473" y="4"/>
-      <point x="470" y="-0"/>
-      <point x="463" y="0" type="curve" smooth="yes"/>
-      <point x="441" y="0" type="line" smooth="yes"/>
-      <point x="434" y="0"/>
-      <point x="433" y="4"/>
-      <point x="433" y="13" type="curve" smooth="yes"/>
-      <point x="433" y="486" type="line" smooth="yes"/>
-      <point x="433" y="491"/>
-      <point x="430" y="495"/>
-      <point x="422" y="495" type="curve" smooth="yes"/>
+      <point x="499" y="530" type="line" smooth="yes"/>
+      <point x="505" y="530"/>
+      <point x="507" y="527"/>
+      <point x="507" y="520" type="curve" smooth="yes"/>
+      <point x="507" y="11" type="line" smooth="yes"/>
+      <point x="507" y="4"/>
+      <point x="504" y="0"/>
+      <point x="497" y="0" type="curve" smooth="yes"/>
+      <point x="475" y="0" type="line" smooth="yes"/>
+      <point x="468" y="0"/>
+      <point x="467" y="4"/>
+      <point x="467" y="13" type="curve" smooth="yes"/>
+      <point x="467" y="486" type="line" smooth="yes"/>
+      <point x="467" y="491"/>
+      <point x="464" y="495"/>
+      <point x="456" y="495" type="curve" smooth="yes"/>
       <point x="197" y="495" type="line" smooth="yes"/>
       <point x="192" y="495"/>
       <point x="190" y="493"/>
@@ -85,7 +85,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>433</integer>
+            <integer>467</integer>
             <key>width</key>
             <integer>40</integer>
           </dict>

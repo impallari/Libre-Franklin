@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044A" format="1">
-  <advance width="549"/>
+  <advance width="590"/>
   <unicode hex="044A"/>
   <outline>
     <contour>
-      <point x="343" y="38" type="line" smooth="yes"/>
-      <point x="413" y="38"/>
-      <point x="457" y="78"/>
-      <point x="457" y="143" type="curve" smooth="yes"/>
-      <point x="457" y="198"/>
-      <point x="412" y="250"/>
-      <point x="342" y="250" type="curve" smooth="yes"/>
+      <point x="374" y="38" type="line" smooth="yes"/>
+      <point x="444" y="38"/>
+      <point x="488" y="78"/>
+      <point x="488" y="143" type="curve" smooth="yes"/>
+      <point x="488" y="198"/>
+      <point x="443" y="250"/>
+      <point x="373" y="250" type="curve" smooth="yes"/>
       <point x="190" y="250" type="line"/>
       <point x="190" y="38" type="line"/>
     </contour>
@@ -20,13 +20,13 @@
       <point x="190" y="528"/>
       <point x="190" y="520" type="curve" smooth="yes"/>
       <point x="190" y="288" type="line"/>
-      <point x="342" y="288" type="line" smooth="yes"/>
-      <point x="447" y="288"/>
-      <point x="499" y="228"/>
-      <point x="499" y="143" type="curve" smooth="yes"/>
-      <point x="499" y="53"/>
-      <point x="446" y="0"/>
-      <point x="341" y="0" type="curve" smooth="yes"/>
+      <point x="373" y="288" type="line" smooth="yes"/>
+      <point x="478" y="288"/>
+      <point x="530" y="228"/>
+      <point x="530" y="143" type="curve" smooth="yes"/>
+      <point x="530" y="53"/>
+      <point x="477" y="0"/>
+      <point x="372" y="0" type="curve" smooth="yes"/>
       <point x="161" y="0" type="line" smooth="yes"/>
       <point x="152" y="0"/>
       <point x="150" y="2"/>
@@ -77,7 +77,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>457</integer>
+            <integer>488</integer>
             <key>width</key>
             <integer>42</integer>
           </dict>

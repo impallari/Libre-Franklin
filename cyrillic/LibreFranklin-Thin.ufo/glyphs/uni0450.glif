@@ -3,7 +3,7 @@
   <advance width="577"/>
   <unicode hex="0450"/>
   <outline>
-    <component base="gravecomb" xOffset="329.912" yOffset="-29.0639"/>
+    <component base="gravecomb" xOffset="329.909" yOffset="0.9361"/>
     <component base="uni0435"/>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>702</integer>
+            <integer>732</integer>
             <key>width</key>
             <integer>20</integer>
           </dict>
@@ -41,7 +41,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>56</integer>
             <key>width</key>
             <integer>42</integer>
           </dict>
@@ -53,7 +53,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>490</integer>
+            <integer>486</integer>
             <key>width</key>
             <integer>42</integer>
           </dict>

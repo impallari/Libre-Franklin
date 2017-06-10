@@ -2,7 +2,7 @@
 <glyph name="uni045D.loclBGR" format="1">
   <advance width="571"/>
   <outline>
-    <component base="gravecomb" xOffset="308.5" yOffset="-29.0639"/>
+    <component base="gravecomb" xOffset="308.5" yOffset="0.9361"/>
     <component base="uni0438.loclBGR"/>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>702</integer>
+            <integer>732</integer>
             <key>width</key>
             <integer>20</integer>
           </dict>
