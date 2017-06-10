@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="272"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="255" y="752" type="curve" smooth="yes"/>
+      <point x="265" y="720" type="line" smooth="yes"/>
+      <point x="267" y="714"/>
+      <point x="266" y="711"/>
+      <point x="258" y="708" type="curve" smooth="yes"/>
+      <point x="31" y="634" type="line" smooth="yes"/>
+      <point x="25" y="632"/>
+      <point x="22" y="633"/>
+      <point x="20" y="639" type="curve" smooth="yes"/>
+      <point x="15" y="654" type="line" smooth="yes"/>
+      <point x="13" y="659"/>
+      <point x="15" y="663"/>
+      <point x="18" y="664" type="curve" smooth="yes"/>
+      <point x="247" y="755" type="line" smooth="yes"/>
+      <point x="250" y="756"/>
+      <point x="254" y="755"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>732</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>15</integer>
+            <key>width</key>
+            <integer>251</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

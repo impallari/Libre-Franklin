@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni042C" format="1">
+  <advance width="686"/>
+  <unicode hex="042C"/>
+  <outline>
+    <contour>
+      <point x="611" y="207" type="curve" smooth="yes"/>
+      <point x="611" y="58"/>
+      <point x="500" y="0"/>
+      <point x="345" y="0" type="curve" smooth="yes"/>
+      <point x="123" y="0" type="line" smooth="yes"/>
+      <point x="116" y="0"/>
+      <point x="114" y="2"/>
+      <point x="114" y="10" type="curve" smooth="yes"/>
+      <point x="114" y="734" type="line" smooth="yes"/>
+      <point x="114" y="739"/>
+      <point x="117" y="742"/>
+      <point x="122" y="742" type="curve" smooth="yes"/>
+      <point x="152" y="742" type="line" smooth="yes"/>
+      <point x="157" y="742"/>
+      <point x="160" y="739"/>
+      <point x="160" y="733" type="curve" smooth="yes"/>
+      <point x="160" y="424" type="line" smooth="yes"/>
+      <point x="160" y="418"/>
+      <point x="162" y="415"/>
+      <point x="168" y="415" type="curve" smooth="yes"/>
+      <point x="351" y="415" type="line" smooth="yes"/>
+      <point x="502" y="415"/>
+      <point x="611" y="355"/>
+    </contour>
+    <contour>
+      <point x="563" y="204" type="curve" smooth="yes"/>
+      <point x="563" y="327"/>
+      <point x="479" y="375"/>
+      <point x="351" y="375" type="curve" smooth="yes"/>
+      <point x="167" y="375" type="line" smooth="yes"/>
+      <point x="162" y="375"/>
+      <point x="160" y="372"/>
+      <point x="160" y="365" type="curve" smooth="yes"/>
+      <point x="160" y="48" type="line" smooth="yes"/>
+      <point x="160" y="42"/>
+      <point x="163" y="40"/>
+      <point x="169" y="40" type="curve" smooth="yes"/>
+      <point x="344" y="40" type="line" smooth="yes"/>
+      <point x="479" y="40"/>
+      <point x="563" y="80"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>375</integer>
+            <key>width</key>
+            <integer>40</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>722</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>114</integer>
+            <key>width</key>
+            <integer>46</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>563</integer>
+            <key>width</key>
+            <integer>48</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
