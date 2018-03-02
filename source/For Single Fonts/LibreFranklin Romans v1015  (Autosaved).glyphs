@@ -54,7 +54,8 @@ K/kip,
 /dieresiscomb/Odieresismacron/odieresismacron/tildecomb/Otildemacron/otildemacron/dotaccentcomb/Odotaccentmacron/odotaccentmacron/Ymacron/ymacron,
 /tildecomb/Otildeacute/otildeacute/Otildedieresis/otildedieresis/macroncomb/Omacrongrave/omacrongrave/Omacronacute/omacronacute,
 /acutecomb/Sacutedotaccent/sacutedotaccent/caroncomb/Scarondotaccent/scarondotaccent/Sdotbelowdotaccent/sdotbelowdotaccent,
-/acutecomb/Sacutedotaccent
+/acutecomb/Sacutedotaccent,
+" /figurespace/punctuationspace/thinspace/hairspace/zerowidthspace"
 );
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
@@ -47932,11 +47933,11 @@ unicode = 2007;
 {
 color = 4;
 glyphname = hairspace;
-lastChange = "2018-03-01 11:50:26 +0000";
+lastChange = "2018-03-02 16:04:28 +0000";
 layers = (
 {
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 600;
+width = 100;
 },
 {
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -47944,15 +47945,16 @@ width = 600;
 }
 );
 unicode = 200A;
+changeCount = 1;
 },
 {
 color = 4;
 glyphname = punctuationspace;
-lastChange = "2018-03-01 11:50:26 +0000";
+lastChange = "2018-03-02 16:04:13 +0000";
 layers = (
 {
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 600;
+width = 200;
 },
 {
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -47960,6 +47962,7 @@ width = 600;
 }
 );
 unicode = 2008;
+changeCount = 1;
 },
 {
 glyphname = space;
@@ -47994,11 +47997,11 @@ unicode = 00A0;
 {
 color = 4;
 glyphname = thinspace;
-lastChange = "2018-03-01 11:50:26 +0000";
+lastChange = "2018-03-02 16:04:20 +0000";
 layers = (
 {
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 600;
+width = 200;
 },
 {
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -48006,15 +48009,16 @@ width = 600;
 }
 );
 unicode = 2009;
+changeCount = 1;
 },
 {
 color = 4;
 glyphname = zerowidthspace;
-lastChange = "2018-03-01 11:50:26 +0000";
+lastChange = "2018-03-02 16:04:34 +0000";
 layers = (
 {
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 600;
+width = 0;
 },
 {
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -48022,6 +48026,7 @@ width = 600;
 }
 );
 unicode = 200B;
+changeCount = 1;
 },
 {
 color = 8;
