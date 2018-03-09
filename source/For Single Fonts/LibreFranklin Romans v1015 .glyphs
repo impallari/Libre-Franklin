@@ -4,7 +4,8 @@ DisplayStrings = (
 "/ustrait-cy y",
 "/Ze-cy c/Ze-cy ca/ze-cy ae",
 "/ef-cy/er-cy/a-cy/en-cy/tse-cy/u-cy/ze-cy/es-cy/ka-cy/ii-cy/iishort-cy",
-"/en-cy r/ka-cy/el-cy r/u-cy j/zhe-cy/en-cy \012/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy \012/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy"
+"/en-cy r/ka-cy/el-cy r/u-cy j/zhe-cy/en-cy \012/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy \012/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy/ka-cy",
+"/ka-cy/kje-cy"
 );
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
@@ -43403,9 +43404,23 @@ unicode = 0439;
 },
 {
 glyphname = "ka-cy";
-lastChange = "2018-03-08 13:58:57 +0000";
+lastChange = "2018-03-09 14:58:50 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottomright;
+position = "{563, 0}";
+},
+{
+name = center;
+position = "{292, 265}";
+},
+{
+name = top;
+position = "{292, 530}";
+}
+);
 background = {
 components = (
 {
@@ -43529,6 +43544,20 @@ nodes = (
 width = 583;
 },
 {
+anchors = (
+{
+name = bottomright;
+position = "{532, 0}";
+},
+{
+name = center;
+position = "{276, 265}";
+},
+{
+name = top;
+position = "{276, 530}";
+}
+);
 background = {
 paths = (
 {
@@ -43665,7 +43694,7 @@ unicode = 043A;
 },
 {
 glyphname = "kje-cy";
-lastChange = "2018-03-07 12:22:59 +0000";
+lastChange = "2018-03-09 14:58:50 +0000";
 layers = (
 {
 components = (
@@ -43674,10 +43703,11 @@ name = "ka-cy";
 },
 {
 name = acutecomb;
+transform = "{1, 0, 0, 1, 156, 0}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 600;
+width = 583;
 },
 {
 components = (
@@ -43686,10 +43716,11 @@ name = "ka-cy";
 },
 {
 name = acutecomb;
+transform = "{1, 0, 0, 1, 116, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 600;
+width = 552;
 }
 );
 unicode = 045C;
@@ -48594,7 +48625,7 @@ unicode = 0493;
 },
 {
 glyphname = "zhedescender-cy";
-lastChange = "2018-03-08 13:59:42 +0000";
+lastChange = "2018-03-09 14:58:33 +0000";
 layers = (
 {
 components = (
@@ -48616,18 +48647,18 @@ name = "zhe-cy";
 },
 {
 name = "descender-cy";
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 812, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 847;
+width = 1059;
 }
 );
 unicode = 0497;
 },
 {
 glyphname = "kadescender-cy";
-lastChange = "2018-03-08 13:29:49 +0000";
+lastChange = "2018-03-09 14:58:33 +0000";
 layers = (
 {
 components = (
@@ -48649,11 +48680,11 @@ name = "ka-cy";
 },
 {
 name = "descender-cy";
-transform = "{1, 0, 0, 1, 600, 0}";
+transform = "{1, 0, 0, 1, 552, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 847;
+width = 799;
 }
 );
 unicode = 049B;
