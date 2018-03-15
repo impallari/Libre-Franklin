@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"HK/Yusbig-cy/Yusbig-cy/de-cy/yusbig-cy/de-cy/Zhe-cy/_corner.UPPER/_corner.BIG H/yusbig-cy/de-cy/yusbig-cy/de-cy \012/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy y/yusbig-cy/zhe-cy/zhe-cy/zhe-cy \012/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/yusbig-cy/zhe-cy/zhe-cy/zhe-cy/zhe-cy \012"
-);
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
@@ -31,7 +28,7 @@ name = vendorID;
 value = IMPA;
 }
 );
-date = "2016-11-15 03:13:29 +0000";
+date = "2018-03-15 10:45:01 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Nhung Nguyen";
 designerURL = "http://www.impallari.com/";
 familyName = "Libre Franklin";
@@ -59794,7 +59791,7 @@ unicode = 0463;
 {
 color = 9;
 glyphname = "yusbig-cy";
-lastChange = "2018-03-15 10:30:29 +0000";
+lastChange = "2018-03-15 10:34:33 +0000";
 layers = (
 {
 background = {
@@ -59805,15 +59802,44 @@ transform = "{1, 0, 0, 1, 30, 0}";
 }
 );
 };
+hints = (
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 10}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 19}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 20}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 0}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 29}";
+type = Corner;
+name = _corner.low;
+}
+);
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
 paths = (
 {
 closed = 1;
 nodes = (
-"68 0 LINE SMOOTH",
-"73 0 OFFCURVE",
-"76 2 OFFCURVE",
-"77 7 CURVE",
+"75 0 LINE",
 "134 184 LINE SMOOTH",
 "153 244 OFFCURVE",
 "179 261 OFFCURVE",
@@ -59822,14 +59848,8 @@ nodes = (
 "305 261 OFFCURVE",
 "307 259 OFFCURVE",
 "307 254 CURVE SMOOTH",
-"307 8 LINE SMOOTH",
-"307 2 OFFCURVE",
-"308 0 OFFCURVE",
-"314 0 CURVE SMOOTH",
-"339 0 LINE SMOOTH",
-"345 0 OFFCURVE",
-"347 2 OFFCURVE",
-"347 7 CURVE SMOOTH",
+"307 0 LINE",
+"347 0 LINE",
 "347 254 LINE SMOOTH",
 "347 259 OFFCURVE",
 "349 261 OFFCURVE",
@@ -59838,14 +59858,8 @@ nodes = (
 "470 261 OFFCURVE",
 "499 245 OFFCURVE",
 "519 184 CURVE SMOOTH",
-"576 6 LINE SMOOTH",
-"577 2 OFFCURVE",
-"581 0 OFFCURVE",
-"587 0 CURVE SMOOTH",
-"609 0 LINE SMOOTH",
-"615 0 OFFCURVE",
-"616 2 OFFCURVE",
-"613 8 CURVE",
+"578 0 LINE",
+"615 0 LINE",
 "557 185 LINE SMOOTH",
 "534 259 OFFCURVE",
 "502 296 OFFCURVE",
@@ -59854,10 +59868,7 @@ nodes = (
 "148 296 OFFCURVE",
 "119 258 OFFCURVE",
 "96 185 CURVE SMOOTH",
-"40 7 LINE SMOOTH",
-"38 2 OFFCURVE",
-"39 0 OFFCURVE",
-"46 0 CURVE SMOOTH"
+"38 0 LINE"
 );
 },
 {
@@ -59896,15 +59907,44 @@ nodes = (
 width = 655;
 },
 {
+hints = (
+{
+origin = "{0, 0}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 10}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 19}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 20}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 29}";
+type = Corner;
+name = _corner.low;
+}
+);
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
 paths = (
 {
 closed = 1;
 nodes = (
-"206 0 LINE SMOOTH",
-"216 0 OFFCURVE",
-"223 6 OFFCURVE",
-"225 19 CURVE SMOOTH",
+"222 0 LINE",
 "250 167 LINE SMOOTH",
 "257 207 OFFCURVE",
 "283 207 OFFCURVE",
@@ -59913,30 +59953,18 @@ nodes = (
 "306 207 OFFCURVE",
 "311 201 OFFCURVE",
 "311 195 CURVE SMOOTH",
-"311 21 LINE SMOOTH",
-"311 7 OFFCURVE",
-"316 0 OFFCURVE",
-"334 0 CURVE SMOOTH",
-"480 0 LINE SMOOTH",
-"500 0 OFFCURVE",
-"509 7 OFFCURVE",
-"509 25 CURVE SMOOTH",
+"311 0 LINE",
+"509 0 LINE",
 "509 195 LINE SMOOTH",
 "509 201 OFFCURVE",
 "514 207 OFFCURVE",
 "522 207 CURVE SMOOTH",
 "523 207 LINE SMOOTH",
 "538 207 OFFCURVE",
-"564 206 OFFCURVE",
+"565 206 OFFCURVE",
 "571 166 CURVE SMOOTH",
-"596 15 LINE SMOOTH",
-"597 6 OFFCURVE",
-"605 0 OFFCURVE",
-"618 0 CURVE SMOOTH",
-"774 0 LINE SMOOTH",
-"784 0 OFFCURVE",
-"790 7 OFFCURVE",
-"788 19 CURVE SMOOTH",
+"598 0 LINE",
+"792 0 LINE",
 "751 211 LINE SMOOTH",
 "739 275 OFFCURVE",
 "680 302 OFFCURVE",
@@ -59945,10 +59973,7 @@ nodes = (
 "141 302 OFFCURVE",
 "83 275 OFFCURVE",
 "71 211 CURVE SMOOTH",
-"33 16 LINE SMOOTH",
-"31 6 OFFCURVE",
-"38 0 OFFCURVE",
-"50 0 CURVE SMOOTH"
+"30 0 LINE"
 );
 },
 {
@@ -59971,9 +59996,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"525 244 LINE",
+"515 244 LINE",
 "727 503 LINE SMOOTH",
-"736 515 OFFCURVE",
+"737 515 OFFCURVE",
 "727 530 OFFCURVE",
 "707 530 CURVE SMOOTH",
 "99 530 LINE SMOOTH",
@@ -104721,5 +104746,5 @@ tH = 35;
 };
 };
 versionMajor = 1;
-versionMinor = 15;
+versionMinor = 500;
 }
