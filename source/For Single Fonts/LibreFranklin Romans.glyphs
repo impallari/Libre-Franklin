@@ -1,11 +1,15 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"H/Ghemiddlehook-cy Y",
-"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/EnLeftHook-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Be-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Ge-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/De-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Zhe-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Ze-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Iishorttail-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Ka-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/El-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Te-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/U-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Ef-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Che-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Softsign-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Hardsign-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Lje-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/E-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Ereversed-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Tshe-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Iu-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Ia-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Izhitsa-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Zhedescender-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Kadescender-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Kabashkir-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Haabkhasian-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Hadescender-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Chedescenderabkhasian-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Eltail-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/O-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Ha-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Reversedze-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/Ertick-cy/Ghemiddlehook-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/be-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ve-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ge-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/de-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/zhe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ii-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/iishorttail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ka-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/el-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/te-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ef-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/che-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/softsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/hardsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/lje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/e-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ereversed-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/tshe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/iu-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ia-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/dje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/yat-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/de-cy/yusbig-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/fita-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/u-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/zhedescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/kadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/kastroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/kabashkir-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/haabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/hadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/chedescenderabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/eltail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ha-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy",
-"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/EnLeftHook-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Be-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ge-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/De-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhe-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ze-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iishorttail-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ka-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/El-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Te-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/U-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ef-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Che-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Softsign-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hardsign-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Lje-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/E-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ereversed-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Tshe-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iu-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ia-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhedescender-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kadescender-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kabashkir-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Haabkhasian-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hadescender-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Chedescenderabkhasian-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Eltail-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/O-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ha-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ertick-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/be-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ve-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ge-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/de-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/zhe-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ze-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ii-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/iishorttail-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ka-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/el-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/te-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ef-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/che-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/softsign-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/hardsign-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/lje-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/e-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ereversed-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/tshe-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/iu-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ia-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/dje-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/yat-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/yusbig-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/fita-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/u-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/zhedescender-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/kadescender-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/kastroke-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/kabashkir-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/haabkhasian-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/hadescender-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/chedescenderabkhasian-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/eltail-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/ha-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ghemiddlehook-cy/reversedze-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy",
-"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/EnLeftHook-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Be-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ge-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/De-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Zhe-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ze-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Iishorttail-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ka-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/El-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Te-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/U-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ef-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Che-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Softsign-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Hardsign-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Lje-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/E-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ereversed-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Tshe-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Iu-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ia-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Izhitsa-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ghemiddlehook-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Zhedescender-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Kadescender-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Kabashkir-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Haabkhasian-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Hadescender-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Chedescenderabkhasian-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Eltail-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/O-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ha-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Reversedze-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/Ertick-cy/Ustraitstroke-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/be-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ve-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ge-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/de-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/zhe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ii-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/iishorttail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ka-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/el-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/te-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ef-cy/en-cy/Ustrait-cy/ef-cy/che-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/che-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/softsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/hardsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/lje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/e-cy/en-cy/Ustrait-cy/e-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ereversed-cy/en-cy/Ustrait-cy/ereversed-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/tshe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/iu-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ia-cy/en-cy/Ustrait-cy/ia-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/dje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/yat-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/yusbig-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/fita-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/u-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/zhedescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/kadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/kastroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/kabashkir-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/haabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/hadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/chedescenderabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/eltail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/ha-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ustraitstroke-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy",
-"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/EnLeftHook-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Be-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ge-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/De-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhe-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ze-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iishorttail-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ka-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/El-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Te-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/U-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ef-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Che-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Softsign-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hardsign-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Lje-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/E-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ereversed-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Tshe-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iu-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ia-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhedescender-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kadescender-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kabashkir-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Haabkhasian-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hadescender-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Chedescenderabkhasian-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Eltail-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/O-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ha-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ertick-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/be-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ve-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ge-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/de-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/zhe-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ze-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ii-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/iishorttail-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ka-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/el-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/te-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ef-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/che-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/softsign-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/hardsign-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/lje-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/e-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ereversed-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/tshe-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/iu-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ia-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/dje-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/yat-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/yusbig-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/fita-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ghemiddlehook-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/zhedescender-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/kadescender-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/kastroke-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/kabashkir-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/haabkhasian-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/hadescender-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/chedescenderabkhasian-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/eltail-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/ha-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/ustraitstroke-cy/reversedze-cy/ustraitstroke-cy/en-cy/en-cy/o-cy/ge-cy"
+"/Izhitsa-cy",
+"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/EnLeftHook-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Be-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ge-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/De-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Zhe-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ze-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Iishorttail-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ka-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/El-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Te-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/U-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ef-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Che-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Softsign-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Hardsign-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Lje-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/E-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ereversed-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Tshe-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Iu-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ia-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Izhitsa-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ghemiddlehook-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Zhedescender-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Kadescender-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Kabashkir-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Haabkhasian-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Hadescender-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Chedescenderabkhasian-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Eltail-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/O-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ha-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Reversedze-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/Ertick-cy/Izhitsa-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/be-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ve-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ge-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/de-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/zhe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ii-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/iishorttail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ka-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/el-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/te-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ef-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/che-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/softsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/hardsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/lje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/e-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ereversed-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/tshe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/iu-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ia-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/dje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/yat-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/yusbig-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/fita-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/u-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/zhedescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/kadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/kastroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/kabashkir-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/haabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/hadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/chedescenderabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/eltail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ha-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/ze-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy",
+"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/EnLeftHook-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Be-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ge-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/De-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhe-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ze-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iishorttail-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ka-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/El-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Te-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/U-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ef-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Che-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Softsign-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hardsign-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Lje-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/E-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ereversed-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Tshe-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iu-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ia-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhedescender-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kadescender-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kabashkir-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Haabkhasian-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hadescender-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Chedescenderabkhasian-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Eltail-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/O-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ha-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ertick-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/be-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ve-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ge-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/de-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/zhe-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ze-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ii-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/iishorttail-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ka-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/el-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/te-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ef-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/che-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/softsign-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/hardsign-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/lje-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/e-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ereversed-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/tshe-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/iu-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ia-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/dje-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/yat-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/yusbig-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/fita-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ghemiddlehook-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/zhedescender-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/kadescender-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/kastroke-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/kabashkir-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/haabkhasian-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/hadescender-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/chedescenderabkhasian-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/eltail-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/ha-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/izhitsa-cy/reversedze-cy/izhitsa-cy/en-cy/en-cy/o-cy/ge-cy",
+"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/EnLeftHook-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Be-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ge-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/De-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Zhe-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ze-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Iishorttail-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ka-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/El-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Te-cy/Dzeabkhasian-cy/Te-cy/Ze-cy/Ha-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/U-cy/Dzeabkhasian-cy/U-cy/Ef-cy/Ze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ef-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Che-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Softsign-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Hardsign-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Lje-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/E-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ereversed-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Tshe-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Iu-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ia-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Izhitsa-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ghemiddlehook-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Zhedescender-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Kadescender-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Kabashkir-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Haabkhasian-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Hadescender-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Chedescenderabkhasian-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Eltail-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/O-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ha-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Reversedze-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/Ertick-cy/Dzeabkhasian-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/be-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ve-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ge-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/de-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/zhe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ii-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/iishorttail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ka-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/el-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/te-cy/Ze-cy/te-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ef-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/che-cy/Ze-cy/che-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/softsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/hardsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/lje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/e-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ereversed-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/tshe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/iu-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ia-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/dje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/yat-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/yusbig-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/fita-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/u-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/zhedescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/kadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/kastroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/kabashkir-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/haabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/hadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/chedescenderabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/eltail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/ha-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Dzeabkhasian-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy",
+"/Tedescender-cy",
+"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/EnLeftHook-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Be-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ge-cy/dzeabkhasian-cy/en-cy/Ge-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/De-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhe-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ze-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iishorttail-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ka-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/El-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Te-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/U-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ef-cy/dzeabkhasian-cy/en-cy/Ef-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Che-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Softsign-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hardsign-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Lje-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/E-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ereversed-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Tshe-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iu-cy/dzeabkhasian-cy/en-cy/Iu-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ia-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhedescender-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kadescender-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kabashkir-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Haabkhasian-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hadescender-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Chedescenderabkhasian-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Eltail-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/O-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ha-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ertick-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/be-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ve-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ge-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/de-cy/dzeabkhasian-cy/ze-cy/de-cy/ze-cy/en-cy/en-cy/de-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/zhe-cy/es-cy/dzeabkhasian-cy/es-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ze-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ii-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/iishorttail-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ka-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/el-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/te-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ef-cy/dzeabkhasian-cy/en-cy/ze-cy/ef-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/che-cy/dzeabkhasian-cy/en-cy/ze-cy/che-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/softsign-cy/dzeabkhasian-cy/en-cy/softsign-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/hardsign-cy/dzeabkhasian-cy/en-cy/hardsign-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/lje-cy/dzeabkhasian-cy/en-cy/lje-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/e-cy/dzeabkhasian-cy/en-cy/e-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ereversed-cy/dzeabkhasian-cy/en-cy/ereversed-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/tshe-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/iu-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ia-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/dje-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/yat-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/yusbig-cy/dzeabkhasian-cy/en-cy/yusbig-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/fita-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/u-cy/dzeabkhasian-cy/en-cy/u-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ghemiddlehook-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/zhedescender-cy/dzeabkhasian-cy/en-cy/zhedescender-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/kadescender-cy/dzeabkhasian-cy/en-cy/kadescender-cy/dzeabkhasian-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/kastroke-cy/dzeabkhasian-cy/en-cy/kastroke-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/kabashkir-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/haabkhasian-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/hadescender-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/chedescenderabkhasian-cy/dzeabkhasian-cy/en-cy/chedescenderabkhasian-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/eltail-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/ha-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/dzeabkhasian-cy/reversedze-cy/dzeabkhasian-cy/en-cy/en-cy/o-cy/ge-cy",
+"/Reversedze-cy",
+"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/EnLeftHook-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Be-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ge-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/De-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Zhe-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ze-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Iishorttail-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ka-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/El-cy/Reversedze-cy/En-cy/O-cy/O-cy CTC/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Te-cy/Reversedze-cy/En-cy/Es-cy/Te-cy/Es-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/U-cy/Reversedze-cy/En-cy/Es-cy/U-cy/Reversedze-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ef-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Che-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Softsign-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Hardsign-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Lje-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/E-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ereversed-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Tshe-cy/Reversedze-cy/En-cy/Tshe-cy/Es-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Iu-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ia-cy/Reversedze-cy/Es-cy/Ia-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Izhitsa-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ghemiddlehook-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Zhedescender-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Kadescender-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Kabashkir-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Haabkhasian-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Hadescender-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Chedescenderabkhasian-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Eltail-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/O-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ha-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Reversedze-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/Ertick-cy/Reversedze-cy/En-cy/O-cy/O-cy/Ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/be-cy/en-cy/Es-cy/be-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ve-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ge-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/de-cy/en-cy/Es-cy/de-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/zhe-cy/en-cy/Es-cy/zhe-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ze-cy/en-cy/Es-cy/ze-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ii-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/iishorttail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ka-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/el-cy/en-cy/Es-cy/el-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/te-cy/en-cy/Es-cy/te-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ef-cy/en-cy/Es-cy/ef-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/che-cy/en-cy/Es-cy/che-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/softsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/hardsign-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/lje-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/e-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ereversed-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/tshe-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/iu-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ia-cy/en-cy/Es-cy/ia-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/dje-cy/en-cy/Es-cy/dje-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/yat-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/yusbig-cy/en-cy/Es-cy/yusbig-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/fita-cy/en-cy C/fita-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/u-cy/en-cy/Es-cy/u-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ghemiddlehook-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/zhedescender-cy/en-cy/Es-cy/zhedescender-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/kadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/kastroke-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/kabashkir-cy/en-cy/Es-cy/kabashkir-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/haabkhasian-cy/en-cy/Es-cy/haabkhasian-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/hadescender-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/chedescenderabkhasian-cy/en-cy/Es-cy/chedescenderabkhasian-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/eltail-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/ha-cy/en-cy/Es-cy/ha-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/reversedze-cy/en-cy/Es-cy/reversedze-cy/en-cy/o-cy/ge-cy",
+"\012__Letter:\012/En-cy/En-cy/O-cy/En-cy/EnLeftHook-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Be-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ge-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/De-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhe-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ze-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iishorttail-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ka-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/El-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Te-cy/reversedze-cy/Te-cy/es-cy/en-cy Tc/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/U-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ef-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Che-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Softsign-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hardsign-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Lje-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/E-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ereversed-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Tshe-cy/reversedze-cy/en-cy/Tshe-cy/es-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Iu-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ia-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Izhitsa-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ghemiddlehook-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Zhedescender-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kadescender-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Kabashkir-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Haabkhasian-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Hadescender-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Chedescenderabkhasian-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Eltail-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/O-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ha-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Reversedze-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/Ertick-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/be-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ve-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ge-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/de-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/zhe-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ze-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ii-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/iishorttail-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ka-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/el-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/te-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ef-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/che-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/softsign-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/hardsign-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/lje-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/e-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ereversed-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/tshe-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/iu-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ia-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/dje-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/yat-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/yusbig-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/fita-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/u-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ghemiddlehook-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/zhedescender-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/kadescender-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/kastroke-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/kabashkir-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/haabkhasian-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/hadescender-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/chedescenderabkhasian-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/eltail-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/ha-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy \012/En-cy/En-cy/O-cy/En-cy/reversedze-cy/reversedze-cy/reversedze-cy/en-cy/en-cy/o-cy/ge-cy"
 );
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
@@ -19538,7 +19542,7 @@ unicode = 0062;
 },
 {
 glyphname = c;
-lastChange = "2016-09-07 01:02:56 +0000";
+lastChange = "2018-03-21 14:27:58 +0000";
 layers = (
 {
 anchors = (
@@ -37461,7 +37465,7 @@ unicode = 0416;
 },
 {
 glyphname = "Ze-cy";
-lastChange = "2018-03-21 09:57:45 +0000";
+lastChange = "2018-03-21 14:06:35 +0000";
 layers = (
 {
 anchors = (
@@ -39281,7 +39285,7 @@ unicode = 040C;
 },
 {
 glyphname = "El-cy";
-lastChange = "2018-03-21 09:50:04 +0000";
+lastChange = "2018-03-21 14:25:41 +0000";
 layers = (
 {
 anchors = (
@@ -40128,7 +40132,7 @@ unicode = 0421;
 },
 {
 glyphname = "Te-cy";
-lastChange = "2018-03-21 09:50:05 +0000";
+lastChange = "2018-03-21 14:25:59 +0000";
 layers = (
 {
 anchors = (
@@ -40288,7 +40292,7 @@ unicode = 0422;
 },
 {
 glyphname = "U-cy";
-lastChange = "2018-03-21 09:50:06 +0000";
+lastChange = "2018-03-21 14:22:11 +0000";
 layers = (
 {
 anchors = (
@@ -40551,7 +40555,7 @@ unicode = 040E;
 },
 {
 glyphname = "Ef-cy";
-lastChange = "2018-03-21 09:57:51 +0000";
+lastChange = "2018-03-21 14:03:43 +0000";
 layers = (
 {
 background = {
@@ -43751,7 +43755,7 @@ unicode = 042E;
 },
 {
 glyphname = "Ia-cy";
-lastChange = "2018-03-21 09:49:17 +0000";
+lastChange = "2018-03-21 14:22:50 +0000";
 layers = (
 {
 background = {
@@ -44754,7 +44758,7 @@ unicode = 0472;
 },
 {
 glyphname = "Izhitsa-cy";
-lastChange = "2018-03-21 09:50:13 +0000";
+lastChange = "2018-03-21 13:57:29 +0000";
 layers = (
 {
 background = {
@@ -47561,7 +47565,7 @@ unicode = 04BC;
 },
 {
 glyphname = "Chedescenderabkhasian-cy";
-lastChange = "2018-03-21 09:55:19 +0000";
+lastChange = "2018-03-21 14:06:16 +0000";
 layers = (
 {
 background = {
@@ -47645,12 +47649,12 @@ nodes = (
 closed = 1;
 nodes = (
 "172 404 LINE",
-"81 404 OFFCURVE",
-"37 453 OFFCURVE",
-"70 535 CURVE SMOOTH",
-"72 540 OFFCURVE",
-"68 543 OFFCURVE",
-"60 545 CURVE SMOOTH",
+"92 404 OFFCURVE",
+"25 445 OFFCURVE",
+"61 535 CURVE SMOOTH",
+"63 540 OFFCURVE",
+"58 543 OFFCURVE",
+"50 546 CURVE SMOOTH",
 "30 552 LINE SMOOTH",
 "27 553 OFFCURVE",
 "25 551 OFFCURVE",
@@ -48172,7 +48176,7 @@ unicode = 04C3;
 },
 {
 glyphname = "Eltail-cy";
-lastChange = "2018-03-19 18:53:39 +0000";
+lastChange = "2018-03-21 13:57:23 +0000";
 layers = (
 {
 components = (
@@ -48984,7 +48988,7 @@ unicode = 04DE;
 },
 {
 glyphname = "Dzeabkhasian-cy";
-lastChange = "2018-03-19 18:54:18 +0000";
+lastChange = "2018-03-21 14:06:26 +0000";
 layers = (
 {
 background = {
@@ -50171,7 +50175,7 @@ unicode = 04FE;
 },
 {
 glyphname = "Reversedze-cy";
-lastChange = "2018-03-21 09:55:24 +0000";
+lastChange = "2018-03-21 14:26:31 +0000";
 layers = (
 {
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -51209,7 +51213,7 @@ unicode = 0430;
 },
 {
 glyphname = "be-cy";
-lastChange = "2018-03-21 09:58:39 +0000";
+lastChange = "2018-03-21 14:23:24 +0000";
 layers = (
 {
 background = {
@@ -52374,14 +52378,14 @@ unicode = 0491;
 },
 {
 glyphname = "de-cy";
-lastChange = "2018-03-21 09:58:43 +0000";
+lastChange = "2018-03-21 14:23:29 +0000";
 layers = (
 {
 background = {
 components = (
 {
 name = "tse-cy";
-transform = "{1, 0, 0, 1, -26, 0}";
+transform = "{1, 0, 0, 1, -11, 0}";
 }
 );
 };
@@ -52390,81 +52394,81 @@ paths = (
 {
 closed = 1;
 nodes = (
-"52 -142 LINE SMOOTH",
-"57 -142 OFFCURVE",
-"60 -140 OFFCURVE",
-"60 -135 CURVE SMOOTH",
-"60 -5 LINE SMOOTH",
-"60 -2 OFFCURVE",
-"62 0 OFFCURVE",
-"66 0 CURVE SMOOTH",
-"492 0 LINE SMOOTH",
-"496 0 OFFCURVE",
-"498 -2 OFFCURVE",
-"498 -5 CURVE SMOOTH",
-"498 -135 LINE SMOOTH",
-"498 -140 OFFCURVE",
-"500 -142 OFFCURVE",
-"506 -142 CURVE SMOOTH",
-"530 -142 LINE SMOOTH",
-"535 -142 OFFCURVE",
-"538 -139 OFFCURVE",
-"538 -134 CURVE SMOOTH",
-"538 28 LINE SMOOTH",
-"538 34 OFFCURVE",
-"536 35 OFFCURVE",
-"530 35 CURVE SMOOTH",
-"471 35 LINE",
-"468 35 OFFCURVE",
-"466 37 OFFCURVE",
-"466 40 CURVE",
-"466 523 LINE SMOOTH",
-"466 529 OFFCURVE",
-"465 530 OFFCURVE",
-"459 530 CURVE SMOOTH",
-"156 530 LINE SMOOTH",
-"150 530 OFFCURVE",
-"149 529 OFFCURVE",
-"149 523 CURVE",
-"189 490 LINE",
-"189 493 OFFCURVE",
-"191 495 OFFCURVE",
-"194 495 CURVE SMOOTH",
-"421 495 LINE SMOOTH",
-"425 495 OFFCURVE",
-"426 493 OFFCURVE",
-"426 490 CURVE SMOOTH",
-"426 40 LINE",
-"426 37 OFFCURVE",
-"425 35 OFFCURVE",
-"422 35 CURVE",
-"28 35 LINE SMOOTH",
-"22 35 OFFCURVE",
-"20 34 OFFCURVE",
-"20 28 CURVE SMOOTH",
-"20 -134 LINE SMOOTH",
-"20 -139 OFFCURVE",
-"23 -142 OFFCURVE",
-"28 -142 CURVE SMOOTH"
+"67 -142 LINE SMOOTH",
+"72 -142 OFFCURVE",
+"75 -140 OFFCURVE",
+"75 -135 CURVE SMOOTH",
+"75 -5 LINE SMOOTH",
+"75 -2 OFFCURVE",
+"77 0 OFFCURVE",
+"81 0 CURVE SMOOTH",
+"507 0 LINE SMOOTH",
+"511 0 OFFCURVE",
+"513 -2 OFFCURVE",
+"513 -5 CURVE SMOOTH",
+"513 -135 LINE SMOOTH",
+"513 -140 OFFCURVE",
+"515 -142 OFFCURVE",
+"521 -142 CURVE SMOOTH",
+"545 -142 LINE SMOOTH",
+"550 -142 OFFCURVE",
+"553 -139 OFFCURVE",
+"553 -134 CURVE SMOOTH",
+"553 28 LINE SMOOTH",
+"553 34 OFFCURVE",
+"551 35 OFFCURVE",
+"545 35 CURVE SMOOTH",
+"486 35 LINE",
+"483 35 OFFCURVE",
+"481 37 OFFCURVE",
+"481 40 CURVE",
+"481 523 LINE SMOOTH",
+"481 529 OFFCURVE",
+"480 530 OFFCURVE",
+"474 530 CURVE SMOOTH",
+"171 530 LINE SMOOTH",
+"165 530 OFFCURVE",
+"164 529 OFFCURVE",
+"164 523 CURVE",
+"204 490 LINE",
+"204 493 OFFCURVE",
+"206 495 OFFCURVE",
+"209 495 CURVE SMOOTH",
+"436 495 LINE SMOOTH",
+"440 495 OFFCURVE",
+"441 493 OFFCURVE",
+"441 490 CURVE SMOOTH",
+"441 40 LINE",
+"441 37 OFFCURVE",
+"440 35 OFFCURVE",
+"437 35 CURVE",
+"43 35 LINE SMOOTH",
+"37 35 OFFCURVE",
+"35 34 OFFCURVE",
+"35 28 CURVE SMOOTH",
+"35 -134 LINE SMOOTH",
+"35 -139 OFFCURVE",
+"38 -142 OFFCURVE",
+"43 -142 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"149 6 OFFCURVE",
-"189 163 OFFCURVE",
-"189 415 CURVE SMOOTH",
-"189 523 LINE",
-"149 523 LINE",
-"149 415 LINE SMOOTH",
-"149 173 OFFCURVE",
-"120 35 OFFCURVE",
-"52 35 CURVE",
-"58 7 LINE"
+"164 6 OFFCURVE",
+"204 163 OFFCURVE",
+"204 415 CURVE SMOOTH",
+"204 523 LINE",
+"164 523 LINE",
+"164 415 LINE SMOOTH",
+"164 173 OFFCURVE",
+"135 35 OFFCURVE",
+"67 35 CURVE",
+"73 7 LINE"
 );
 }
 );
-width = 558;
+width = 573;
 },
 {
 background = {
@@ -52660,7 +52664,7 @@ unicode = 0451;
 },
 {
 glyphname = "zhe-cy";
-lastChange = "2018-03-21 09:58:44 +0000";
+lastChange = "2018-03-21 14:23:35 +0000";
 layers = (
 {
 anchors = (
@@ -53759,7 +53763,7 @@ unicode = 0436;
 },
 {
 glyphname = "ze-cy";
-lastChange = "2018-03-21 09:56:06 +0000";
+lastChange = "2018-03-21 14:23:42 +0000";
 layers = (
 {
 anchors = (
@@ -53913,11 +53917,11 @@ width = 490;
 anchors = (
 {
 name = bottom;
-position = "{287, 0}";
+position = "{297, 0}";
 },
 {
 name = top;
-position = "{292, 530}";
+position = "{302, 530}";
 }
 );
 background = {
@@ -53951,23 +53955,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"430 -7 OFFCURVE",
-"538 52 OFFCURVE",
-"538 152 CURVE SMOOTH",
-"538 212 OFFCURVE",
-"508 249 OFFCURVE",
-"456 273 CURVE SMOOTH",
-"444 278 OFFCURVE",
-"446 287 OFFCURVE",
-"457 290 CURVE SMOOTH",
-"503 303 OFFCURVE",
-"525 343 OFFCURVE",
-"526 390 CURVE SMOOTH",
-"527 478 OFFCURVE",
-"446 539 OFFCURVE",
-"296 539 CURVE SMOOTH",
-"154 539 OFFCURVE",
-"69 474 OFFCURVE",
+"446 -7 OFFCURVE",
+"558 52 OFFCURVE",
+"558 152 CURVE SMOOTH",
+"558 212 OFFCURVE",
+"528 249 OFFCURVE",
+"476 273 CURVE SMOOTH",
+"464 278 OFFCURVE",
+"466 287 OFFCURVE",
+"477 290 CURVE SMOOTH",
+"523 303 OFFCURVE",
+"545 343 OFFCURVE",
+"546 390 CURVE SMOOTH",
+"547 478 OFFCURVE",
+"463 539 OFFCURVE",
+"306 539 CURVE SMOOTH",
+"158 539 OFFCURVE",
+"70 474 OFFCURVE",
 "46 376 CURVE SMOOTH",
 "41 354 OFFCURVE",
 "46 347 OFFCURVE",
@@ -54004,13 +54008,13 @@ nodes = (
 "40 180 OFFCURVE",
 "34 170 OFFCURVE",
 "39 154 CURVE SMOOTH",
-"64 73 OFFCURVE",
-"127 -7 OFFCURVE",
-"287 -7 CURVE SMOOTH"
+"65 73 OFFCURVE",
+"131 -7 OFFCURVE",
+"297 -7 CURVE SMOOTH"
 );
 }
 );
-width = 578;
+width = 598;
 }
 );
 leftKerningGroup = "ze-cy";
@@ -55479,7 +55483,7 @@ unicode = 045C;
 },
 {
 glyphname = "el-cy";
-lastChange = "2018-03-21 09:58:49 +0000";
+lastChange = "2018-03-21 14:26:46 +0000";
 layers = (
 {
 anchors = (
@@ -56052,7 +56056,7 @@ unicode = 043C;
 },
 {
 glyphname = "en-cy";
-lastChange = "2018-03-21 09:43:26 +0000";
+lastChange = "2018-03-19 18:34:18 +0000";
 layers = (
 {
 anchors = (
@@ -56426,7 +56430,7 @@ unicode = 0440;
 },
 {
 glyphname = "es-cy";
-lastChange = "2018-03-20 12:15:02 +0000";
+lastChange = "2018-03-21 14:28:19 +0000";
 layers = (
 {
 components = (
@@ -56453,7 +56457,7 @@ unicode = 0441;
 },
 {
 glyphname = "te-cy";
-lastChange = "2018-03-21 09:58:51 +0000";
+lastChange = "2018-03-21 14:04:28 +0000";
 layers = (
 {
 anchors = (
@@ -56622,7 +56626,7 @@ unicode = 045E;
 },
 {
 glyphname = "ef-cy";
-lastChange = "2018-03-21 09:59:07 +0000";
+lastChange = "2018-03-21 13:57:42 +0000";
 layers = (
 {
 background = {
@@ -57048,7 +57052,7 @@ unicode = 0444;
 },
 {
 glyphname = "ha-cy";
-lastChange = "2018-03-21 09:40:17 +0000";
+lastChange = "2018-03-21 14:24:58 +0000";
 layers = (
 {
 anchors = (
@@ -57087,7 +57091,7 @@ unicode = 0445;
 },
 {
 glyphname = "che-cy";
-lastChange = "2018-03-21 09:59:00 +0000";
+lastChange = "2018-03-21 14:24:01 +0000";
 layers = (
 {
 anchors = (
@@ -58777,7 +58781,7 @@ unicode = 044B;
 },
 {
 glyphname = "lje-cy";
-lastChange = "2018-03-21 09:53:34 +0000";
+lastChange = "2018-03-21 14:02:04 +0000";
 layers = (
 {
 background = {
@@ -59481,7 +59485,7 @@ unicode = 0455;
 },
 {
 glyphname = "e-cy";
-lastChange = "2018-03-21 09:56:50 +0000";
+lastChange = "2018-03-21 14:00:32 +0000";
 layers = (
 {
 background = {
@@ -59700,7 +59704,7 @@ unicode = 0454;
 },
 {
 glyphname = "ereversed-cy";
-lastChange = "2018-03-21 09:56:52 +0000";
+lastChange = "2018-03-21 14:02:06 +0000";
 layers = (
 {
 anchors = (
@@ -59972,7 +59976,7 @@ unicode = 0458;
 },
 {
 glyphname = "tshe-cy";
-lastChange = "2018-03-21 09:52:30 +0000";
+lastChange = "2018-03-21 14:06:42 +0000";
 layers = (
 {
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -60302,7 +60306,7 @@ unicode = 044E;
 },
 {
 glyphname = "ia-cy";
-lastChange = "2018-03-21 09:59:24 +0000";
+lastChange = "2018-03-21 14:26:56 +0000";
 layers = (
 {
 background = {
@@ -60625,7 +60629,7 @@ unicode = 044F;
 },
 {
 glyphname = "dje-cy";
-lastChange = "2018-03-20 12:08:19 +0000";
+lastChange = "2018-03-21 14:19:58 +0000";
 layers = (
 {
 background = {
@@ -60887,7 +60891,7 @@ unicode = 0452;
 },
 {
 glyphname = "yat-cy";
-lastChange = "2018-03-21 09:59:28 +0000";
+lastChange = "2018-03-21 13:55:41 +0000";
 layers = (
 {
 background = {
@@ -61109,7 +61113,7 @@ unicode = 0463;
 },
 {
 glyphname = "yusbig-cy";
-lastChange = "2018-03-21 09:59:31 +0000";
+lastChange = "2018-03-21 14:31:00 +0000";
 layers = (
 {
 background = {
@@ -61491,7 +61495,7 @@ unicode = 046B;
 },
 {
 glyphname = "fita-cy";
-lastChange = "2018-03-19 18:34:18 +0000";
+lastChange = "2018-03-21 14:27:05 +0000";
 layers = (
 {
 background = {
@@ -61601,7 +61605,7 @@ unicode = 0473;
 },
 {
 glyphname = "izhitsa-cy";
-lastChange = "2018-03-20 11:52:42 +0000";
+lastChange = "2018-03-21 14:02:15 +0000";
 layers = (
 {
 background = {
@@ -62083,7 +62087,7 @@ unicode = 0495;
 },
 {
 glyphname = "zhedescender-cy";
-lastChange = "2018-03-19 18:34:18 +0000";
+lastChange = "2018-03-21 14:24:34 +0000";
 layers = (
 {
 background = {
@@ -62790,7 +62794,7 @@ unicode = 049D;
 },
 {
 glyphname = "kastroke-cy";
-lastChange = "2018-03-19 18:57:06 +0000";
+lastChange = "2018-03-21 13:58:00 +0000";
 layers = (
 {
 background = {
@@ -63619,7 +63623,7 @@ unicode = 0525;
 },
 {
 glyphname = "haabkhasian-cy";
-lastChange = "2018-03-21 09:45:42 +0000";
+lastChange = "2018-03-21 13:58:03 +0000";
 layers = (
 {
 background = {
@@ -64448,7 +64452,7 @@ unicode = 04AF;
 },
 {
 glyphname = "ustraitstroke-cy";
-lastChange = "2018-03-21 10:00:39 +0000";
+lastChange = "2018-03-21 13:53:31 +0000";
 layers = (
 {
 components = (
@@ -65038,7 +65042,7 @@ unicode = 04BD;
 },
 {
 glyphname = "chedescenderabkhasian-cy";
-lastChange = "2018-03-21 09:59:40 +0000";
+lastChange = "2018-03-21 14:24:51 +0000";
 layers = (
 {
 background = {
@@ -65604,7 +65608,7 @@ unicode = 04C4;
 },
 {
 glyphname = "eltail-cy";
-lastChange = "2018-03-19 18:57:27 +0000";
+lastChange = "2018-03-21 13:58:07 +0000";
 layers = (
 {
 components = (
@@ -66393,7 +66397,7 @@ unicode = 04DD;
 },
 {
 glyphname = "zedieresis-cy";
-lastChange = "2018-03-20 12:11:47 +0000";
+lastChange = "2018-03-21 14:02:28 +0000";
 layers = (
 {
 components = (
@@ -66415,11 +66419,11 @@ name = "ze-cy";
 },
 {
 name = "dieresiscomb-cy";
-transform = "{1, 0, 0, 1, 76, 0}";
+transform = "{1, 0, 0, 1, 86, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 578;
+width = 598;
 }
 );
 leftKerningGroup = "ze-cy";
@@ -66428,20 +66432,19 @@ unicode = 04DF;
 },
 {
 glyphname = "dzeabkhasian-cy";
-lastChange = "2018-03-20 11:51:24 +0000";
+lastChange = "2018-03-21 14:21:13 +0000";
 layers = (
 {
 background = {
 anchors = (
 {
 name = top;
-position = "{239, 530}";
+position = "{269, 530}";
 }
 );
 components = (
 {
 name = g;
-transform = "{1, 0, 0, 1, -30, 0}";
 }
 );
 };
@@ -66450,71 +66453,71 @@ paths = (
 {
 closed = 1;
 nodes = (
-"361 -175 OFFCURVE",
-"443 -87 OFFCURVE",
-"443 44 CURVE SMOOTH",
-"443 165 OFFCURVE",
-"359 252 OFFCURVE",
-"222 252 CURVE SMOOTH",
-"154 252 LINE SMOOTH",
-"150 252 OFFCURVE",
-"147 250 OFFCURVE",
-"147 246 CURVE SMOOTH",
-"147 224 LINE SMOOTH",
-"147 219 OFFCURVE",
-"149 218 OFFCURVE",
-"154 218 CURVE SMOOTH",
-"220 218 LINE SMOOTH",
-"318 218 OFFCURVE",
-"404 170 OFFCURVE",
-"404 45 CURVE SMOOTH",
-"404 -72 OFFCURVE",
-"337 -138 OFFCURVE",
-"241 -138 CURVE SMOOTH",
-"137 -138 OFFCURVE",
-"76 -92 OFFCURVE",
-"46 1 CURVE SMOOTH",
-"45 3 OFFCURVE",
-"43 4 OFFCURVE",
-"41 3 CURVE SMOOTH",
-"12 -6 LINE SMOOTH",
-"10 -7 OFFCURVE",
-"10 -8 OFFCURVE",
-"11 -12 CURVE SMOOTH",
-"37 -117 OFFCURVE",
-"123 -175 OFFCURVE",
-"241 -175 CURVE SMOOTH"
+"391 -175 OFFCURVE",
+"473 -87 OFFCURVE",
+"473 44 CURVE SMOOTH",
+"473 165 OFFCURVE",
+"396 252 OFFCURVE",
+"242 252 CURVE SMOOTH",
+"174 252 LINE SMOOTH",
+"170 252 OFFCURVE",
+"167 250 OFFCURVE",
+"167 246 CURVE SMOOTH",
+"167 224 LINE SMOOTH",
+"167 219 OFFCURVE",
+"169 218 OFFCURVE",
+"174 218 CURVE SMOOTH",
+"240 218 LINE SMOOTH",
+"354 218 OFFCURVE",
+"434 170 OFFCURVE",
+"434 45 CURVE SMOOTH",
+"434 -72 OFFCURVE",
+"367 -138 OFFCURVE",
+"271 -138 CURVE SMOOTH",
+"167 -138 OFFCURVE",
+"106 -92 OFFCURVE",
+"76 1 CURVE SMOOTH",
+"75 3 OFFCURVE",
+"73 4 OFFCURVE",
+"71 3 CURVE SMOOTH",
+"42 -6 LINE SMOOTH",
+"40 -7 OFFCURVE",
+"40 -8 OFFCURVE",
+"41 -12 CURVE SMOOTH",
+"67 -117 OFFCURVE",
+"153 -175 OFFCURVE",
+"271 -175 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"432 499 LINE",
-"435 503 OFFCURVE",
-"436 505 OFFCURVE",
-"436 510 CURVE SMOOTH",
-"436 524 LINE SMOOTH",
-"436 528 OFFCURVE",
-"434 530 OFFCURVE",
-"430 530 CURVE SMOOTH",
-"52 530 LINE SMOOTH",
-"48 530 OFFCURVE",
-"46 528 OFFCURVE",
-"46 524 CURVE SMOOTH",
-"46 502 LINE SMOOTH",
-"46 498 OFFCURVE",
-"48 496 OFFCURVE",
-"52 496 CURVE SMOOTH",
-"374 496 LINE SMOOTH",
-"378 496 OFFCURVE",
-"380 493 OFFCURVE",
-"377 489 CURVE",
-"148 249 LINE",
-"186 239 LINE"
+"462 499 LINE",
+"465 503 OFFCURVE",
+"466 505 OFFCURVE",
+"466 510 CURVE SMOOTH",
+"466 524 LINE SMOOTH",
+"466 528 OFFCURVE",
+"464 530 OFFCURVE",
+"460 530 CURVE SMOOTH",
+"82 530 LINE SMOOTH",
+"78 530 OFFCURVE",
+"76 528 OFFCURVE",
+"76 524 CURVE SMOOTH",
+"76 502 LINE SMOOTH",
+"76 498 OFFCURVE",
+"78 496 OFFCURVE",
+"82 496 CURVE SMOOTH",
+"404 496 LINE SMOOTH",
+"408 496 OFFCURVE",
+"410 493 OFFCURVE",
+"407 489 CURVE",
+"168 249 LINE",
+"206 239 LINE"
 );
 }
 );
-width = 463;
+width = 513;
 },
 {
 background = {
@@ -66534,62 +66537,62 @@ paths = (
 {
 closed = 1;
 nodes = (
-"386 -52 OFFCURVE",
-"484 5 OFFCURVE",
-"484 107 CURVE SMOOTH",
-"484 167 OFFCURVE",
-"451 205 OFFCURVE",
-"395 228 CURVE SMOOTH",
-"383 233 OFFCURVE",
-"384 242 OFFCURVE",
-"396 245 CURVE SMOOTH",
-"446 258 OFFCURVE",
-"470 298 OFFCURVE",
-"470 345 CURVE SMOOTH",
-"470 435 OFFCURVE",
-"388 494 OFFCURVE",
-"227 494 CURVE SMOOTH",
-"79 494 OFFCURVE",
-"-10 429 OFFCURVE",
-"-37 331 CURVE SMOOTH",
-"-43 309 OFFCURVE",
-"-38 302 OFFCURVE",
-"-26 301 CURVE SMOOTH",
-"117 291 LINE SMOOTH",
-"125 290 OFFCURVE",
-"130 294 OFFCURVE",
-"134 307 CURVE SMOOTH",
-"148 351 OFFCURVE",
-"180 369 OFFCURVE",
-"230 369 CURVE SMOOTH",
-"277 369 OFFCURVE",
-"303 350 OFFCURVE",
-"303 319 CURVE SMOOTH",
-"303 284 OFFCURVE",
-"283 267 OFFCURVE",
-"242 267 CURVE SMOOTH",
-"163 267 LINE",
-"163 164 LINE",
-"251 164 LINE SMOOTH",
-"294 164 OFFCURVE",
-"312 141 OFFCURVE",
-"312 114 CURVE SMOOTH",
-"312 87 OFFCURVE",
-"284 68 OFFCURVE",
-"220 68 CURVE SMOOTH",
-"166 68 OFFCURVE",
-"119 88 OFFCURVE",
-"99 141 CURVE SMOOTH",
-"94 154 OFFCURVE",
-"86 156 OFFCURVE",
-"72 153 CURVE SMOOTH",
-"-15 137 LINE SMOOTH",
-"-28 135 OFFCURVE",
-"-34 125 OFFCURVE",
-"-29 109 CURVE SMOOTH",
-"-1 18 OFFCURVE",
-"70 -52 OFFCURVE",
-"223 -52 CURVE SMOOTH"
+"427 -173 OFFCURVE",
+"539 -114 OFFCURVE",
+"539 -14 CURVE SMOOTH",
+"539 46 OFFCURVE",
+"510 85 OFFCURVE",
+"457 107 CURVE SMOOTH",
+"445 112 OFFCURVE",
+"447 121 OFFCURVE",
+"458 124 CURVE SMOOTH",
+"504 137 OFFCURVE",
+"526 177 OFFCURVE",
+"527 224 CURVE SMOOTH",
+"529 312 OFFCURVE",
+"444 373 OFFCURVE",
+"287 373 CURVE SMOOTH",
+"139 373 OFFCURVE",
+"49 308 OFFCURVE",
+"27 210 CURVE SMOOTH",
+"22 188 OFFCURVE",
+"27 181 OFFCURVE",
+"39 180 CURVE SMOOTH",
+"183 170 LINE SMOOTH",
+"190 170 OFFCURVE",
+"195 173 OFFCURVE",
+"198 186 CURVE SMOOTH",
+"208 230 OFFCURVE",
+"236 248 OFFCURVE",
+"280 248 CURVE SMOOTH",
+"319 248 OFFCURVE",
+"341 229 OFFCURVE",
+"341 198 CURVE SMOOTH",
+"341 163 OFFCURVE",
+"325 146 OFFCURVE",
+"289 146 CURVE SMOOTH",
+"217 146 LINE",
+"217 43 LINE",
+"298 43 LINE SMOOTH",
+"335 43 OFFCURVE",
+"348 27 OFFCURVE",
+"348 0 CURVE SMOOTH",
+"348 -33 OFFCURVE",
+"322 -53 OFFCURVE",
+"260 -53 CURVE SMOOTH",
+"198 -53 OFFCURVE",
+"167 -32 OFFCURVE",
+"147 20 CURVE SMOOTH",
+"142 33 OFFCURVE",
+"134 35 OFFCURVE",
+"120 32 CURVE SMOOTH",
+"34 16 LINE SMOOTH",
+"21 14 OFFCURVE",
+"15 4 OFFCURVE",
+"20 -12 CURVE SMOOTH",
+"45 -93 OFFCURVE",
+"112 -173 OFFCURVE",
+"278 -173 CURVE SMOOTH"
 );
 }
 );
@@ -66597,7 +66600,7 @@ nodes = (
 guideLines = (
 {
 angle = 90;
-position = "{52, 545}";
+position = "{60, 545}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -66605,38 +66608,38 @@ paths = (
 {
 closed = 1;
 nodes = (
-"412 -175 OFFCURVE",
-"513 -88 OFFCURVE",
-"513 60 CURVE SMOOTH",
-"513 174 OFFCURVE",
-"445 257 OFFCURVE",
-"311 257 CURVE SMOOTH",
-"191 257 LINE SMOOTH",
-"180 257 OFFCURVE",
-"173 251 OFFCURVE",
-"173 242 CURVE SMOOTH",
-"173 170 LINE SMOOTH",
-"173 159 OFFCURVE",
-"179 154 OFFCURVE",
-"191 154 CURVE SMOOTH",
-"276 155 LINE SMOOTH",
-"331 156 OFFCURVE",
-"357 114 OFFCURVE",
-"357 58 CURVE SMOOTH",
-"357 -7 OFFCURVE",
-"327 -56 OFFCURVE",
-"269 -56 CURVE SMOOTH",
-"209 -56 OFFCURVE",
-"173 -22 OFFCURVE",
-"165 44 CURVE SMOOTH",
-"164 54 OFFCURVE",
-"154 57 OFFCURVE",
-"140 54 CURVE SMOOTH",
-"34 32 LINE SMOOTH",
-"23 30 OFFCURVE",
-"18 22 OFFCURVE",
-"21 4 CURVE SMOOTH",
-"37 -99 OFFCURVE",
+"424 -175 OFFCURVE",
+"531 -92 OFFCURVE",
+"531 50 CURVE SMOOTH",
+"531 170 OFFCURVE",
+"446 257 OFFCURVE",
+"279 257 CURVE SMOOTH",
+"159 257 LINE SMOOTH",
+"148 257 OFFCURVE",
+"141 251 OFFCURVE",
+"141 242 CURVE SMOOTH",
+"141 170 LINE SMOOTH",
+"141 159 OFFCURVE",
+"147 154 OFFCURVE",
+"159 154 CURVE SMOOTH",
+"244 155 LINE SMOOTH",
+"319 156 OFFCURVE",
+"355 110 OFFCURVE",
+"355 48 CURVE SMOOTH",
+"355 -10 OFFCURVE",
+"324 -53 OFFCURVE",
+"259 -53 CURVE SMOOTH",
+"196 -53 OFFCURVE",
+"160 -25 OFFCURVE",
+"146 23 CURVE SMOOTH",
+"143 33 OFFCURVE",
+"135 36 OFFCURVE",
+"121 33 CURVE SMOOTH",
+"34 17 LINE SMOOTH",
+"23 15 OFFCURVE",
+"18 7 OFFCURVE",
+"21 -11 CURVE SMOOTH",
+"35 -94 OFFCURVE",
 "122 -175 OFFCURVE",
 "270 -175 CURVE SMOOTH"
 );
@@ -66644,32 +66647,32 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"482 431 LINE SMOOTH",
-"494 445 OFFCURVE",
-"495 455 OFFCURVE",
-"495 468 CURVE SMOOTH",
-"495 508 LINE SMOOTH",
-"495 521 OFFCURVE",
-"489 530 OFFCURVE",
-"476 530 CURVE SMOOTH",
-"74 530 LINE SMOOTH",
-"61 530 OFFCURVE",
-"52 524 OFFCURVE",
-"52 511 CURVE SMOOTH",
-"52 408 LINE SMOOTH",
-"52 395 OFFCURVE",
-"58 386 OFFCURVE",
-"71 386 CURVE SMOOTH",
-"257 386 LINE SMOOTH",
-"269 386 OFFCURVE",
-"273 381 OFFCURVE",
-"266 372 CURVE",
-"176 250 LINE",
-"276 175 LINE"
+"492 411 LINE SMOOTH",
+"506 424 OFFCURVE",
+"505 435 OFFCURVE",
+"505 448 CURVE SMOOTH",
+"505 508 LINE SMOOTH",
+"505 521 OFFCURVE",
+"499 530 OFFCURVE",
+"486 530 CURVE SMOOTH",
+"82 530 LINE SMOOTH",
+"69 530 OFFCURVE",
+"60 524 OFFCURVE",
+"60 511 CURVE SMOOTH",
+"60 408 LINE SMOOTH",
+"60 395 OFFCURVE",
+"66 386 OFFCURVE",
+"79 386 CURVE SMOOTH",
+"261 386 LINE SMOOTH",
+"273 386 OFFCURVE",
+"277 381 OFFCURVE",
+"270 372 CURVE",
+"144 251 LINE",
+"227 175 LINE"
 );
 }
 );
-width = 543;
+width = 551;
 }
 );
 leftKerningGroup = "ze-cy";
@@ -67505,7 +67508,7 @@ unicode = 04FF;
 },
 {
 glyphname = "reversedze-cy";
-lastChange = "2018-03-21 09:59:43 +0000";
+lastChange = "2018-03-21 14:31:04 +0000";
 layers = (
 {
 hints = (
@@ -67591,6 +67594,83 @@ nodes = (
 width = 510;
 },
 {
+background = {
+hints = (
+{
+origin = "{0, 20}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 19}";
+type = Corner;
+name = _corner.low;
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"488 -7 OFFCURVE",
+"551 73 OFFCURVE",
+"576 154 CURVE SMOOTH",
+"581 170 OFFCURVE",
+"575 180 OFFCURVE",
+"562 182 CURVE SMOOTH",
+"476 198 LINE SMOOTH",
+"462 201 OFFCURVE",
+"454 199 OFFCURVE",
+"449 186 CURVE SMOOTH",
+"429 134 OFFCURVE",
+"398 113 OFFCURVE",
+"336 113 CURVE SMOOTH",
+"274 113 OFFCURVE",
+"248 133 OFFCURVE",
+"248 166 CURVE SMOOTH",
+"248 193 OFFCURVE",
+"261 209 OFFCURVE",
+"298 209 CURVE SMOOTH",
+"379 209 LINE",
+"379 312 LINE",
+"307 312 LINE SMOOTH",
+"271 312 OFFCURVE",
+"255 329 OFFCURVE",
+"255 364 CURVE SMOOTH",
+"255 395 OFFCURVE",
+"277 414 OFFCURVE",
+"316 414 CURVE SMOOTH",
+"360 414 OFFCURVE",
+"388 396 OFFCURVE",
+"398 352 CURVE SMOOTH",
+"401 339 OFFCURVE",
+"406 335 OFFCURVE",
+"413 336 CURVE SMOOTH",
+"557 346 LINE SMOOTH",
+"569 347 OFFCURVE",
+"574 354 OFFCURVE",
+"569 376 CURVE SMOOTH",
+"546 474 OFFCURVE",
+"461 539 OFFCURVE",
+"319 539 CURVE SMOOTH",
+"169 539 OFFCURVE",
+"88 478 OFFCURVE",
+"89 390 CURVE SMOOTH",
+"90 343 OFFCURVE",
+"112 303 OFFCURVE",
+"158 290 CURVE SMOOTH",
+"169 287 OFFCURVE",
+"171 278 OFFCURVE",
+"159 273 CURVE SMOOTH",
+"107 249 OFFCURVE",
+"77 212 OFFCURVE",
+"77 152 CURVE SMOOTH",
+"77 52 OFFCURVE",
+"185 -7 OFFCURVE",
+"328 -7 CURVE SMOOTH"
+);
+}
+);
+};
 hints = (
 {
 origin = "{0, 20}";
@@ -67612,66 +67692,66 @@ paths = (
 {
 closed = 1;
 nodes = (
-"465 -7 OFFCURVE",
-"532 73 OFFCURVE",
-"559 154 CURVE SMOOTH",
-"564 170 OFFCURVE",
-"558 180 OFFCURVE",
-"545 182 CURVE SMOOTH",
-"459 198 LINE SMOOTH",
-"444 201 OFFCURVE",
-"437 199 OFFCURVE",
-"431 186 CURVE SMOOTH",
-"408 134 OFFCURVE",
-"375 113 OFFCURVE",
-"309 113 CURVE SMOOTH",
-"241 113 OFFCURVE",
-"212 133 OFFCURVE",
-"212 166 CURVE SMOOTH",
-"212 193 OFFCURVE",
-"228 209 OFFCURVE",
-"269 209 CURVE SMOOTH",
-"354 209 LINE",
-"354 312 LINE",
-"278 312 LINE SMOOTH",
-"239 312 OFFCURVE",
-"219 329 OFFCURVE",
-"219 364 CURVE SMOOTH",
-"219 395 OFFCURVE",
-"246 414 OFFCURVE",
-"293 414 CURVE SMOOTH",
-"344 414 OFFCURVE",
-"377 396 OFFCURVE",
-"390 352 CURVE SMOOTH",
-"394 339 OFFCURVE",
-"399 335 OFFCURVE",
-"406 336 CURVE SMOOTH",
-"540 346 LINE SMOOTH",
-"551 347 OFFCURVE",
-"557 354 OFFCURVE",
-"551 376 CURVE SMOOTH",
-"525 474 OFFCURVE",
-"438 539 OFFCURVE",
-"292 539 CURVE SMOOTH",
-"136 539 OFFCURVE",
-"52 478 OFFCURVE",
-"53 390 CURVE SMOOTH",
-"54 338 OFFCURVE",
-"77 303 OFFCURVE",
-"125 290 CURVE SMOOTH",
-"136 287 OFFCURVE",
-"139 278 OFFCURVE",
-"126 273 CURVE SMOOTH",
-"71 252 OFFCURVE",
-"40 207 OFFCURVE",
+"495 -7 OFFCURVE",
+"572 73 OFFCURVE",
+"599 154 CURVE SMOOTH",
+"604 170 OFFCURVE",
+"598 180 OFFCURVE",
+"585 182 CURVE SMOOTH",
+"499 198 LINE SMOOTH",
+"484 201 OFFCURVE",
+"477 199 OFFCURVE",
+"471 186 CURVE SMOOTH",
+"446 134 OFFCURVE",
+"410 113 OFFCURVE",
+"339 113 CURVE SMOOTH",
+"278 113 OFFCURVE",
+"252 133 OFFCURVE",
+"252 166 CURVE SMOOTH",
+"252 193 OFFCURVE",
+"268 209 OFFCURVE",
+"309 209 CURVE SMOOTH",
+"394 209 LINE",
+"394 312 LINE",
+"318 312 LINE SMOOTH",
+"279 312 OFFCURVE",
+"259 329 OFFCURVE",
+"259 364 CURVE SMOOTH",
+"259 395 OFFCURVE",
+"286 414 OFFCURVE",
+"333 414 CURVE SMOOTH",
+"384 414 OFFCURVE",
+"417 396 OFFCURVE",
+"430 352 CURVE SMOOTH",
+"434 339 OFFCURVE",
+"439 335 OFFCURVE",
+"446 336 CURVE SMOOTH",
+"580 346 LINE SMOOTH",
+"591 347 OFFCURVE",
+"597 354 OFFCURVE",
+"591 376 CURVE SMOOTH",
+"565 474 OFFCURVE",
+"475 539 OFFCURVE",
+"326 539 CURVE SMOOTH",
+"148 539 OFFCURVE",
+"52 474 OFFCURVE",
+"53 380 CURVE SMOOTH",
+"54 328 OFFCURVE",
+"77 292 OFFCURVE",
+"125 280 CURVE SMOOTH",
+"136 277 OFFCURVE",
+"139 268 OFFCURVE",
+"126 263 CURVE SMOOTH",
+"71 242 OFFCURVE",
+"40 202 OFFCURVE",
 "40 152 CURVE SMOOTH",
 "40 52 OFFCURVE",
-"151 -7 OFFCURVE",
-"301 -7 CURVE SMOOTH"
+"148 -7 OFFCURVE",
+"321 -7 CURVE SMOOTH"
 );
 }
 );
-width = 598;
+width = 638;
 }
 );
 leftKerningGroup = "reversedze-cy";
@@ -106812,6 +106892,7 @@ quotedblleft = -20;
 backslash = -10;
 quotedblleft = -30;
 "@MMK_R_u-cy" = -10;
+"@MMK_R_Izhitsa-cy" = -20;
 };
 "@MMK_L_C" = {
 "@MMK_R_A" = -20;
@@ -106831,6 +106912,8 @@ quotedblleft = -30;
 "@MMK_R_Ustrait-cy" = -30;
 "@MMK_R_quotesingle" = -40;
 quotedblleft = -50;
+"@MMK_R_Izhitsa-cy" = -40;
+"@MMK_R_u-cy" = -10;
 };
 "@MMK_L_Dze-cy" = {
 "@MMK_R_A-cy" = -10;
@@ -106858,20 +106941,24 @@ quotedblleft = -50;
 "@MMK_R_Ha-cy" = -60;
 "@MMK_R_ha-cy" = -30;
 "@MMK_R_Be-cy" = -50;
-"@MMK_R_Izhitsa-cy" = -20;
+"@MMK_R_Izhitsa-cy" = -90;
 "@MMK_R_Ustrait-cy" = -70;
 slash = -40;
 "@MMK_R_quotesingle" = -60;
 quotedblleft = -10;
 "@MMK_R_quoteright" = -10;
-"@MMK_R_u-cy" = -10;
+"@MMK_R_u-cy" = -30;
+"@MMK_R_Ze-cy" = -10;
+"@MMK_R_ze-cy" = -10;
+"dzeabkhasian-cy" = -40;
+"@MMK_R_Reversedze-cy" = -20;
 };
 "@MMK_L_Er-cy" = {
 "@MMK_R_A-cy" = -80;
 "@MMK_R_De-cy" = -70;
 "@MMK_R_El-cy" = -50;
 "@MMK_R_Ha-cy" = -30;
-"@MMK_R_Izhitsa-cy" = -20;
+"@MMK_R_Izhitsa-cy" = -30;
 "@MMK_R_Je-cy" = -80;
 "@MMK_R_Te-cy" = -40;
 "@MMK_R_Ustrait-cy" = -20;
@@ -106882,15 +106969,21 @@ quotedblleft = -10;
 "@MMK_R_period" = -110;
 "@MMK_R_ve-cy" = -50;
 slash = -70;
+"@MMK_R_Ze-cy" = -20;
 };
 "@MMK_L_Es-cy" = {
 "@MMK_R_A-cy" = -20;
 "@MMK_R_De-cy" = -20;
 "@MMK_R_Dze-cy" = 0;
 "@MMK_R_Ha-cy" = -30;
-"@MMK_R_Izhitsa-cy" = -10;
-"@MMK_R_Te-cy" = -10;
+"@MMK_R_Izhitsa-cy" = -20;
+"@MMK_R_Te-cy" = -30;
 "@MMK_R_Ustrait-cy" = -10;
+"@MMK_R_u-cy" = -10;
+"@MMK_R_El-cy" = -20;
+"@MMK_R_el-cy" = -10;
+"@MMK_R_ia-cy" = -10;
+"@MMK_R_ie-cy" = -10;
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = -60;
@@ -106976,6 +107069,8 @@ backslash = 20;
 "@MMK_R_ie-cy" = -50;
 "@MMK_R_te-cy" = -40;
 "@MMK_R_u-cy" = -50;
+"dzeabkhasian-cy" = -20;
+"@MMK_R_reversedze-cy" = -20;
 };
 "@MMK_L_Ie-cy" = {
 "@MMK_R_O-cy" = -40;
@@ -106988,7 +107083,7 @@ backslash = 20;
 "@MMK_R_A-cy" = -90;
 "@MMK_R_De-cy" = -40;
 "@MMK_R_Dze-cy" = -20;
-"@MMK_R_El-cy" = -30;
+"@MMK_R_El-cy" = -40;
 "@MMK_R_Ha-cy" = -10;
 "@MMK_R_Izhitsa-cy" = -10;
 "@MMK_R_Je-cy" = -40;
@@ -107000,16 +107095,24 @@ backslash = 20;
 "@MMK_R_che-cy" = -20;
 "@MMK_R_de-cy" = -60;
 "@MMK_R_dze-cy" = -40;
-"@MMK_R_el-cy" = -50;
+"@MMK_R_el-cy" = -70;
 "@MMK_R_ereversed-cy" = -50;
 "@MMK_R_ha-cy" = -50;
 "@MMK_R_hyphen" = -70;
-"@MMK_R_ia-cy" = -50;
-"@MMK_R_ie-cy" = -70;
+"@MMK_R_ia-cy" = -60;
+"@MMK_R_ie-cy" = -100;
 "@MMK_R_period" = -120;
 "@MMK_R_u-cy" = -30;
 "@MMK_R_ve-cy" = 0;
 "@MMK_R_ze-cy" = -50;
+"@MMK_R_Ef-cy" = -50;
+"@MMK_R_Cheabkhasian-cy" = -20;
+"@MMK_R_zhe-cy" = -60;
+"@MMK_R_ef-cy" = -90;
+"@MMK_R_i-cy" = 30;
+"@MMK_R_yusbig-cy" = -60;
+"@MMK_R_cheabkhasian-cy" = -80;
+"@MMK_R_reversedze-cy" = -20;
 };
 "@MMK_L_J" = {
 "@MMK_R_A" = -10;
@@ -107083,7 +107186,7 @@ periodcentered.loclCAT = -310;
 "@MMK_R_Dze-cy" = -20;
 "@MMK_R_Enghe-cy" = 0;
 "@MMK_R_Ha-cy" = -50;
-"@MMK_R_Izhitsa-cy" = -40;
+"@MMK_R_Izhitsa-cy" = -50;
 "@MMK_R_Je-cy" = -30;
 "@MMK_R_O-cy" = -10;
 "@MMK_R_Te-cy" = -60;
@@ -107147,11 +107250,12 @@ quotedblleft = -20;
 "@MMK_R_Ha-cy" = -30;
 "@MMK_R_Te-cy" = -130;
 "@MMK_R_U-cy" = -20;
-"@MMK_R_Izhitsa-cy" = -30;
+"@MMK_R_Izhitsa-cy" = -70;
 "@MMK_R_Ustrait-cy" = -80;
 "@MMK_R_quotesingle" = -90;
 quotedblleft = -60;
 "@MMK_R_quoteright" = -30;
+"@MMK_R_u-cy" = -10;
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -90;
@@ -107168,7 +107272,7 @@ quotedblleft = -60;
 "@MMK_R_g" = -110;
 "@MMK_R_hyphen" = -120;
 "@MMK_R_n" = -70;
-"@MMK_R_o" = -100;
+"@MMK_R_o" = 0;
 "@MMK_R_p" = -70;
 "@MMK_R_period" = -140;
 "@MMK_R_r" = -80;
@@ -107209,15 +107313,22 @@ quotedblleft = -60;
 "@MMK_R_ve-cy" = -110;
 "@MMK_R_ze-cy" = -100;
 slash = -80;
+"@MMK_R_Ze-cy" = -50;
+"@MMK_R_Reversedze-cy" = -60;
+"@MMK_R_o" = -70;
+"@MMK_R_reversedze-cy" = -100;
 };
 "@MMK_L_Tshe-cy" = {
 "@MMK_R_U-cy" = 0;
 "@MMK_R_De-cy" = -10;
 "@MMK_R_El-cy" = 0;
 "@MMK_R_Te-cy" = -40;
-"@MMK_R_Izhitsa-cy" = -10;
+"@MMK_R_Izhitsa-cy" = -40;
 "@MMK_R_te-cy" = -30;
 "@MMK_R_Ustrait-cy" = -20;
+"@MMK_R_u-cy" = -10;
+"@MMK_R_reversedze-cy" = 40;
+"@MMK_R_ie-cy" = 30;
 };
 "@MMK_L_U" = {
 "@MMK_R_A" = -40;
@@ -107234,6 +107345,7 @@ slash = -80;
 "@MMK_R_ze-cy" = -20;
 slash = -60;
 quotedblleft = 10;
+"@MMK_R_Reversedze-cy" = -10;
 };
 "@MMK_L_Ustrait-cy" = {
 "@MMK_R_A-cy" = -100;
@@ -107303,12 +107415,16 @@ quotedblleft = 10;
 };
 "@MMK_L_Ve-cy" = {
 "@MMK_R_A-cy" = -10;
-"@MMK_R_El-cy" = -20;
+"@MMK_R_El-cy" = -10;
 "@MMK_R_Ha-cy" = -20;
 "@MMK_R_Izhitsa-cy" = -20;
 "@MMK_R_O-cy" = -10;
 "@MMK_R_Te-cy" = -50;
 "@MMK_R_Ustrait-cy" = -30;
+"@MMK_R_i-cy" = 20;
+"@MMK_R_yusbig-cy" = 10;
+"@MMK_R_reversedze-cy" = 10;
+"@MMK_R_cheabkhasian-cy" = 20;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -90;
@@ -107395,7 +107511,7 @@ quotedblleft = 10;
 "@MMK_L_Zhe-cy" = {
 "@MMK_R_A-cy" = -10;
 "@MMK_R_Dze-cy" = -10;
-"@MMK_R_Izhitsa-cy" = -10;
+"@MMK_R_Izhitsa-cy" = -30;
 "@MMK_R_O-cy" = -20;
 "@MMK_R_Te-cy" = -30;
 "@MMK_R_Ustrait-cy" = -20;
@@ -107420,7 +107536,7 @@ quotedblleft = 10;
 "@MMK_L_a-cy" = {
 "@MMK_R_Te-cy" = -160;
 "@MMK_R_U-cy" = -30;
-"@MMK_R_u-cy" = -10;
+"@MMK_R_u-cy" = -20;
 backslash = -20;
 "@MMK_R_quotesingle" = -50;
 quotedblleft = -40;
@@ -107448,6 +107564,8 @@ quotedblleft = -40;
 backslash = -10;
 quotedblleft = -60;
 "@MMK_R_quoteright" = -30;
+"@MMK_R_ze-cy" = -10;
+"dzeabkhasian-cy" = -30;
 };
 "@MMK_L_c" = {
 "@MMK_R_f" = -10;
@@ -107468,6 +107586,9 @@ slash = 20;
 backslash = -10;
 quotedblleft = -20;
 "@MMK_R_quoteright" = -20;
+"@MMK_R_u-cy" = 10;
+"dzeabkhasian-cy" = 0;
+"@MMK_R_reversedze-cy" = 10;
 };
 "@MMK_L_dze-cy" = {
 "@MMK_R_Che-cy" = -20;
@@ -107493,11 +107614,14 @@ quotedblleft = -20;
 "@MMK_R_ha-cy" = -20;
 backslash = -20;
 quotedblleft = -50;
+"@MMK_R_u-cy" = -20;
+"dzeabkhasian-cy" = -20;
 };
 "@MMK_L_es-cy" = {
 "@MMK_R_ha-cy" = -20;
 "@MMK_R_ie-cy" = -10;
 "@MMK_R_u-cy" = -10;
+"dzeabkhasian-cy" = -20;
 };
 "@MMK_L_f" = {
 "@MMK_R_A" = -50;
@@ -107522,10 +107646,10 @@ asterisk = 10;
 "@MMK_R_el-cy" = -30;
 "@MMK_R_te-cy" = 10;
 slash = -50;
-"@MMK_R_ve-cy" = 0;
 "@MMK_R_de-cy" = -30;
 "@MMK_R_yusbig-cy" = -10;
 "@MMK_R_ie-cy" = -20;
+"@MMK_R_u-cy" = 10;
 };
 "@MMK_L_ha-cy" = {
 "@MMK_R_Te-cy" = -110;
@@ -107541,6 +107665,7 @@ slash = -50;
 };
 "@MMK_L_haab-cy" = {
 "@MMK_R_ha-cy" = 20;
+"@MMK_R_reversedze-cy" = 10;
 };
 "@MMK_L_hyphen" = {
 "@MMK_R_Ha-cy" = -80;
@@ -107576,6 +107701,8 @@ periodcentered.loclCAT = -60;
 "@MMK_R_U-cy" = -10;
 "@MMK_R_ie-cy" = 0;
 backslash = -10;
+"@MMK_R_u-cy" = -10;
+"dzeabkhasian-cy" = -50;
 };
 "@MMK_L_j" = {
 "@MMK_R_parenright" = 30;
@@ -107711,12 +107838,14 @@ backslash = -10;
 "@MMK_R_ha-cy" = -10;
 "@MMK_R_ia-cy" = 0;
 "@MMK_R_te-cy" = -50;
-"@MMK_R_u-cy" = -20;
+"@MMK_R_u-cy" = -40;
 "@MMK_R_ze-cy" = -10;
 backslash = -40;
 space = 0;
 quotedblleft = -100;
 "@MMK_R_quoteright" = -60;
+"dzeabkhasian-cy" = -40;
+"@MMK_R_reversedze-cy" = 10;
 };
 "@MMK_L_t" = {
 "@MMK_R_d" = -10;
@@ -107727,6 +107856,8 @@ quotedblleft = -100;
 };
 "@MMK_L_te-cy" = {
 "@MMK_R_A-cy" = -40;
+"@MMK_R_Ze-cy" = -10;
+"dzeabkhasian-cy" = -20;
 };
 "@MMK_L_u-cy" = {
 "@MMK_R_A-cy" = -60;
@@ -107736,14 +107867,23 @@ quotedblleft = -100;
 "@MMK_R_Te-cy" = -90;
 "@MMK_R_U-cy" = -20;
 "@MMK_R_a-cy" = -10;
-"@MMK_R_de-cy" = -30;
+"@MMK_R_de-cy" = -20;
 "@MMK_R_dze-cy" = -10;
-"@MMK_R_el-cy" = -30;
+"@MMK_R_el-cy" = 0;
 "@MMK_R_ha-cy" = 0;
 "@MMK_R_ie-cy" = -20;
 "@MMK_R_period" = -60;
 "@MMK_R_u-cy" = -10;
 slash = -30;
+"@MMK_R_be-cy" = 10;
+"@MMK_R_zhe-cy" = 20;
+"@MMK_R_ze-cy" = 0;
+"@MMK_R_te-cy" = 30;
+"@MMK_R_ereversed-cy" = 10;
+"@MMK_R_i-cy" = 30;
+"@MMK_R_ia-cy" = 10;
+"@MMK_R_yusbig-cy" = 10;
+"dzeabkhasian-cy" = -40;
 };
 "@MMK_L_v" = {
 "@MMK_R_A" = -60;
@@ -107766,6 +107906,11 @@ slash = -30;
 "@MMK_R_quotesingle" = -60;
 backslash = -10;
 quotedblleft = -10;
+"@MMK_R_be-cy" = 10;
+"zhe-cy" = 10;
+"che-cy" = -20;
+"dje-cy" = 20;
+"@MMK_R_reversedze-cy" = 40;
 };
 "@MMK_L_w" = {
 "@MMK_R_A" = -40;
@@ -107812,8 +107957,9 @@ quotedblleft = -10;
 "@MMK_R_o" = -10;
 };
 "@MMK_L_zhe-cy" = {
-"@MMK_R_ie-cy" = 10;
+"@MMK_R_ie-cy" = -10;
 slash = 10;
+"@MMK_R_reversedze-cy" = 20;
 };
 "Enghe-cy" = {
 "@MMK_R_ie-cy" = -90;
@@ -107826,7 +107972,8 @@ slash = 10;
 "@MMK_R_ie-cy" = -140;
 "@MMK_R_u-cy" = -80;
 "@MMK_R_ve-cy" = -150;
-"@MMK_R_ze-cy" = -40;
+"@MMK_R_ze-cy" = -90;
+"dzeabkhasian-cy" = -140;
 };
 "Gestrokehook-cy" = {
 "@MMK_R_ie-cy" = -120;
@@ -107958,12 +108105,24 @@ quotedblbase = {
 "@MMK_R_yusbig-cy" = 20;
 "@MMK_R_u-cy" = -10;
 "@MMK_R_reversedze-cy" = 20;
+"dzeabkhasian-cy" = 0;
 };
 "@MMK_L_Zhedescender-cy" = {
 "@MMK_R_Ustrait-cy" = -30;
+"@MMK_R_Izhitsa-cy" = -20;
+"@MMK_R_u-cy" = -10;
+"@MMK_R_Reversedze-cy" = -10;
 };
 "@MMK_L_Haabkhasian-cy" = {
 "@MMK_R_Ustrait-cy" = -10;
+"@MMK_R_Izhitsa-cy" = -60;
+};
+"@MMK_L_yusbig-cy" = {
+"@MMK_R_u-cy" = -10;
+"dzeabkhasian-cy" = -20;
+};
+"@MMK_L_zhedescender-cy" = {
+"@MMK_R_reversedze-cy" = 10;
 };
 };
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = {
@@ -108022,6 +108181,7 @@ quotedblleft = -70;
 "@MMK_L_Be-cy" = {
 "@MMK_R_De-cy" = -10;
 "@MMK_R_Ia-cy" = -30;
+"@MMK_R_Izhitsa-cy" = -40;
 };
 "@MMK_L_C" = {
 "@MMK_R_A" = -30;
@@ -108038,12 +108198,13 @@ quotedblleft = -70;
 "@MMK_R_Te-cy" = -40;
 "@MMK_R_Ze-cy" = -20;
 "@MMK_R_te-cy" = -20;
-"@MMK_R_u-cy" = -10;
-"@MMK_R_Izhitsa-cy" = -50;
+"@MMK_R_u-cy" = -40;
+"@MMK_R_Izhitsa-cy" = -70;
 "@MMK_R_Ustrait-cy" = -60;
 "@MMK_R_quotesingle" = -30;
 quotedblleft = -40;
 "@MMK_R_quoteright" = -30;
+"@MMK_R_Reversedze-cy" = -10;
 };
 "@MMK_L_Dze-cy" = {
 "@MMK_R_A-cy" = -40;
@@ -108071,7 +108232,8 @@ quotedblleft = -40;
 "@MMK_R_Ha-cy" = -50;
 "@MMK_R_ha-cy" = -10;
 "@MMK_R_Ustrait-cy" = -70;
-"@MMK_R_Izhitsa-cy" = -40;
+"@MMK_R_Izhitsa-cy" = -50;
+"@MMK_R_Ze-cy" = -10;
 };
 "@MMK_L_Er-cy" = {
 "@MMK_R_A-cy" = -120;
@@ -108088,15 +108250,30 @@ quotedblleft = -40;
 "@MMK_R_ie-cy" = -30;
 "@MMK_R_period" = -160;
 slash = -50;
+"@MMK_R_Ze-cy" = -10;
+"@MMK_R_Reversedze-cy" = -10;
 };
 "@MMK_L_Es-cy" = {
 "@MMK_R_A-cy" = -30;
 "@MMK_R_De-cy" = -20;
 "@MMK_R_Dze-cy" = 0;
 "@MMK_R_Ha-cy" = -30;
-"@MMK_R_Izhitsa-cy" = -20;
+"@MMK_R_Izhitsa-cy" = -40;
 "@MMK_R_Te-cy" = -30;
 "@MMK_R_Ustrait-cy" = -50;
+"@MMK_R_U-cy" = -20;
+"U-cy" = -40;
+"@MMK_R_Ia-cy" = -10;
+"be-cy" = -20;
+"@MMK_R_de-cy" = -20;
+"@MMK_R_zhe-cy" = -20;
+"@MMK_R_ze-cy" = -10;
+"@MMK_R_el-cy" = -20;
+"@MMK_R_che-cy" = -10;
+"@MMK_R_ia-cy" = -20;
+"@MMK_R_yusbig-cy" = -20;
+"@MMK_R_cheabkhasian-cy" = -10;
+"@MMK_R_ha-cy" = 0;
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = -100;
@@ -108195,9 +108372,15 @@ backslash = 20;
 "@MMK_R_te-cy" = -70;
 "@MMK_R_u-cy" = -80;
 "@MMK_R_quotesingle" = -10;
+"@MMK_R_Ze-cy" = -20;
+"dzeabkhasian-cy" = 0;
+"@MMK_R_Reversedze-cy" = -50;
 };
 "@MMK_L_Haabkhasian-cy" = {
 "@MMK_R_Ha-cy" = -10;
+"@MMK_R_Izhitsa-cy" = -100;
+"@MMK_R_u-cy" = -20;
+"@MMK_R_Ze-cy" = -10;
 };
 "@MMK_L_Ie-cy" = {
 "@MMK_R_O-cy" = -30;
@@ -108212,7 +108395,7 @@ backslash = 20;
 "@MMK_R_Dze-cy" = -20;
 "@MMK_R_El-cy" = -40;
 "@MMK_R_Ha-cy" = 0;
-"@MMK_R_Izhitsa-cy" = -30;
+"@MMK_R_Izhitsa-cy" = -10;
 "@MMK_R_Je-cy" = -80;
 "@MMK_R_O-cy" = -30;
 "@MMK_R_Te-cy" = 10;
@@ -108223,7 +108406,7 @@ backslash = 20;
 "@MMK_R_de-cy" = -80;
 "@MMK_R_dze-cy" = -60;
 "@MMK_R_el-cy" = -80;
-"@MMK_R_ereversed-cy" = -60;
+"@MMK_R_ereversed-cy" = -70;
 "@MMK_R_ha-cy" = -50;
 "@MMK_R_hyphen" = -50;
 "@MMK_R_ia-cy" = -90;
@@ -108231,7 +108414,7 @@ backslash = 20;
 "@MMK_R_period" = -100;
 "@MMK_R_u-cy" = -30;
 "@MMK_R_ve-cy" = -40;
-"@MMK_R_ze-cy" = -80;
+"@MMK_R_ze-cy" = -100;
 "edieresis-cy" = -10;
 "io-cy" = -30;
 "obarreddieresis-cy" = -30;
@@ -108239,6 +108422,14 @@ backslash = 20;
 "schwadieresis-cy" = -30;
 "yi-cy" = 110;
 "zedieresis-cy" = -20;
+"@MMK_R_zhe-cy" = -70;
+"@MMK_R_te-cy" = -40;
+"@MMK_R_ef-cy" = -70;
+"@MMK_R_i-cy" = 30;
+"@MMK_R_yusbig-cy" = -80;
+"@MMK_R_cheabkhasian-cy" = -90;
+"@MMK_R_reversedze-cy" = -80;
+"@MMK_R_Reversedze-cy" = -10;
 };
 "@MMK_L_J" = {
 "@MMK_R_A" = -30;
@@ -108368,10 +108559,11 @@ backslash = -10;
 "@MMK_R_U-cy" = -80;
 "@MMK_R_ha-cy" = -20;
 "@MMK_R_Ustrait-cy" = -120;
-"@MMK_R_Izhitsa-cy" = -40;
+"@MMK_R_Izhitsa-cy" = -70;
 backslash = -40;
 "@MMK_R_quotesingle" = -30;
 "@MMK_R_quoteright" = -50;
+"@MMK_R_u-cy" = -20;
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = -110;
@@ -108440,6 +108632,9 @@ backslash = -40;
 "ushort-cy" = -70;
 "yi-cy" = 90;
 "zedieresis-cy" = -60;
+"@MMK_R_Ze-cy" = 0;
+"@MMK_R_Reversedze-cy" = -20;
+"@MMK_R_reversedze-cy" = -100;
 };
 "@MMK_L_Tshe-cy" = {
 "@MMK_R_U-cy" = -40;
@@ -108449,10 +108644,10 @@ backslash = -40;
 "@MMK_R_Te-cy" = -60;
 "@MMK_R_Che-cy" = -10;
 "@MMK_R_Ia-cy" = -10;
-"@MMK_R_Izhitsa-cy" = -50;
+"@MMK_R_Izhitsa-cy" = -70;
 "@MMK_R_Cheabkhasian-cy" = -30;
 "@MMK_R_Ha-cy" = -10;
-"@MMK_R_Reversedze-cy" = -20;
+"@MMK_R_Reversedze-cy" = 0;
 "@MMK_R_be-cy" = -10;
 "@MMK_R_zhe-cy" = -10;
 "@MMK_R_ia-cy" = -10;
@@ -108486,6 +108681,10 @@ backslash = -40;
 "zedieresis-cy" = -70;
 slash = -40;
 "@MMK_R_u-cy" = -10;
+"@MMK_R_Ze-cy" = -30;
+"@MMK_R_Ef-cy" = -60;
+"@MMK_R_Reversedze-cy" = -40;
+"@MMK_R_reversedze-cy" = -80;
 };
 "@MMK_L_Ustrait-cy" = {
 "@MMK_R_A-cy" = -150;
@@ -108574,6 +108773,14 @@ slash = -40;
 "@MMK_R_Te-cy" = -20;
 "@MMK_R_U-cy" = -20;
 "@MMK_R_Ustrait-cy" = -50;
+"@MMK_R_Cheabkhasian-cy" = -20;
+"@MMK_R_de-cy" = -10;
+"@MMK_R_zhe-cy" = -20;
+"@MMK_R_el-cy" = -20;
+"@MMK_R_te-cy" = -10;
+"@MMK_R_che-cy" = -20;
+"@MMK_R_ia-cy" = -20;
+"@MMK_R_yusbig-cy" = -20;
 };
 "@MMK_L_W" = {
 "@MMK_R_A" = -120;
@@ -108666,7 +108873,7 @@ slash = -40;
 "@MMK_R_O-cy" = -30;
 "@MMK_R_Te-cy" = -70;
 "@MMK_R_Ustrait-cy" = -50;
-"@MMK_R_Ze-cy" = -20;
+"@MMK_R_Ze-cy" = -30;
 "@MMK_R_a-cy" = -20;
 "@MMK_R_be-cy" = -30;
 "@MMK_R_che-cy" = -40;
@@ -108676,7 +108883,7 @@ slash = -40;
 "@MMK_R_hyphen" = -50;
 "@MMK_R_ie-cy" = -30;
 "@MMK_R_te-cy" = -20;
-"@MMK_R_u-cy" = -60;
+"@MMK_R_u-cy" = -50;
 };
 "@MMK_L_a" = {
 "@MMK_R_f" = -20;
@@ -108715,6 +108922,7 @@ slash = -40;
 "Ge-cy" = 0;
 quotedblleft = -10;
 "@MMK_R_quoteright" = 0;
+"dzeabkhasian-cy" = -20;
 };
 "@MMK_L_c" = {
 "@MMK_R_f" = -20;
@@ -108731,6 +108939,7 @@ quotedblleft = -10;
 "@MMK_R_quotesingle" = -60;
 backslash = -10;
 "@MMK_R_quoteright" = -30;
+"@MMK_R_u-cy" = -20;
 };
 "@MMK_L_dze-cy" = {
 "@MMK_R_Te-cy" = -100;
@@ -108753,8 +108962,10 @@ backslash = -10;
 };
 "@MMK_L_es-cy" = {
 "@MMK_R_ha-cy" = -30;
-"@MMK_R_u-cy" = -20;
+"@MMK_R_u-cy" = -30;
 "@MMK_R_quotesingle" = -20;
+"dzeabkhasian-cy" = -20;
+"@MMK_R_yusbig-cy" = -10;
 };
 "@MMK_L_f" = {
 "@MMK_R_A" = -30;
@@ -108783,6 +108994,7 @@ slash = -20;
 "@MMK_R_ia-cy" = -20;
 "@MMK_R_yusbig-cy" = -20;
 "@MMK_R_reversedze-cy" = -20;
+"@MMK_R_u-cy" = 20;
 };
 "@MMK_L_ha-cy" = {
 "@MMK_R_Te-cy" = -120;
@@ -108823,10 +109035,11 @@ periodcentered.loclCAT = -30;
 "@MMK_R_U-cy" = -60;
 "@MMK_R_ha-cy" = -40;
 "@MMK_R_quotesingle" = -20;
-"@MMK_R_u-cy" = -30;
+"@MMK_R_u-cy" = -10;
 "Ge-cy" = 0;
 "ha-cy" = -10;
 backslash = -20;
+"@MMK_R_ze-cy" = -20;
 };
 "@MMK_L_ii-cy" = {
 "@MMK_R_Che-cy" = -10;
@@ -108960,12 +109173,13 @@ quotedblleft = 70;
 "@MMK_R_ha-cy" = -20;
 "@MMK_R_ia-cy" = -20;
 "@MMK_R_te-cy" = -60;
-"@MMK_R_u-cy" = -40;
+"@MMK_R_u-cy" = -60;
 "@MMK_R_ze-cy" = -10;
 backslash = -70;
 "@MMK_R_quotesingle" = -130;
 quotedblleft = -80;
 "@MMK_R_quoteright" = -60;
+"dzeabkhasian-cy" = -40;
 };
 "@MMK_L_t" = {
 "@MMK_R_d" = -20;
@@ -108983,14 +109197,19 @@ quotedblleft = -80;
 "@MMK_R_Te-cy" = -90;
 "@MMK_R_U-cy" = -30;
 "@MMK_R_a-cy" = -20;
-"@MMK_R_de-cy" = -40;
+"@MMK_R_de-cy" = -30;
 "@MMK_R_dze-cy" = -30;
 "@MMK_R_el-cy" = -60;
 "@MMK_R_ha-cy" = -10;
-"@MMK_R_ie-cy" = -30;
+"@MMK_R_ie-cy" = 0;
 "@MMK_R_period" = -80;
 "@MMK_R_u-cy" = -10;
 quotedblleft = 10;
+"@MMK_R_ereversed-cy" = 20;
+"@MMK_R_i-cy" = 10;
+"@MMK_R_ia-cy" = -10;
+"@MMK_R_yusbig-cy" = -20;
+"@MMK_R_ze-cy" = -30;
 };
 "@MMK_L_v" = {
 "@MMK_R_A" = -90;
@@ -109015,6 +109234,7 @@ quotedblleft = 10;
 "@MMK_R_ze-cy" = -30;
 "@MMK_R_quotesingle" = -50;
 backslash = -30;
+"@MMK_R_u-cy" = -30;
 };
 "@MMK_L_w" = {
 "@MMK_R_A" = -80;
@@ -109065,11 +109285,18 @@ backslash = -30;
 "@MMK_R_ie-cy" = -20;
 backslash = -10;
 "@MMK_R_quotesingle" = -30;
+"@MMK_R_u-cy" = -10;
+"dzeabkhasian-cy" = -10;
+"@MMK_R_ze-cy" = -30;
+"@MMK_R_reversedze-cy" = 0;
 };
 "@MMK_L_zhedescender-cy" = {
 "@MMK_R_ef-cy" = -20;
 "@MMK_R_ie-cy" = -30;
-"@MMK_R_u-cy" = -10;
+"@MMK_R_u-cy" = -40;
+"@MMK_R_ze-cy" = -50;
+"dzeabkhasian-cy" = -20;
+"@MMK_R_reversedze-cy" = -10;
 };
 "A-cy" = {
 "U-cy" = -61;
@@ -109092,8 +109319,9 @@ backslash = -10;
 "@MMK_R_i-cy" = 10;
 "@MMK_R_ie-cy" = -150;
 "@MMK_R_u-cy" = -90;
-"@MMK_R_ze-cy" = -60;
+"@MMK_R_ze-cy" = -100;
 "io-cy" = -40;
+"dzeabkhasian-cy" = -110;
 };
 "Gestrokehook-cy" = {
 "@MMK_R_che-cy" = -60;
@@ -109183,6 +109411,11 @@ quotedblbase = {
 };
 "@MMK_L_Zhedescender-cy" = {
 "@MMK_R_ve-cy" = -20;
+"@MMK_R_Izhitsa-cy" = -60;
+"@MMK_R_u-cy" = -60;
+"@MMK_R_Ze-cy" = -30;
+"@MMK_R_Reversedze-cy" = -30;
+"@MMK_R_reversedze-cy" = -10;
 };
 "ghestroke-cy.loclBSH" = {
 "@MMK_R_ze-cy" = 0;
@@ -109201,9 +109434,50 @@ quotedblbase = {
 "@MMK_R_che-cy" = -40;
 "@MMK_R_i-cy" = -40;
 "@MMK_R_ia-cy" = -20;
-"@MMK_R_u-cy" = -20;
+"@MMK_R_u-cy" = -40;
 "@MMK_R_cheabkhasian-cy" = -30;
 "@MMK_R_reversedze-cy" = -10;
+};
+"@MMK_L_ef-cy" = {
+"@MMK_R_u-cy" = -20;
+"dzeabkhasian-cy" = 0;
+};
+"@MMK_L_yusbig-cy" = {
+"@MMK_R_u-cy" = -40;
+"@MMK_R_ze-cy" = -20;
+};
+"@MMK_L_haab-cy" = {
+"@MMK_R_u-cy" = -80;
+"@MMK_R_ze-cy" = -20;
+};
+"Te-cy" = {
+"@MMK_R_Ze-cy" = -20;
+};
+"Dzeabkhasian-cy" = {
+"@MMK_R_te-cy" = -30;
+};
+"Ha-cy" = {
+"dzeabkhasian-cy" = -20;
+};
+"dzeabkhasian-cy" = {
+"@MMK_R_de-cy" = 10;
+};
+"es-cy" = {
+"dzeabkhasian-cy" = -20;
+};
+"ka-cy" = {
+"dzeabkhasian-cy" = -20;
+};
+"ef-cy" = {
+"dzeabkhasian-cy" = -20;
+};
+"softsign-cy" = {
+"@MMK_R_ze-cy" = -10;
+"dzeabkhasian-cy" = -40;
+};
+"hardsign-cy" = {
+"@MMK_R_ze-cy" = -10;
+"dzeabkhasian-cy" = -40;
 };
 };
 };
