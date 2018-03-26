@@ -1,5 +1,10 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+"/Ze-cy",
+"/ge-cy",
+"/dzhe-cy"
+);
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
@@ -37451,7 +37456,7 @@ unicode = 0416;
 },
 {
 glyphname = "Ze-cy";
-lastChange = "2018-03-22 15:31:25 +0000";
+lastChange = "2018-03-26 10:59:11 +0000";
 layers = (
 {
 anchors = (
@@ -37479,7 +37484,7 @@ closed = 1;
 nodes = (
 "494 -10 OFFCURVE",
 "592 86 OFFCURVE",
-"592 199 CURVE SMOOTH",
+"592 201 CURVE SMOOTH",
 "592 293 OFFCURVE",
 "530 355 OFFCURVE",
 "461 374 CURVE SMOOTH",
@@ -37488,7 +37493,7 @@ nodes = (
 "461 385 CURVE SMOOTH",
 "525 415 OFFCURVE",
 "568 478 OFFCURVE",
-"568 558 CURVE SMOOTH",
+"568 554 CURVE SMOOTH",
 "568 667 OFFCURVE",
 "473 752 OFFCURVE",
 "335 752 CURVE SMOOTH",
@@ -37502,15 +37507,15 @@ nodes = (
 "126 545 OFFCURVE",
 "128 546 OFFCURVE",
 "129 552 CURVE SMOOTH",
-"143 640 OFFCURVE",
+"148 639 OFFCURVE",
 "220 710 OFFCURVE",
 "337 710 CURVE SMOOTH",
 "451 710 OFFCURVE",
 "522 644 OFFCURVE",
-"522 558 CURVE SMOOTH",
+"522 554 CURVE SMOOTH",
 "522 464 OFFCURVE",
-"452 395 OFFCURVE",
-"333 395 CURVE SMOOTH",
+"459 395 OFFCURVE",
+"353 395 CURVE SMOOTH",
 "260 395 LINE SMOOTH",
 "255 395 OFFCURVE",
 "251 392 OFFCURVE",
@@ -37519,15 +37524,15 @@ nodes = (
 "251 357 OFFCURVE",
 "254 355 OFFCURVE",
 "260 355 CURVE SMOOTH",
-"350 355 LINE SMOOTH",
-"460 355 OFFCURVE",
+"360 355 LINE SMOOTH",
+"474 355 OFFCURVE",
 "546 302 OFFCURVE",
-"546 196 CURVE SMOOTH",
+"546 199 CURVE SMOOTH",
 "546 100 OFFCURVE",
 "466 32 OFFCURVE",
 "331 32 CURVE SMOOTH",
-"212 32 OFFCURVE",
-"151 86 OFFCURVE",
+"222 32 OFFCURVE",
+"141 85 OFFCURVE",
 "107 186 CURVE SMOOTH",
 "106 188 OFFCURVE",
 "104 189 OFFCURVE",
@@ -47082,7 +47087,7 @@ unicode = 04B2;
 },
 {
 glyphname = "Chedescender-cy";
-lastChange = "2018-03-19 18:34:18 +0000";
+lastChange = "2018-03-26 14:53:26 +0000";
 layers = (
 {
 components = (
@@ -47091,11 +47096,11 @@ name = "Che-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 522, 0}";
+transform = "{1, 0, 0, 1, 532, 0}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 675;
+width = 685;
 },
 {
 components = (
@@ -47104,11 +47109,11 @@ name = "Che-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 593, 0}";
+transform = "{1, 0, 0, 1, 603, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 817;
+width = 827;
 }
 );
 leftKerningGroup = "Che-cy";
@@ -47335,7 +47340,7 @@ unicode = 04B8;
 },
 {
 glyphname = "Shha-cy";
-lastChange = "2018-03-19 18:45:07 +0000";
+lastChange = "2018-03-26 14:53:26 +0000";
 layers = (
 {
 anchors = (
@@ -47347,11 +47352,11 @@ position = "{552, 0}";
 components = (
 {
 name = "Che-cy";
-transform = "{-1, 0, 0, -1, 658, 742}";
+transform = "{-1, 0, 0, -1, 668, 742}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 658;
+width = 668;
 },
 {
 anchors = (
@@ -47363,11 +47368,11 @@ position = "{521, 0}";
 components = (
 {
 name = "Che-cy";
-transform = "{-1, 0, 0, -1, 740, 742}";
+transform = "{-1, 0, 0, -1, 750, 742}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 740;
+width = 750;
 }
 );
 leftKerningGroup = "Be-cy";
@@ -52151,7 +52156,7 @@ unicode = 0432;
 },
 {
 glyphname = "ge-cy";
-lastChange = "2018-03-23 09:20:22 +0000";
+lastChange = "2018-03-26 14:52:21 +0000";
 layers = (
 {
 anchors = (
@@ -52234,10 +52239,10 @@ nodes = (
 "453 395 OFFCURVE",
 "461 404 OFFCURVE",
 "461 417 CURVE SMOOTH",
-"461 512 LINE SMOOTH",
-"461 525 OFFCURVE",
-"452 531 OFFCURVE",
-"439 531 CURVE SMOOTH",
+"461 511 LINE SMOOTH",
+"461 524 OFFCURVE",
+"452 530 OFFCURVE",
+"439 530 CURVE SMOOTH",
 "72 530 LINE SMOOTH",
 "59 530 OFFCURVE",
 "50 524 OFFCURVE",
@@ -58016,9 +58021,21 @@ unicode = 0449;
 },
 {
 glyphname = "dzhe-cy";
-lastChange = "2018-03-19 18:34:18 +0000";
+lastChange = "2018-03-26 14:53:37 +0000";
 layers = (
 {
+hints = (
+{
+origin = "{0, 21}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 20}";
+type = Corner;
+name = _corner.low;
+}
+);
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
 paths = (
 {
@@ -58072,6 +58089,18 @@ nodes = (
 width = 591;
 },
 {
+hints = (
+{
+origin = "{0, 20}";
+type = Corner;
+name = _corner.low;
+},
+{
+origin = "{0, 21}";
+type = Corner;
+name = _corner.low;
+}
+);
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
 paths = (
 {
