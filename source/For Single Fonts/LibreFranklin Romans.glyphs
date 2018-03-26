@@ -1,10 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"/Ze-cy",
-"/ge-cy",
-"/dzhe-cy"
-);
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
@@ -47382,7 +47377,7 @@ unicode = 04BA;
 },
 {
 glyphname = "Shhadescender-cy";
-lastChange = "2018-03-19 18:55:54 +0000";
+lastChange = "2018-03-26 15:20:48 +0000";
 layers = (
 {
 components = (
@@ -47395,7 +47390,7 @@ transform = "{1, 0, 0, 1, 572, 0}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 675;
+width = 685;
 },
 {
 components = (
@@ -47417,7 +47412,7 @@ unicode = 0526;
 },
 {
 glyphname = "Cheabkhasian-cy";
-lastChange = "2018-03-19 18:34:18 +0000";
+lastChange = "2018-03-26 15:20:48 +0000";
 layers = (
 {
 components = (
@@ -47426,11 +47421,11 @@ name = "Che-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 522, 0}";
+transform = "{1, 0, 0, 1, 532, 0}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 675;
+width = 685;
 },
 {
 background = {
@@ -47559,11 +47554,11 @@ name = "Che-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 593, 0}";
+transform = "{1, 0, 0, 1, 603, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 817;
+width = 827;
 }
 );
 leftKerningGroup = "Cheabkhasian-cy";
@@ -48184,7 +48179,7 @@ unicode = 04C3;
 },
 {
 glyphname = "Eltail-cy";
-lastChange = "2018-03-23 08:47:22 +0000";
+lastChange = "2018-03-26 15:20:57 +0000";
 layers = (
 {
 components = (
@@ -48625,7 +48620,7 @@ unicode = 04C9;
 },
 {
 glyphname = "Chekhakassian-cy";
-lastChange = "2018-03-19 18:34:18 +0000";
+lastChange = "2018-03-26 15:20:48 +0000";
 layers = (
 {
 components = (
@@ -48634,11 +48629,11 @@ name = "Che-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 522, 0}";
+transform = "{1, 0, 0, 1, 532, 0}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 675;
+width = 685;
 },
 {
 components = (
@@ -48647,11 +48642,11 @@ name = "Che-cy";
 },
 {
 name = "__descender-cy.case";
-transform = "{1, 0, 0, 1, 593, 0}";
+transform = "{1, 0, 0, 1, 603, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 817;
+width = 827;
 }
 );
 leftKerningGroup = "Che-cy";
@@ -49578,7 +49573,7 @@ unicode = 04F2;
 },
 {
 glyphname = "Chedieresis-cy";
-lastChange = "2018-03-19 18:34:18 +0000";
+lastChange = "2018-03-26 15:20:48 +0000";
 layers = (
 {
 components = (
@@ -49587,11 +49582,11 @@ name = "Che-cy";
 },
 {
 name = "dieresiscomb-cy";
-transform = "{1, 0, 0, 1, 205, 212}";
+transform = "{1, 0, 0, 1, 215, 212}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 658;
+width = 668;
 },
 {
 components = (
