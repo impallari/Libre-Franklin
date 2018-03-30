@@ -11,6 +11,10 @@ Libre Franklin is an interpretation and expancion based on the 1912 Morris Fulle
 
 To contribute to the project contact Pablo Impallari at https://github.com/impallari/Libre-Franklin/ 
 
+30 Mar 2018 (Alexei Vanyashin) Libre Franklin v1.500
+— Added Cyrillic Plus, and Pro support
+- Added Latin Plus, Pro support (few missing glyphs)
+
 15 Nov 2016 (Pablo Impallari) Libre Franklin v1.015
 - Fix italics doublequote interpolation bug
 
@@ -55,3 +59,7 @@ E: fuenzarodrigo@gmail.com
 W: http://www.impallari.com
 D: Designer
 
+N: Alexei Vanashin
+E: a@cyreal.org
+W: http://cyreal.org
+D: Designer of Cyrillic
