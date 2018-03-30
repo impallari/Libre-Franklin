@@ -47288,7 +47288,7 @@ unicode = 04BA;
 },
 {
 glyphname = "Shhadescender-cy";
-lastChange = "2018-03-26 15:20:48 +0000";
+lastChange = "2018-03-30 09:37:54 +0000";
 layers = (
 {
 components = (
@@ -47314,7 +47314,7 @@ transform = "{1, 0, 0, 1, 608, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 817;
+width = 827;
 }
 );
 leftKerningGroup = "Be-cy";
@@ -49484,7 +49484,7 @@ unicode = 04F2;
 },
 {
 glyphname = "Chedieresis-cy";
-lastChange = "2018-03-26 15:20:48 +0000";
+lastChange = "2018-03-30 09:37:54 +0000";
 layers = (
 {
 components = (
@@ -49506,11 +49506,11 @@ name = "Che-cy";
 },
 {
 name = "dieresiscomb-cy";
-transform = "{1, 0, 0, 1, 158, 212}";
+transform = "{1, 0, 0, 1, 168, 212}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 740;
+width = 750;
 }
 );
 leftKerningGroup = "Che-cy";
@@ -68644,7 +68644,7 @@ rightMetricsKey = "ge-cy";
 },
 {
 glyphname = "zedescender-cy.loclBSH";
-lastChange = "2018-03-21 09:31:02 +0000";
+lastChange = "2018-03-30 09:37:54 +0000";
 layers = (
 {
 components = (
@@ -68662,7 +68662,7 @@ name = "zedescender-cy";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 578;
+width = 598;
 }
 );
 leftKerningGroup = "ze-cy";
@@ -106075,8 +106075,10 @@ width = 600;
 );
 },
 {
+color = 10;
+export = 0;
 glyphname = "__descender-cy.case";
-lastChange = "2018-03-19 17:58:42 +0000";
+lastChange = "2018-03-30 09:50:03 +0000";
 layers = (
 {
 anchors = (
@@ -106257,8 +106259,10 @@ width = 77;
 );
 },
 {
+color = 10;
+export = 0;
 glyphname = "__descender-cy";
-lastChange = "2018-03-19 17:59:27 +0000";
+lastChange = "2018-03-30 09:50:03 +0000";
 layers = (
 {
 anchors = (
@@ -106546,8 +106550,10 @@ width = 52;
 );
 },
 {
+color = 10;
+export = 0;
 glyphname = "dieresiscomb-cy";
-lastChange = "2018-03-13 21:37:50 +0000";
+lastChange = "2018-03-30 09:50:07 +0000";
 layers = (
 {
 anchors = (
