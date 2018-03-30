@@ -32,7 +32,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2018-03-30 11:39:00 +0000";
+date = "2018-03-30 12:57:37 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Nhung Nguyen";
 designerURL = "http://www.impallari.com/";
 familyName = "Libre Franklin";
@@ -21564,7 +21564,7 @@ unicode = 00EB;
 },
 {
 glyphname = edotaccent;
-lastChange = "2016-09-03 20:55:21 +0000";
+lastChange = "2018-03-30 12:56:14 +0000";
 layers = (
 {
 components = (
@@ -21572,9 +21572,8 @@ components = (
 name = e;
 },
 {
-alignment = -1;
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 168, 0}";
+transform = "{1, 0, 0, 1, 191, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -21586,9 +21585,8 @@ components = (
 name = e;
 },
 {
-alignment = -1;
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 168, 0}";
+transform = "{1, 0, 0, 1, 262, 0}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -113377,5 +113375,5 @@ tH = 35;
 };
 };
 versionMajor = 1;
-versionMinor = 500;
+versionMinor = 501;
 }
