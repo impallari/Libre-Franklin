@@ -147,7 +147,7 @@ value = 238;
 },
 {
 name = winAscent;
-value = 1167;
+value = 1176;
 },
 {
 name = winDescent;
@@ -238,7 +238,7 @@ value = 238;
 },
 {
 name = winAscent;
-value = 1167;
+value = 1176;
 },
 {
 name = winDescent;
@@ -106886,7 +106886,6 @@ name = Thin;
 weightClass = Thin;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -106902,7 +106901,6 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
-exports = 0;
 interpolationWeight = 66;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.1625;
@@ -106912,7 +106910,6 @@ name = Light;
 weightClass = Light;
 },
 {
-exports = 0;
 interpolationWeight = 84;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.275;
@@ -106930,7 +106927,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-exports = 0;
 interpolationWeight = 130;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.5625;
@@ -106940,7 +106936,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-exports = 0;
 interpolationWeight = 154;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.7125;
@@ -106951,7 +106946,6 @@ name = Bold;
 weightClass = Bold;
 },
 {
-exports = 0;
 interpolationWeight = 178;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.8625;
