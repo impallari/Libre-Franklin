@@ -28,7 +28,7 @@ name = vendorID;
 value = IMPA;
 }
 );
-date = "2016-11-15 03:14:49 +0000";
+date = "2018-03-30 10:08:59 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Nhung Nguyen";
 designerURL = "http://www.impallari.com/";
 familyName = "Libre Franklin";
@@ -110466,7 +110466,6 @@ name = "Thin Italic";
 weightClass = Thin;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -110484,7 +110483,6 @@ name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
-exports = 0;
 interpolationWeight = 66;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.1625;
@@ -110496,7 +110494,6 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
-exports = 0;
 interpolationWeight = 84;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.275;
@@ -110517,7 +110514,6 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
-exports = 0;
 interpolationWeight = 130;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.5625;
@@ -110529,7 +110525,6 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
-exports = 0;
 interpolationWeight = 154;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.7125;
@@ -110541,7 +110536,6 @@ name = "Bold Italic";
 weightClass = Bold;
 },
 {
-exports = 0;
 interpolationWeight = 178;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.8625;
@@ -113283,5 +113277,5 @@ tH = 35;
 };
 };
 versionMajor = 1;
-versionMinor = 15;
+versionMinor = 500;
 }
