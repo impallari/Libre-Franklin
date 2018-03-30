@@ -1,5 +1,8 @@
 {
 .appVersion = "1075";
+DisplayStrings = (
+/ringhalfright
+);
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
@@ -5084,7 +5087,7 @@ unicode = 1E16;
 {
 color = 4;
 glyphname = Emacrongrave;
-lastChange = "2018-03-02 16:06:03 +0000";
+lastChange = "2018-03-30 08:24:46 +0000";
 layers = (
 {
 components = (
@@ -11144,7 +11147,7 @@ unicode = 00D5;
 {
 color = 4;
 glyphname = Otildeacute;
-lastChange = "2018-03-06 18:47:05 +0000";
+lastChange = "2018-03-30 08:27:01 +0000";
 layers = (
 {
 components = (
@@ -11157,7 +11160,7 @@ transform = "{1, 0, 0, 1, 240, 212}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 245, 303}";
+transform = "{1, 0, 0, 1, 235, 333}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -11188,7 +11191,7 @@ unicode = 1E4C;
 {
 color = 4;
 glyphname = Otildedieresis;
-lastChange = "2018-03-06 18:47:05 +0000";
+lastChange = "2018-03-30 08:27:01 +0000";
 layers = (
 {
 components = (
@@ -11201,7 +11204,7 @@ transform = "{1, 0, 0, 1, 240, 212}";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 290, 303}";
+transform = "{1, 0, 0, 1, 280, 333}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -15572,7 +15575,7 @@ unicode = 0168;
 {
 color = 4;
 glyphname = Utildeacute;
-lastChange = "2018-03-05 18:27:19 +0000";
+lastChange = "2018-03-30 08:26:59 +0000";
 layers = (
 {
 components = (
@@ -15585,7 +15588,7 @@ transform = "{1, 0, 0, 1, 214, 212}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 219, 303}";
+transform = "{1, 0, 0, 1, 209, 333}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -15602,7 +15605,7 @@ transform = "{1, 0, 0, 1, 152, 212}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 225, 373}";
+transform = "{1, 0, 0, 1, 205, 423}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -28549,7 +28552,7 @@ unicode = 00F5;
 {
 color = 4;
 glyphname = otildeacute;
-lastChange = "2018-03-06 18:53:04 +0000";
+lastChange = "2018-03-30 08:27:01 +0000";
 layers = (
 {
 components = (
@@ -28562,7 +28565,7 @@ transform = "{1, 0, 0, 1, 160, 0}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 165, 91}";
+transform = "{1, 0, 0, 1, 155, 121}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -28593,7 +28596,7 @@ unicode = 1E4D;
 {
 color = 4;
 glyphname = otildedieresis;
-lastChange = "2018-03-06 18:53:04 +0000";
+lastChange = "2018-03-30 08:27:01 +0000";
 layers = (
 {
 components = (
@@ -28606,7 +28609,7 @@ transform = "{1, 0, 0, 1, 160, 0}";
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 210, 91}";
+transform = "{1, 0, 0, 1, 200, 121}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -33059,7 +33062,7 @@ unicode = 0169;
 {
 color = 4;
 glyphname = utildeacute;
-lastChange = "2018-03-05 18:26:23 +0000";
+lastChange = "2018-03-30 08:27:01 +0000";
 layers = (
 {
 components = (
@@ -33072,7 +33075,7 @@ transform = "{1, 0, 0, 1, 127, 0}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 132, 91}";
+transform = "{1, 0, 0, 1, 122, 121}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -102328,7 +102331,7 @@ unicode = 030A;
 },
 {
 glyphname = tildecomb;
-lastChange = "2018-03-02 16:07:58 +0000";
+lastChange = "2018-03-30 08:26:59 +0000";
 layers = (
 {
 anchors = (
@@ -102338,7 +102341,7 @@ position = "{229, 530}";
 },
 {
 name = top;
-position = "{233, 691}";
+position = "{213, 741}";
 }
 );
 background = {
@@ -102438,7 +102441,7 @@ position = "{141, 530}";
 },
 {
 name = top;
-position = "{141, 621}";
+position = "{131, 651}";
 }
 );
 background = {
