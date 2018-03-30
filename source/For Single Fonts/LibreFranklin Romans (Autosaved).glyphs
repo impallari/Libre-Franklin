@@ -47288,7 +47288,7 @@ unicode = 04BA;
 },
 {
 glyphname = "Shhadescender-cy";
-lastChange = "2018-03-26 15:20:48 +0000";
+lastChange = "2018-03-30 09:37:54 +0000";
 layers = (
 {
 components = (
@@ -47314,12 +47314,13 @@ transform = "{1, 0, 0, 1, 608, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 817;
+width = 827;
 }
 );
 leftKerningGroup = "Be-cy";
 rightKerningGroup = "De-cy";
 unicode = 0526;
+changeCount = 1;
 },
 {
 glyphname = "Cheabkhasian-cy";
@@ -49484,7 +49485,7 @@ unicode = 04F2;
 },
 {
 glyphname = "Chedieresis-cy";
-lastChange = "2018-03-26 15:20:48 +0000";
+lastChange = "2018-03-30 09:37:54 +0000";
 layers = (
 {
 components = (
@@ -49506,16 +49507,17 @@ name = "Che-cy";
 },
 {
 name = "dieresiscomb-cy";
-transform = "{1, 0, 0, 1, 158, 212}";
+transform = "{1, 0, 0, 1, 168, 212}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 740;
+width = 750;
 }
 );
 leftKerningGroup = "Che-cy";
 rightKerningGroup = "Ii-cy";
 unicode = 04F4;
+changeCount = 1;
 },
 {
 glyphname = "Gedescender-cy";
@@ -68644,7 +68646,7 @@ rightMetricsKey = "ge-cy";
 },
 {
 glyphname = "zedescender-cy.loclBSH";
-lastChange = "2018-03-21 09:31:02 +0000";
+lastChange = "2018-03-30 09:37:54 +0000";
 layers = (
 {
 components = (
@@ -68662,11 +68664,12 @@ name = "zedescender-cy";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 578;
+width = 598;
 }
 );
 leftKerningGroup = "ze-cy";
 rightKerningGroup = "ve-cy";
+changeCount = 1;
 },
 {
 glyphname = "esdescender-cy.loclBSH";
