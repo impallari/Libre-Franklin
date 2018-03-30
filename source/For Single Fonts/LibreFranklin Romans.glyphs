@@ -26,6 +26,10 @@ value = "Libre Franklin is a reinterpretation and expansion of the 1912 Morris F
 {
 name = vendorID;
 value = IMPA;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2018-03-15 10:45:01 +0000";
