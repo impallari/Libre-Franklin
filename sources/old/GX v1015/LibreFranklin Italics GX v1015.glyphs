@@ -1,5 +1,5 @@
 {
-.appVersion = "937";
+.appVersion = "1211";
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
@@ -31,7 +31,7 @@ value = IMPA;
 date = "2016-11-15 03:14:49 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Nhung Nguyen";
 designerURL = "http://www.impallari.com/";
-familyName = "Libre Franklin";
+familyName = "Libre Franklin Italics";
 featurePrefixes = (
 {
 automatic = 1;
@@ -15769,6 +15769,7 @@ hints = (
 {
 horizontal = 1;
 place = "{4037, 100}";
+type = Stem;
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -17161,6 +17162,7 @@ hints = (
 {
 horizontal = 1;
 place = "{4037, 100}";
+type = Stem;
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -23288,7 +23290,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2016-09-02 21:56:08 +0000";
+lastChange = "2019-02-19 06:27:10 +0000";
 layers = (
 {
 components = (
@@ -23308,6 +23310,7 @@ width = 457;
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
@@ -32047,6 +32050,7 @@ hints = (
 {
 horizontal = 1;
 place = "{2528.183, 62.625}";
+type = Stem;
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -64040,13 +64044,13 @@ weightClass = Thin;
 customParameters = (
 {
 name = weightClass;
-value = "275";
+value = 275;
 }
 );
 interpolationWeight = 50;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.9375;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.0625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.9375;
 };
 isItalic = 1;
 linkStyle = ExtraLight;
@@ -64056,8 +64060,8 @@ weightClass = ExtraLight;
 {
 interpolationWeight = 66;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.8375;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.1625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.8375;
 };
 isItalic = 1;
 linkStyle = Light;
@@ -64067,8 +64071,8 @@ weightClass = Light;
 {
 interpolationWeight = 84;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.725;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.275;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.725;
 };
 isItalic = 1;
 name = Italic;
@@ -64076,8 +64080,8 @@ name = Italic;
 {
 interpolationWeight = 106;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.5875;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.4125;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.5875;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -64087,8 +64091,8 @@ weightClass = Medium;
 {
 interpolationWeight = 130;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.4375;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.5625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.4375;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -64098,8 +64102,8 @@ weightClass = SemiBold;
 {
 interpolationWeight = 154;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.2875;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.7125;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.2875;
 };
 isBold = 1;
 isItalic = 1;
@@ -64109,8 +64113,8 @@ weightClass = Bold;
 {
 interpolationWeight = 178;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.1375;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.8625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.1375;
 };
 isItalic = 1;
 linkStyle = ExtraBold;
