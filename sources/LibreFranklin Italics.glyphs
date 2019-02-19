@@ -32,7 +32,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2018-03-30 12:57:37 +0000";
+date = "2019-02-19 06:53:24 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Nhung Nguyen";
 designerURL = "http://www.impallari.com/";
 familyName = "Libre Franklin";
@@ -76437,47 +76437,47 @@ unicode = 2153;
 },
 {
 glyphname = twothirds;
-lastChange = "2019-02-19 06:33:27 +0000";
+lastChange = "2019-02-19 06:50:42 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = two.numr;
-transform = "{1, 0, 0, 1, 40, 0}";
+transform = "{1, 0, 0, 1, 43, 0}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 392, 0}";
+transform = "{1, 0, 0, 1, 460, 0}";
 },
 {
 alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 582, 0}";
+transform = "{1, 0, 0, 1, 700, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 988;
+width = 1132;
 },
 {
 components = (
 {
 alignment = -1;
 name = two.numr;
-transform = "{1, 0, 0, 1, 80, 0}";
+transform = "{1, 0, 0, 1, 48, 0}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 374, 0}";
+transform = "{1, 0, 0, 1, 372, 0}";
 },
 {
 alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 578, 0}";
+transform = "{1, 0, 0, 1, 596, 0}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 964;
+width = 1012;
 }
 );
 unicode = 2154;
@@ -110275,7 +110275,6 @@ name = "Thin Italic";
 weightClass = Thin;
 },
 {
-exports = 0;
 customParameters = (
 {
 name = weightClass;
@@ -110293,7 +110292,6 @@ name = "ExtraLight Italic";
 weightClass = ExtraLight;
 },
 {
-exports = 0;
 interpolationWeight = 66;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.1625;
@@ -110305,7 +110303,6 @@ name = "Light Italic";
 weightClass = Light;
 },
 {
-exports = 0;
 interpolationWeight = 84;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.275;
@@ -110326,7 +110323,6 @@ name = "Medium Italic";
 weightClass = Medium;
 },
 {
-exports = 0;
 interpolationWeight = 130;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.5625;
@@ -110338,7 +110334,6 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
-exports = 0;
 interpolationWeight = 154;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.7125;
@@ -110350,7 +110345,6 @@ name = "Bold Italic";
 weightClass = Bold;
 },
 {
-exports = 0;
 interpolationWeight = 178;
 instanceInterpolations = {
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.8625;
@@ -113109,5 +113103,5 @@ tH = 35;
 };
 };
 versionMajor = 1;
-versionMinor = 501;
+versionMinor = 502;
 }

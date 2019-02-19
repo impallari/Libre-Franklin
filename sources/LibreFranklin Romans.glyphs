@@ -32,7 +32,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2018-03-30 12:57:50 +0000";
+date = "2019-02-19 06:53:15 +0000";
 designer = "Pablo Impallari, Rodrigo Fuenzalida, Nhung Nguyen";
 designerURL = "http://www.impallari.com/";
 familyName = "Libre Franklin";
@@ -74165,47 +74165,47 @@ unicode = 2153;
 },
 {
 glyphname = twothirds;
-lastChange = "2019-02-19 06:33:20 +0000";
+lastChange = "2019-02-19 06:49:49 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = two.numr;
-transform = "{1, 0, 0, 1, 20, 0}";
+transform = "{1, 0, 0, 1, 31, 0}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 387, 0}";
+transform = "{1, 0, 0, 1, 448, 0}";
 },
 {
 alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 537, 0}";
+transform = "{1, 0, 0, 1, 648, 0}";
 }
 );
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
-width = 988;
+width = 1089;
 },
 {
 components = (
 {
 alignment = -1;
 name = two.numr;
-transform = "{1, 0, 0, 1, 40, 0}";
+transform = "{1, 0, 0, 1, 30, 0}";
 },
 {
 name = fraction;
-transform = "{1, 0, 0, 1, 367, 0}";
+transform = "{1, 0, 0, 1, 357, 0}";
 },
 {
 alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 565, 0}";
+transform = "{1, 0, 0, 1, 575, 0}";
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
-width = 964;
+width = 974;
 }
 );
 unicode = 2154;
@@ -109844,5 +109844,5 @@ tH = 35;
 };
 };
 versionMajor = 1;
-versionMinor = 501;
+versionMinor = 502;
 }
