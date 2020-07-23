@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb" format="2">
+	<advance width="0"/>
+	<outline>
+		<component base="circumflexcomb" xOffset="-168"/>
+		<component base="acutecomb" xOffset="-173" yOffset="134"/>
+	</outline>
+</glyph>

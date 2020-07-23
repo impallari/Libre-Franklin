@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn" format="2">
+	<advance width="758"/>
+	<unicode hex="01A0"/>
+	<anchor x="460" y="742" name="top"/>
+	<anchor x="334" y="0" name="bottom"/>
+	<outline>
+		<component base="O"/>
+		<component base="horncomb" xOffset="827" yOffset="212"/>
+	</outline>
+</glyph>

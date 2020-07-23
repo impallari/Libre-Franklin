@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.dnom" format="2">
+	<advance width="404"/>
+	<outline>
+		<component base="nine" xScale="0.629" yScale="0.629" xOffset="-55" yOffset="-5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>nine</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

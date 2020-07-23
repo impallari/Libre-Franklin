@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won" format="2">
+	<advance width="992"/>
+	<outline>
+		<contour>
+			<point x="982" y="453" type="curve"/>
+			<point x="982" y="477" type="line"/>
+			<point x="982" y="481"/>
+			<point x="979" y="483"/>
+			<point x="975" y="483" type="curve"/>
+			<point x="24" y="482" type="line" smooth="yes"/>
+			<point x="21" y="482"/>
+			<point x="19" y="480"/>
+			<point x="19" y="475" type="curve"/>
+			<point x="19" y="451" type="line" smooth="yes"/>
+			<point x="19" y="446"/>
+			<point x="21" y="444"/>
+			<point x="27" y="444" type="curve"/>
+			<point x="972" y="445" type="line" smooth="yes"/>
+			<point x="979" y="445"/>
+			<point x="982" y="447"/>
+		</contour>
+		<contour>
+			<point x="982" y="293" type="curve"/>
+			<point x="982" y="317" type="line"/>
+			<point x="982" y="321"/>
+			<point x="979" y="323"/>
+			<point x="975" y="323" type="curve"/>
+			<point x="24" y="322" type="line" smooth="yes"/>
+			<point x="21" y="322"/>
+			<point x="19" y="320"/>
+			<point x="19" y="315" type="curve"/>
+			<point x="19" y="291" type="line" smooth="yes"/>
+			<point x="19" y="286"/>
+			<point x="21" y="284"/>
+			<point x="27" y="284" type="curve"/>
+			<point x="972" y="285" type="line" smooth="yes"/>
+			<point x="979" y="285"/>
+			<point x="982" y="287"/>
+		</contour>
+		<component base="W"/>
+	</outline>
+</glyph>
