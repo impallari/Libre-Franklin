@@ -11,9 +11,17 @@
 	<key>descender</key>
 	<integer>-165</integer>
 	<key>familyName</key>
-	<string>Libre Franklin Italics</string>
+	<string>Libre Franklin</string>
 	<key>guidelines</key>
 	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>-81</integer>
+			<key>y</key>
+			<integer>1004</integer>
+		</dict>
 		<dict>
 			<key>angle</key>
 			<integer>0</integer>
@@ -26,15 +34,7 @@
 			<key>angle</key>
 			<integer>0</integer>
 			<key>x</key>
-			<integer>51</integer>
-			<key>y</key>
-			<integer>1004</integer>
-		</dict>
-		<dict>
-			<key>angle</key>
-			<integer>0</integer>
-			<key>x</key>
-			<integer>299</integer>
+			<integer>444</integer>
 			<key>y</key>
 			<integer>784</integer>
 		</dict>
@@ -60,9 +60,9 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>http://www.impallari.com/</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Libre Franklin Italics</string>
+	<string>Libre Franklin</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Thin Italic</string>
+	<string>Black Italic</string>
 	<key>openTypeOS2Type</key>
 	<array/>
 	<key>openTypeOS2TypoAscender</key>
@@ -74,7 +74,7 @@
 	<key>openTypeOS2VendorID</key>
 	<string>IMPA</string>
 	<key>openTypeOS2WeightClass</key>
-	<integer>100</integer>
+	<integer>900</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -93,7 +93,7 @@
 		<integer>857</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>LibreFranklinItalics-ThinItalic</string>
+	<string>LibreFranklin-BlackItalic</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-175</integer>
@@ -101,18 +101,18 @@
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>40</integer>
+		<integer>140</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>40</integer>
+		<integer>200</integer>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>Libre Franklin Italics Thin</string>
+	<string>Libre Franklin Black</string>
 	<key>styleMapStyleName</key>
 	<string>italic</string>
 	<key>styleName</key>
-	<string>Thin Italic</string>
+	<string>Black Italic</string>
 	<key>trademark</key>
 	<string>Libre Franklin is a trademark of Impallari Type.</string>
 	<key>unitsPerEm</key>
