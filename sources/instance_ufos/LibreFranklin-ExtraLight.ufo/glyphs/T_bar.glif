@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="628.0625"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="507.125" y="367.125" type="curve"/>
+      <point x="507.125" y="394.5" type="line"/>
+      <point x="507.125" y="399.9375"/>
+      <point x="504.8125" y="403.25"/>
+      <point x="499.4375" y="403.25" type="curve"/>
+      <point x="144.375" y="403.25" type="line" smooth="yes"/>
+      <point x="138.9375" y="403.25"/>
+      <point x="136.625" y="399.9375"/>
+      <point x="136.625" y="393.375" type="curve"/>
+      <point x="136.625" y="366.0" type="line" smooth="yes"/>
+      <point x="136.625" y="358.375"/>
+      <point x="138.875" y="355.0625"/>
+      <point x="147.625" y="355.0625" type="curve"/>
+      <point x="492.875" y="355.0625" type="line" smooth="yes"/>
+      <point x="502.75" y="355.0625"/>
+      <point x="507.125" y="358.375"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

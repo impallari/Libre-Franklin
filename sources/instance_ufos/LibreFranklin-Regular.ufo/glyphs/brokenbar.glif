@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="260.95"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="110.45" y="437.5" type="curve"/>
+      <point x="153.425" y="437.5" type="line"/>
+      <point x="160.35" y="437.5"/>
+      <point x="164.0" y="440.875"/>
+      <point x="164.0" y="448.25" type="curve"/>
+      <point x="164.0" y="834.525" type="line" smooth="yes"/>
+      <point x="164.0" y="842.9"/>
+      <point x="160.35" y="847.0"/>
+      <point x="151.875" y="847.0" type="curve"/>
+      <point x="108.175" y="847.0" type="line" smooth="yes"/>
+      <point x="100.6" y="847.0"/>
+      <point x="96.95" y="843.175"/>
+      <point x="96.95" y="834.775" type="curve"/>
+      <point x="97.675" y="450.2" type="line" smooth="yes"/>
+      <point x="97.675" y="441.7"/>
+      <point x="101.325" y="437.5"/>
+    </contour>
+    <contour>
+      <point x="110.45" y="-165.0" type="curve"/>
+      <point x="153.425" y="-165.0" type="line"/>
+      <point x="160.35" y="-165.0"/>
+      <point x="164.0" y="-161.625"/>
+      <point x="164.0" y="-154.25" type="curve"/>
+      <point x="164.0" y="232.025" type="line" smooth="yes"/>
+      <point x="164.0" y="240.4"/>
+      <point x="160.35" y="244.5"/>
+      <point x="151.875" y="244.5" type="curve"/>
+      <point x="108.175" y="244.5" type="line" smooth="yes"/>
+      <point x="100.6" y="244.5"/>
+      <point x="96.95" y="240.675"/>
+      <point x="96.95" y="232.275" type="curve"/>
+      <point x="97.675" y="-152.3" type="line" smooth="yes"/>
+      <point x="97.675" y="-160.8"/>
+      <point x="101.325" y="-165.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

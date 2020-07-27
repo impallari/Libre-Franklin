@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="666.25"/>
+  <outline>
+    <contour>
+      <point x="587.125" y="-136.0" type="curve"/>
+      <point x="587.125" y="-136.0" type="line"/>
+      <point x="587.125" y="826.0" type="line" smooth="yes"/>
+      <point x="587.125" y="839.0"/>
+      <point x="580.125" y="847.0"/>
+      <point x="569.125" y="847.0" type="curve"/>
+      <point x="98.125" y="847.0" type="line" smooth="yes"/>
+      <point x="87.125" y="847.0"/>
+      <point x="79.125" y="839.0"/>
+      <point x="79.125" y="824.0" type="curve"/>
+      <point x="79.125" y="-140.0" type="line" smooth="yes"/>
+      <point x="79.125" y="-157.0"/>
+      <point x="85.125" y="-165.0"/>
+      <point x="106.125" y="-165.0" type="curve"/>
+      <point x="554.125" y="-165.0" type="line" smooth="yes"/>
+      <point x="577.125" y="-165.0"/>
+      <point x="587.125" y="-157.0"/>
+    </contour>
+    <contour>
+      <point x="535.125" y="779.0" type="curve"/>
+      <point x="535.125" y="-91.0" type="line"/>
+      <point x="535.125" y="-108.0"/>
+      <point x="526.125" y="-115.0"/>
+      <point x="507.125" y="-115.0" type="curve"/>
+      <point x="154.125" y="-115.0" type="line" smooth="yes"/>
+      <point x="136.125" y="-115.0"/>
+      <point x="131.125" y="-108.0"/>
+      <point x="131.125" y="-94.0" type="curve"/>
+      <point x="131.125" y="778.0" type="line" smooth="yes"/>
+      <point x="131.125" y="790.0"/>
+      <point x="138.125" y="797.0"/>
+      <point x="147.125" y="797.0" type="curve"/>
+      <point x="520.125" y="797.0" type="line" smooth="yes"/>
+      <point x="529.125" y="797.0"/>
+      <point x="535.125" y="790.0"/>
+    </contour>
+    <contour>
+      <point x="100.125" y="806.0" type="line"/>
+      <point x="507.125" y="-137.0" type="line"/>
+      <point x="567.125" y="-132.0" type="line"/>
+      <point x="152.125" y="833.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=H</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

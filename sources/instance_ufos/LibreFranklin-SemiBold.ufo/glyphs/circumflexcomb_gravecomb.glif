@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <outline>
+    <component base="circumflexcomb" xOffset="-115.5625"/>
+    <component base="gravecomb" xOffset="-146.875" yOffset="163.8125"/>
+  </outline>
+</glyph>

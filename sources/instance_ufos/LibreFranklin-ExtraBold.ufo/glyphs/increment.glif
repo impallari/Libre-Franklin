@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="691.3375"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="18.4375" y="76.8875" type="curve"/>
+      <point x="18.4375" y="35.150000000000006" type="line"/>
+      <point x="18.4375" y="10.7625"/>
+      <point x="31.924999999999997" y="0.0"/>
+      <point x="48.275" y="0.0" type="curve"/>
+      <point x="652.55" y="0.0" type="line" smooth="yes"/>
+      <point x="668.3125" y="0.0"/>
+      <point x="672.9" y="8.3125"/>
+      <point x="672.9" y="24.9375" type="curve"/>
+      <point x="672.9" y="84.75" type="line" smooth="yes"/>
+      <point x="672.9" y="102.7875"/>
+      <point x="671.0375" y="114.23750000000001"/>
+      <point x="662.45" y="139.1375" type="curve"/>
+      <point x="454.95" y="718.925" type="line" smooth="yes"/>
+      <point x="449.3625" y="735.55"/>
+      <point x="441.05" y="742.0"/>
+      <point x="428.15" y="742.0" type="curve"/>
+      <point x="264.1875" y="742.1375" type="line" smooth="yes"/>
+      <point x="251.2875" y="742.1375"/>
+      <point x="242.975" y="734.6875"/>
+      <point x="238.3875" y="721.7875" type="curve"/>
+      <point x="28.8875" y="137.0" type="line" smooth="yes"/>
+      <point x="20.299999999999997" y="113.1"/>
+      <point x="18.4375" y="96.92500000000001"/>
+    </contour>
+    <contour>
+      <point x="458.475" y="142.91250000000002" type="curve"/>
+      <point x="230.1" y="142.91250000000002" type="line"/>
+      <point x="217.65" y="142.91250000000002"/>
+      <point x="210.78750000000002" y="148.6375"/>
+      <point x="214.78750000000002" y="162.95" type="curve"/>
+      <point x="331.8375" y="528.55" type="line" smooth="yes"/>
+      <point x="337.7" y="548.5875"/>
+      <point x="346.0125" y="549.45"/>
+      <point x="351.875" y="529.4125" type="curve"/>
+      <point x="468.925" y="162.0875" type="line" smooth="yes"/>
+      <point x="472.7875" y="149.6375"/>
+      <point x="468.925" y="142.91250000000002"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="-133.0" y="530.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-304.25" y="746.75" type="curve"/>
+      <point x="-304.25" y="746.75" type="line"/>
+      <point x="-328.0625" y="717.6875" type="line" smooth="yes"/>
+      <point x="-332.5" y="712.1875"/>
+      <point x="-332.6875" y="709.4375"/>
+      <point x="-325.0" y="703.1875" type="curve"/>
+      <point x="-199.8125" y="588.5" type="line" smooth="yes"/>
+      <point x="-194.125" y="584.1875"/>
+      <point x="-190.0" y="584.0625"/>
+      <point x="-186.5625" y="589.4375" type="curve"/>
+      <point x="-176.0625" y="603.8125" type="line" smooth="yes"/>
+      <point x="-171.75" y="608.125"/>
+      <point x="-173.5625" y="612.5"/>
+      <point x="-175.875" y="614.75" type="curve"/>
+      <point x="-294.3125" y="746.875" type="line" smooth="yes"/>
+      <point x="-297.625" y="750.125"/>
+      <point x="-301.9375" y="749.1875"/>
+    </contour>
+    <contour>
+      <point x="-159.3125" y="746.75" type="curve"/>
+      <point x="-159.3125" y="746.75" type="line"/>
+      <point x="-183.125" y="717.6875" type="line" smooth="yes"/>
+      <point x="-187.5625" y="712.1875"/>
+      <point x="-187.75" y="709.4375"/>
+      <point x="-180.0625" y="703.1875" type="curve"/>
+      <point x="-54.875" y="588.5" type="line" smooth="yes"/>
+      <point x="-49.1875" y="584.1875"/>
+      <point x="-45.0625" y="584.0625"/>
+      <point x="-41.625" y="589.4375" type="curve"/>
+      <point x="-31.125" y="603.8125" type="line" smooth="yes"/>
+      <point x="-26.8125" y="608.125"/>
+      <point x="-28.625" y="612.5"/>
+      <point x="-30.9375" y="614.75" type="curve"/>
+      <point x="-149.375" y="746.875" type="line" smooth="yes"/>
+      <point x="-152.6875" y="750.125"/>
+      <point x="-157.0" y="749.1875"/>
+    </contour>
+  </outline>
+</glyph>

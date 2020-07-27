@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="602"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="577" y="635" type="curve"/>
+      <point x="577" y="656" type="line"/>
+      <point x="577" y="660"/>
+      <point x="575" y="662"/>
+      <point x="572" y="662" type="curve"/>
+      <point x="293" y="662" type="line" smooth="yes"/>
+      <point x="290" y="662"/>
+      <point x="288" y="660"/>
+      <point x="288" y="655" type="curve"/>
+      <point x="288" y="635" type="line" smooth="yes"/>
+      <point x="288" y="629"/>
+      <point x="289" y="627"/>
+      <point x="295" y="627" type="curve"/>
+      <point x="567" y="627" type="line" smooth="yes"/>
+      <point x="574" y="627"/>
+      <point x="577" y="629"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
+</glyph>

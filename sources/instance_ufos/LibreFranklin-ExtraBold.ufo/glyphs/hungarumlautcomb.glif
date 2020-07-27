@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <unicode hex="030B"/>
+  <anchor x="-231.9" y="530.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-229.0625" y="688.0875" type="curve"/>
+      <point x="-275.2125" y="743.55" type="line"/>
+      <point x="-281.525" y="751.5875"/>
+      <point x="-289.8375" y="751.725"/>
+      <point x="-297.15" y="745.275" type="curve"/>
+      <point x="-434.85" y="624.35" type="line" smooth="yes"/>
+      <point x="-441.1625" y="618.9"/>
+      <point x="-440.575" y="609.725"/>
+      <point x="-432.2625" y="601.4125" type="curve"/>
+      <point x="-402.5625" y="569.4375" type="line" smooth="yes"/>
+      <point x="-393.525" y="559.2625"/>
+      <point x="-387.8" y="560.9875"/>
+      <point x="-373.3125" y="569.3" type="curve"/>
+      <point x="-232.925" y="654.3875" type="line" smooth="yes"/>
+      <point x="-216.4375" y="663.8375"/>
+      <point x="-219.025" y="676.1875"/>
+    </contour>
+    <contour>
+      <point x="-20.7875" y="688.0875" type="curve"/>
+      <point x="-66.9375" y="743.55" type="line"/>
+      <point x="-73.25" y="751.5875"/>
+      <point x="-81.5625" y="751.725"/>
+      <point x="-88.875" y="745.275" type="curve"/>
+      <point x="-226.575" y="624.35" type="line" smooth="yes"/>
+      <point x="-232.8875" y="618.9"/>
+      <point x="-232.3" y="609.725"/>
+      <point x="-223.9875" y="601.4125" type="curve"/>
+      <point x="-194.2875" y="569.4375" type="line" smooth="yes"/>
+      <point x="-185.25" y="559.2625"/>
+      <point x="-179.525" y="560.9875"/>
+      <point x="-165.0375" y="569.3" type="curve"/>
+      <point x="-24.65" y="654.3875" type="line" smooth="yes"/>
+      <point x="-8.162499999999998" y="663.8375"/>
+      <point x="-10.75" y="676.1875"/>
+    </contour>
+  </outline>
+</glyph>

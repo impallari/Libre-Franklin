@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="394.85"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="196.925" y="751.8625" type="curve"/>
+      <point x="196.925" y="751.8625" type="line"/>
+      <point x="99.475" y="751.8625"/>
+      <point x="25.8125" y="681.8625"/>
+      <point x="25.8125" y="577.8625" type="curve"/>
+      <point x="25.8125" y="478.8625"/>
+      <point x="94.475" y="407.8625"/>
+      <point x="196.925" y="407.8625" type="curve"/>
+      <point x="299.5125" y="407.8625"/>
+      <point x="369.0375" y="478.8625"/>
+      <point x="369.0375" y="577.8625" type="curve"/>
+      <point x="369.0375" y="679.275"/>
+      <point x="300.6875" y="751.8625"/>
+    </contour>
+    <contour>
+      <point x="196.925" y="679.775" type="curve"/>
+      <point x="196.925" y="679.775" type="line"/>
+      <point x="236.425" y="679.775"/>
+      <point x="254.725" y="647.925"/>
+      <point x="254.725" y="580.8625" type="curve"/>
+      <point x="254.725" y="513.1125"/>
+      <point x="236.425" y="481.4"/>
+      <point x="196.925" y="481.4" type="curve"/>
+      <point x="158.2875" y="481.4"/>
+      <point x="140.125" y="513.1125"/>
+      <point x="140.125" y="580.8625" type="curve"/>
+      <point x="140.125" y="647.925"/>
+      <point x="158.2875" y="679.775"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

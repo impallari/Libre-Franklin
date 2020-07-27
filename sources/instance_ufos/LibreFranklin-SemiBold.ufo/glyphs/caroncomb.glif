@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="-179.375" y="530.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-118.125" y="734.875" type="curve"/>
+      <point x="-118.125" y="734.875" type="line"/>
+      <point x="-167.0" y="682.9375" type="line" smooth="yes"/>
+      <point x="-179.25" y="669.3125"/>
+      <point x="-180.625" y="668.1875"/>
+      <point x="-194.4375" y="682.9375" type="curve"/>
+      <point x="-247.4375" y="734.875" type="line" smooth="yes"/>
+      <point x="-255.0" y="742.6875"/>
+      <point x="-258.25" y="742.5625"/>
+      <point x="-268.625" y="742.5625" type="curve"/>
+      <point x="-340.5" y="742.5625" type="line" smooth="yes"/>
+      <point x="-350.3125" y="742.5625"/>
+      <point x="-350.75" y="736.4375"/>
+      <point x="-343.0625" y="728.0625" type="curve"/>
+      <point x="-236.75" y="623.1875" type="line" smooth="yes"/>
+      <point x="-229.0625" y="615.375"/>
+      <point x="-221.8125" y="610.8125"/>
+      <point x="-207.1875" y="610.8125" type="curve"/>
+      <point x="-145.875" y="610.8125" type="line" smooth="yes"/>
+      <point x="-134.5" y="610.8125"/>
+      <point x="-128.8125" y="616.375"/>
+      <point x="-123.125" y="621.625" type="curve"/>
+      <point x="-17.8125" y="728.0625" type="line" smooth="yes"/>
+      <point x="-8.5625" y="737.4375"/>
+      <point x="-8.0" y="742.5625"/>
+      <point x="-19.375" y="742.5625" type="curve"/>
+      <point x="-96.375" y="742.5625" type="line" smooth="yes"/>
+      <point x="-105.75" y="742.5625"/>
+      <point x="-112.0" y="741.6875"/>
+    </contour>
+  </outline>
+</glyph>

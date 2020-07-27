@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance width="715.3125"/>
+  <unicode hex="20A6"/>
+  <outline>
+    <contour>
+      <point x="709.6875" y="454.875" type="curve"/>
+      <point x="709.6875" y="480.0625" type="line"/>
+      <point x="709.6875" y="484.5625"/>
+      <point x="706.4375" y="486.9375"/>
+      <point x="702.0" y="486.9375" type="curve"/>
+      <point x="11.5" y="486.0" type="line" smooth="yes"/>
+      <point x="7.9375" y="486.0"/>
+      <point x="5.625" y="483.625"/>
+      <point x="5.625" y="478.0" type="curve"/>
+      <point x="5.625" y="452.8125" type="line" smooth="yes"/>
+      <point x="5.625" y="447.0625"/>
+      <point x="7.875" y="444.6875"/>
+      <point x="14.75" y="444.6875" type="curve"/>
+      <point x="698.25" y="445.625" type="line" smooth="yes"/>
+      <point x="706.25" y="445.625"/>
+      <point x="709.6875" y="448.0"/>
+    </contour>
+    <contour>
+      <point x="709.6875" y="289.875" type="curve"/>
+      <point x="709.6875" y="315.0625" type="line"/>
+      <point x="709.6875" y="319.5625"/>
+      <point x="706.4375" y="321.9375"/>
+      <point x="702.0" y="321.9375" type="curve"/>
+      <point x="11.5" y="321.0" type="line" smooth="yes"/>
+      <point x="7.9375" y="321.0"/>
+      <point x="5.625" y="318.625"/>
+      <point x="5.625" y="313.0" type="curve"/>
+      <point x="5.625" y="287.8125" type="line" smooth="yes"/>
+      <point x="5.625" y="282.0625"/>
+      <point x="7.875" y="279.6875"/>
+      <point x="14.75" y="279.6875" type="curve"/>
+      <point x="698.25" y="280.625" type="line" smooth="yes"/>
+      <point x="706.25" y="280.625"/>
+      <point x="709.6875" y="283.0"/>
+    </contour>
+    <component base="N" xOffset="1.8125"/>
+  </outline>
+</glyph>

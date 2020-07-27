@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless" format="2">
+  <advance width="238.775"/>
+  <unicode hex="0237"/>
+  <anchor x="119.525" y="530.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="161.525" y="-29.0" type="curve"/>
+      <point x="161.525" y="-29.0" type="line"/>
+      <point x="161.525" y="517.25" type="line" smooth="yes"/>
+      <point x="161.525" y="525.625"/>
+      <point x="158.425" y="530.0"/>
+      <point x="150.775" y="530.0" type="curve"/>
+      <point x="90.275" y="530.0" type="line" smooth="yes"/>
+      <point x="81.9" y="530.0"/>
+      <point x="77.525" y="525.625"/>
+      <point x="77.525" y="516.425" type="curve"/>
+      <point x="77.525" y="-23.45" type="line" smooth="yes"/>
+      <point x="77.525" y="-79.19999999999999"/>
+      <point x="59.275" y="-97.35"/>
+      <point x="17.275" y="-99.175" type="curve"/>
+      <point x="-34.4" y="-101.55" type="line" smooth="yes"/>
+      <point x="-40.875" y="-102.375"/>
+      <point x="-44.25" y="-107.4"/>
+      <point x="-44.25" y="-113.325" type="curve"/>
+      <point x="-43.975" y="-156.6" type="line" smooth="yes"/>
+      <point x="-43.975" y="-168.175"/>
+      <point x="-36.325" y="-170.0"/>
+      <point x="21.85" y="-170.0" type="curve"/>
+      <point x="126.875" y="-170.0"/>
+      <point x="161.525" y="-124.75"/>
+    </contour>
+  </outline>
+</glyph>

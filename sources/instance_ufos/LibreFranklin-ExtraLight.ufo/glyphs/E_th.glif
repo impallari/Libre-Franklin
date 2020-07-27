@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="708.5"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="347.625" y="361.3125" type="curve"/>
+      <point x="347.625" y="388.6875" type="line"/>
+      <point x="347.625" y="394.125"/>
+      <point x="345.3125" y="397.4375"/>
+      <point x="339.9375" y="397.4375" type="curve"/>
+      <point x="42.0625" y="397.4375" type="line" smooth="yes"/>
+      <point x="36.625" y="397.4375"/>
+      <point x="34.3125" y="394.125"/>
+      <point x="34.3125" y="387.5625" type="curve"/>
+      <point x="34.3125" y="360.1875" type="line" smooth="yes"/>
+      <point x="34.3125" y="352.5625"/>
+      <point x="36.5625" y="349.25"/>
+      <point x="45.3125" y="349.25" type="curve"/>
+      <point x="333.375" y="349.25" type="line" smooth="yes"/>
+      <point x="343.25" y="349.25"/>
+      <point x="347.625" y="352.5625"/>
+    </contour>
+    <component base="D" xOffset="1.25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>D</string>
+    </dict>
+  </lib>
+</glyph>

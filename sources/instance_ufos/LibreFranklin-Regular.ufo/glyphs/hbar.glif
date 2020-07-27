@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="584.8"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="326.875" y="626.475" type="curve"/>
+      <point x="326.875" y="659.575" type="line"/>
+      <point x="326.875" y="665.5"/>
+      <point x="323.775" y="668.875"/>
+      <point x="318.85" y="668.875" type="curve"/>
+      <point x="23.35" y="668.875" type="line" smooth="yes"/>
+      <point x="18.425" y="668.875"/>
+      <point x="15.325" y="665.5"/>
+      <point x="15.325" y="658.3" type="curve"/>
+      <point x="15.325" y="625.925" type="line" smooth="yes"/>
+      <point x="15.325" y="617.45"/>
+      <point x="17.425" y="614.075"/>
+      <point x="26.45" y="614.075" type="curve"/>
+      <point x="311.65" y="614.075" type="line" smooth="yes"/>
+      <point x="322.225" y="614.075"/>
+      <point x="326.875" y="617.45"/>
+    </contour>
+    <component base="h" xOffset="0.8250000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

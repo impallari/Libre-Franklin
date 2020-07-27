@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance width="579.7125"/>
+  <unicode hex="00F8"/>
+  <anchor x="290.275" y="530.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="57.9875" y="5.3" type="curve"/>
+      <point x="556.0625" y="491.3125" type="line"/>
+      <point x="561.875" y="496.9625"/>
+      <point x="560.875" y="501.9375"/>
+      <point x="556.225" y="507.425" type="curve"/>
+      <point x="539.8125" y="524.1625" type="line" smooth="yes"/>
+      <point x="533.4875" y="531.325"/>
+      <point x="527.5125" y="530.1625"/>
+      <point x="520.5375" y="523.35" type="curve"/>
+      <point x="25.4875" y="40.525" type="line" smooth="yes"/>
+      <point x="17.675" y="32.875"/>
+      <point x="18.0" y="26.0625"/>
+      <point x="25.3" y="18.6" type="curve"/>
+      <point x="37.6" y="5.3" type="line" smooth="yes"/>
+      <point x="43.3875" y="-1.4875"/>
+      <point x="51.2" y="-1.325"/>
+    </contour>
+    <component base="o" xOffset="-1.675"/>
+  </outline>
+</glyph>

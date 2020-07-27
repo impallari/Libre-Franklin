@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="744.95"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="742.0125" y="584.875" type="curve"/>
+      <point x="742.0125" y="622.375" type="line"/>
+      <point x="742.0125" y="629.85"/>
+      <point x="738.3625" y="634.5"/>
+      <point x="731.3" y="634.5" type="curve"/>
+      <point x="13.65" y="634.5" type="line" smooth="yes"/>
+      <point x="6.5875" y="634.5"/>
+      <point x="2.9375" y="629.85"/>
+      <point x="2.9375" y="620.9625" type="curve"/>
+      <point x="2.9375" y="583.4625" type="line" smooth="yes"/>
+      <point x="2.9375" y="573.1625"/>
+      <point x="6.175" y="568.5125"/>
+      <point x="17.8875" y="568.5125" type="curve"/>
+      <point x="722.4125" y="568.5125" type="line" smooth="yes"/>
+      <point x="735.95" y="568.5125"/>
+      <point x="742.0125" y="573.1625"/>
+    </contour>
+    <component base="H" xOffset="9.725"/>
+  </outline>
+</glyph>

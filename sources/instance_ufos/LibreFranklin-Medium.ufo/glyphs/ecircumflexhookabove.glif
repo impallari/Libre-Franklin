@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexhookabove" format="2">
+  <advance width="582.3625"/>
+  <unicode hex="1EC3"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflexcomb" xOffset="467.525"/>
+    <component base="hookabovecomb" xOffset="756.075" yOffset="118.2125"/>
+  </outline>
+</glyph>

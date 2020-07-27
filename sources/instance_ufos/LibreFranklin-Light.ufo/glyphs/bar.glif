@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="263.425"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="115.175" y="-165.0" type="curve"/>
+      <point x="150.3875" y="-165.0" type="line"/>
+      <point x="156.525" y="-165.0"/>
+      <point x="159.5" y="-162.1875"/>
+      <point x="159.5" y="-155.375" type="curve"/>
+      <point x="159.5" y="835.5375" type="line" smooth="yes"/>
+      <point x="159.5" y="843.35"/>
+      <point x="156.525" y="847.0"/>
+      <point x="149.0625" y="847.0" type="curve"/>
+      <point x="113.0125" y="847.0" type="line" smooth="yes"/>
+      <point x="106.9" y="847.0"/>
+      <point x="103.925" y="843.5125"/>
+      <point x="103.925" y="836.9125" type="curve"/>
+      <point x="104.7625" y="-155.45" type="line" smooth="yes"/>
+      <point x="104.7625" y="-161.7"/>
+      <point x="107.7375" y="-165.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>I</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

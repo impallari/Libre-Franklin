@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft" format="2">
+  <advance width="261.45"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="211.2875" y="81.375" type="curve"/>
+      <point x="106.3875" y="249.8625" type="line"/>
+      <point x="103.3875" y="254.675"/>
+      <point x="104.225" y="259.325"/>
+      <point x="106.3875" y="264.1375" type="curve"/>
+      <point x="211.125" y="438.625" type="line" smooth="yes"/>
+      <point x="214.2875" y="444.6"/>
+      <point x="209.8" y="447.925"/>
+      <point x="204.9875" y="447.925" type="curve"/>
+      <point x="181.075" y="447.925" type="line" smooth="yes"/>
+      <point x="177.2625" y="447.925"/>
+      <point x="175.775" y="447.7625"/>
+      <point x="172.45" y="442.95" type="curve"/>
+      <point x="40.0875" y="265.4375" type="line" smooth="yes"/>
+      <point x="36.4375" y="259.975"/>
+      <point x="36.275" y="254.1875"/>
+      <point x="41.0875" y="247.5625" type="curve"/>
+      <point x="171.6125" y="80.05" type="line" smooth="yes"/>
+      <point x="172.9375" y="77.4"/>
+      <point x="176.425" y="75.075"/>
+      <point x="180.9125" y="75.075" type="curve"/>
+      <point x="202.825" y="75.075" type="line" smooth="yes"/>
+      <point x="210.125" y="75.075"/>
+      <point x="214.2875" y="76.5625"/>
+    </contour>
+  </outline>
+</glyph>

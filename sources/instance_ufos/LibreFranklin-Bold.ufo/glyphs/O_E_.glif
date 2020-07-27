@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="1127.7"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="1071.2625" y="128.35000000000002" type="curve"/>
+      <point x="1071.2625" y="128.35000000000002" type="line"/>
+      <point x="732.4625" y="128.35000000000002" type="line" smooth="yes"/>
+      <point x="724.0375" y="128.35000000000002"/>
+      <point x="721.325" y="130.775"/>
+      <point x="721.325" y="140.91250000000002" type="curve"/>
+      <point x="721.325" y="297.55" type="line" smooth="yes"/>
+      <point x="721.325" y="305.55"/>
+      <point x="726.175" y="310.1125"/>
+      <point x="735.3125" y="310.1125" type="curve"/>
+      <point x="946.7625" y="310.1125" type="line" smooth="yes"/>
+      <point x="957.75" y="310.1125"/>
+      <point x="961.8875" y="316.1"/>
+      <point x="961.8875" y="324.2375" type="curve"/>
+      <point x="961.8875" y="420.0625" type="line" smooth="yes"/>
+      <point x="961.8875" y="430.7625"/>
+      <point x="956.325" y="436.325"/>
+      <point x="944.9125" y="436.325" type="curve"/>
+      <point x="736.7375" y="436.325" type="line" smooth="yes"/>
+      <point x="727.6" y="436.325"/>
+      <point x="721.325" y="441.6"/>
+      <point x="721.325" y="453.3" type="curve"/>
+      <point x="721.325" y="597.525" type="line" smooth="yes"/>
+      <point x="721.325" y="609.0875"/>
+      <point x="727.6" y="613.65"/>
+      <point x="740.3" y="613.65" type="curve"/>
+      <point x="1056.975" y="613.65" type="line" smooth="yes"/>
+      <point x="1071.525" y="613.65"/>
+      <point x="1077.8" y="621.775"/>
+      <point x="1077.8" y="634.9" type="curve"/>
+      <point x="1078.5125" y="725.025" type="line" smooth="yes"/>
+      <point x="1078.5125" y="735.725"/>
+      <point x="1073.6625" y="742.0"/>
+      <point x="1063.675" y="742.0" type="curve"/>
+      <point x="556.7875" y="742.0" type="line" smooth="yes"/>
+      <point x="549.7875" y="742.0"/>
+      <point x="547.075" y="740.0"/>
+      <point x="547.075" y="734.1375" type="curve"/>
+      <point x="547.075" y="685.7875" type="line"/>
+      <point x="512.0375" y="730.2125"/>
+      <point x="449.975" y="752.0"/>
+      <point x="378.575" y="752.0" type="curve"/>
+      <point x="177.75" y="752.0"/>
+      <point x="44.512499999999996" y="605.6"/>
+      <point x="44.512499999999996" y="367.7125" type="curve"/>
+      <point x="44.512499999999996" y="132.4"/>
+      <point x="175.0375" y="-10.0"/>
+      <point x="367.6" y="-10.0" type="curve"/>
+      <point x="445.4125" y="-10.0"/>
+      <point x="511.0375" y="12.7625"/>
+      <point x="546.7875" y="56.1875" type="curve"/>
+      <point x="546.7875" y="8.575" type="line" smooth="yes"/>
+      <point x="546.7875" y="2.0"/>
+      <point x="549.5" y="0.0"/>
+      <point x="556.5" y="0.0" type="curve"/>
+      <point x="1070.125" y="0.0" type="line" smooth="yes"/>
+      <point x="1083.675" y="0.0"/>
+      <point x="1089.2375" y="7.7"/>
+      <point x="1089.2375" y="17.6875" type="curve"/>
+      <point x="1089.2375" y="112.8" type="line" smooth="yes"/>
+      <point x="1089.2375" y="124.5"/>
+      <point x="1082.9625" y="128.35000000000002"/>
+    </contour>
+    <contour>
+      <point x="387.4125" y="113.22500000000001" type="curve"/>
+      <point x="387.4125" y="113.22500000000001" type="line"/>
+      <point x="276.9875" y="113.22500000000001"/>
+      <point x="227.8875" y="187.8875"/>
+      <point x="227.8875" y="366.8625" type="curve"/>
+      <point x="227.8875" y="549.2625"/>
+      <point x="278.4125" y="630.2"/>
+      <point x="387.8375" y="630.2" type="curve"/>
+      <point x="492.975" y="630.2"/>
+      <point x="545.7875" y="560.3875"/>
+      <point x="545.7875" y="402.3625" type="curve"/>
+      <point x="545.7875" y="342.2625" type="line" smooth="yes"/>
+      <point x="545.7875" y="185.7375"/>
+      <point x="497.55" y="113.22500000000001"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

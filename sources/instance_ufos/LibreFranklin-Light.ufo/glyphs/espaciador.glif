@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="espaciador" format="2">
+  <advance width="66.0"/>
+  <outline>
+    <contour>
+      <point x="66.0" y="-212.0" type="line"/>
+      <point x="66.0" y="847.0" type="line"/>
+      <point x="0.0" y="847.0" type="line"/>
+      <point x="0.0" y="-212.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

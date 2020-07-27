@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="1007.6875"/>
+  <unicode hex="2122"/>
+  <outline>
+    <component base="T" xScale="0.625" yScale="0.625" yOffset="278.0"/>
+    <component base="M" xScale="0.625" yScale="0.625" xOffset="421.0" yOffset="278.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

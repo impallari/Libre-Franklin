@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="558.0"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="322.6" y="17.4" type="curve"/>
+      <point x="322.6" y="17.4" type="line"/>
+      <point x="322.6" y="128.675" type="line" smooth="yes"/>
+      <point x="322.6" y="136.975"/>
+      <point x="319.225" y="141.625"/>
+      <point x="309.375" y="141.625" type="curve"/>
+      <point x="273.55" y="141.625" type="line" smooth="yes"/>
+      <point x="263.15" y="141.625"/>
+      <point x="258.5" y="136.975"/>
+      <point x="258.5" y="127.125" type="curve"/>
+      <point x="258.5" y="15.850000000000001" type="line" smooth="yes"/>
+      <point x="258.5" y="5.375"/>
+      <point x="262.6" y="0.0"/>
+      <point x="274.625" y="0.0" type="curve"/>
+      <point x="304.65" y="0.0" type="line" smooth="yes"/>
+      <point x="317.225" y="0.0"/>
+      <point x="322.6" y="5.375"/>
+    </contour>
+    <contour>
+      <point x="322.6" y="617.775" type="curve"/>
+      <point x="322.6" y="617.775" type="line"/>
+      <point x="322.6" y="729.05" type="line" smooth="yes"/>
+      <point x="322.6" y="737.35"/>
+      <point x="319.225" y="742.0"/>
+      <point x="309.375" y="742.0" type="curve"/>
+      <point x="273.55" y="742.0" type="line" smooth="yes"/>
+      <point x="263.15" y="742.0"/>
+      <point x="258.5" y="737.35"/>
+      <point x="258.5" y="727.5" type="curve"/>
+      <point x="258.5" y="616.225" type="line" smooth="yes"/>
+      <point x="258.5" y="605.75"/>
+      <point x="262.6" y="600.375"/>
+      <point x="274.625" y="600.375" type="curve"/>
+      <point x="304.65" y="600.375" type="line" smooth="yes"/>
+      <point x="317.225" y="600.375"/>
+      <point x="322.6" y="605.75"/>
+    </contour>
+    <component base="c" yOffset="111.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>c</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

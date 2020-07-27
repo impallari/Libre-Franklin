@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
+  <unicode hex="0308"/>
+  <anchor x="-110.3125" y="530.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-141.9625" y="650.6375" type="curve"/>
+      <point x="-141.9625" y="730.7" type="line"/>
+      <point x="-141.9625" y="739.1875"/>
+      <point x="-144.6125" y="742.0"/>
+      <point x="-152.1" y="742.0" type="curve"/>
+      <point x="-201.4875" y="742.0" type="line" smooth="yes"/>
+      <point x="-208.975" y="742.0"/>
+      <point x="-211.625" y="739.1875"/>
+      <point x="-211.625" y="730.375" type="curve"/>
+      <point x="-211.625" y="648.6375" type="line" smooth="yes"/>
+      <point x="-211.625" y="639.5"/>
+      <point x="-209.1375" y="636.6875"/>
+      <point x="-198.8375" y="636.6875" type="curve"/>
+      <point x="-156.725" y="636.6875" type="line" smooth="yes"/>
+      <point x="-145.1" y="636.6875"/>
+      <point x="-141.9625" y="639.5"/>
+    </contour>
+    <contour>
+      <point x="-10.0" y="650.6375" type="curve"/>
+      <point x="-10.0" y="730.7" type="line"/>
+      <point x="-10.0" y="739.1875"/>
+      <point x="-12.65" y="742.0"/>
+      <point x="-20.1375" y="742.0" type="curve"/>
+      <point x="-69.525" y="742.0" type="line" smooth="yes"/>
+      <point x="-77.0125" y="742.0"/>
+      <point x="-79.6625" y="739.1875"/>
+      <point x="-79.6625" y="730.375" type="curve"/>
+      <point x="-79.6625" y="648.6375" type="line" smooth="yes"/>
+      <point x="-79.6625" y="639.5"/>
+      <point x="-77.175" y="636.6875"/>
+      <point x="-66.875" y="636.6875" type="curve"/>
+      <point x="-24.7625" y="636.6875" type="line" smooth="yes"/>
+      <point x="-13.1375" y="636.6875"/>
+      <point x="-10.0" y="639.5"/>
+    </contour>
+  </outline>
+</glyph>
