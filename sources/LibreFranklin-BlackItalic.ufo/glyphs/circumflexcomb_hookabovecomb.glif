@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_hookabovecomb" format="2">
-	<advance width="0"/>
-	<outline>
-		<component base="circumflexcomb" xOffset="-86"/>
-		<component base="hookabovecomb" xOffset="383" yOffset="81"/>
-	</outline>
+  <outline>
+    <component base="circumflexcomb" xOffset="-86"/>
+    <component base="hookabovecomb" xOffset="181" yOffset="81"/>
+  </outline>
 </glyph>
