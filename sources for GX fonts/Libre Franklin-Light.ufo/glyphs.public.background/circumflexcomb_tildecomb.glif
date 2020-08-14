@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexcomb_tildecomb" format="2">
-	<advance width="0"/>
-	<outline>
-		<component base="circumflexcomb" xOffset="-147"/>
-		<component base="tildecomb" xOffset="-147" yOffset="134"/>
-	</outline>
-</glyph>

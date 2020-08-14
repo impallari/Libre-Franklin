@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb_acutecomb" format="2">
-	<advance width="0"/>
-	<outline>
-		<component base="brevecomb" xOffset="-164"/>
-		<component base="acutecomb" xOffset="-147" yOffset="149"/>
-	</outline>
-</glyph>
