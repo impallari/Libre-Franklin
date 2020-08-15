@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Idotaccent" format="2">
-  <advance width="283.2625"/>
-  <unicode hex="0130"/>
-  <outline>
-    <component base="I"/>
-    <component base="dotaccentcomb" xOffset="191.4125" yOffset="212.0"/>
-  </outline>
-</glyph>
