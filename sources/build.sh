@@ -12,18 +12,18 @@ rm -rf ../fonts
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
-fontmake -m LibreFranklinRomans.designspace -i -o ttf --output-dir ../fonts/ttf/
-#fontmake -m LibreFranklinRomans.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m LibreFranklin-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
+#fontmake -m LibreFranklin-Roman.designspace -i -o otf --output-dir ../fonts/otf/
 
-fontmake -m LibreFranklinItalics.designspace -i -o ttf --output-dir ../fonts/ttf/
-#fontmake -m LibreFranklinItalics.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m LibreFranklin-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+#fontmake -m LibreFranklin-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
 mkdir -p ../fonts/vf
 
-fontmake -m LibreFranklinRomans.designspace -o variable --output-path ../fonts/vf/LibreFranklin[wght].ttf
+fontmake -m LibreFranklin-Roman.designspace -o variable --output-path ../fonts/vf/LibreFranklin[wght].ttf
 
-fontmake -m LibreFranklinItalics.designspace -o variable --output-path ../fonts/vf/LibreFranklin-Italic[wght].ttf
+fontmake -m LibreFranklin-Italic.designspace -o variable --output-path ../fonts/vf/LibreFranklin-Italic[wght].ttf
 
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
