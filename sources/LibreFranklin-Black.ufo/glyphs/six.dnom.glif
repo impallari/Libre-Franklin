@@ -2,7 +2,61 @@
 <glyph name="six.dnom" format="2">
   <advance width="404"/>
   <outline>
-    <component base="six" xScale="0.629" yScale="0.629" xOffset="-22" yOffset="-5"/>
+    <contour>
+      <point x="213" y="467" type="curve"/>
+      <point x="213" y="467" type="line"/>
+      <point x="86" y="467"/>
+      <point x="-3" y="373"/>
+      <point x="-3" y="216" type="curve" smooth="yes"/>
+      <point x="-3" y="81"/>
+      <point x="78" y="-10"/>
+      <point x="207" y="-10" type="curve" smooth="yes"/>
+      <point x="317" y="-10"/>
+      <point x="402" y="56"/>
+      <point x="402" y="146" type="curve" smooth="yes"/>
+      <point x="402" y="228"/>
+      <point x="333" y="285"/>
+      <point x="235" y="285" type="curve" smooth="yes"/>
+      <point x="200" y="285"/>
+      <point x="180" y="277"/>
+      <point x="155" y="267" type="curve" smooth="yes"/>
+      <point x="142" y="262"/>
+      <point x="139" y="264"/>
+      <point x="139" y="280" type="curve" smooth="yes"/>
+      <point x="139" y="335"/>
+      <point x="169" y="370"/>
+      <point x="213" y="370" type="curve" smooth="yes"/>
+      <point x="242" y="370"/>
+      <point x="254" y="354"/>
+      <point x="268" y="331" type="curve"/>
+      <point x="270" y="327"/>
+      <point x="274" y="320"/>
+      <point x="282" y="323" type="curve"/>
+      <point x="372" y="349" type="line" smooth="yes"/>
+      <point x="381" y="352"/>
+      <point x="381" y="359"/>
+      <point x="379" y="366" type="curve"/>
+      <point x="372" y="406"/>
+      <point x="308" y="467"/>
+    </contour>
+    <contour>
+      <point x="203" y="194" type="curve"/>
+      <point x="203" y="194" type="line"/>
+      <point x="232" y="194"/>
+      <point x="261" y="177"/>
+      <point x="261" y="140" type="curve" smooth="yes"/>
+      <point x="261" y="105"/>
+      <point x="235" y="81"/>
+      <point x="202" y="81" type="curve" smooth="yes"/>
+      <point x="165" y="81"/>
+      <point x="140" y="110"/>
+      <point x="140" y="160" type="curve" smooth="yes"/>
+      <point x="140" y="172"/>
+      <point x="142" y="174"/>
+      <point x="147" y="178" type="curve" smooth="yes"/>
+      <point x="157" y="186"/>
+      <point x="182" y="194"/>
+    </contour>
   </outline>
   <lib>
     <dict>

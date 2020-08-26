@@ -2,7 +2,36 @@
 <glyph name="zero.numr" format="2">
   <advance width="416"/>
   <outline>
-    <component base="zero" xScale="0.629" yScale="0.629" xOffset="-21" yOffset="279"/>
+    <contour>
+      <point x="207" y="753" type="curve"/>
+      <point x="207" y="753" type="line"/>
+      <point x="86" y="753"/>
+      <point x="-2" y="650"/>
+      <point x="-2" y="511" type="curve" smooth="yes"/>
+      <point x="-2" y="373"/>
+      <point x="84" y="274"/>
+      <point x="207" y="274" type="curve" smooth="yes"/>
+      <point x="329" y="274"/>
+      <point x="414" y="373"/>
+      <point x="414" y="511" type="curve" smooth="yes"/>
+      <point x="414" y="650"/>
+      <point x="327" y="753"/>
+    </contour>
+    <contour>
+      <point x="206" y="372" type="curve"/>
+      <point x="206" y="372" type="line"/>
+      <point x="160" y="372"/>
+      <point x="143" y="409"/>
+      <point x="143" y="510" type="curve" smooth="yes"/>
+      <point x="143" y="615"/>
+      <point x="161" y="656"/>
+      <point x="206" y="656" type="curve" smooth="yes"/>
+      <point x="251" y="656"/>
+      <point x="269" y="616"/>
+      <point x="269" y="510" type="curve" smooth="yes"/>
+      <point x="269" y="409"/>
+      <point x="253" y="372"/>
+    </contour>
   </outline>
   <lib>
     <dict>
