@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
-	<advance width="172"/>
-	<unicode hex="00B7"/>
-	<outline>
-		<contour>
-			<point x="127" y="345" type="curve"/>
-			<point x="127" y="405" type="line"/>
-			<point x="127" y="411"/>
-			<point x="125" y="413"/>
-			<point x="120" y="413" type="curve"/>
-			<point x="52" y="413" type="line" smooth="yes"/>
-			<point x="48" y="413"/>
-			<point x="45" y="411"/>
-			<point x="45" y="404" type="curve"/>
-			<point x="45" y="344" type="line" smooth="yes"/>
-			<point x="45" y="337"/>
-			<point x="47" y="334"/>
-			<point x="55" y="334" type="curve"/>
-			<point x="114" y="334" type="line" smooth="yes"/>
-			<point x="124" y="334"/>
-			<point x="127" y="337"/>
-		</contour>
-	</outline>
+  <advance width="172"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="127" y="345" type="curve"/>
+      <point x="127" y="405" type="line"/>
+      <point x="127" y="411"/>
+      <point x="125" y="413"/>
+      <point x="120" y="413" type="curve"/>
+      <point x="52" y="413" type="line" smooth="yes"/>
+      <point x="48" y="413"/>
+      <point x="45" y="411"/>
+      <point x="45" y="404" type="curve"/>
+      <point x="45" y="344" type="line" smooth="yes"/>
+      <point x="45" y="337"/>
+      <point x="47" y="334"/>
+      <point x="55" y="334" type="curve"/>
+      <point x="114" y="334" type="line" smooth="yes"/>
+      <point x="124" y="334"/>
+      <point x="127" y="337"/>
+    </contour>
+  </outline>
 </glyph>

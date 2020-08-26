@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash" format="2">
-	<advance width="364"/>
-	<outline>
-		<contour>
-			<point x="359" y="372" type="curve"/>
-			<point x="375" y="485" type="line"/>
-			<point x="377" y="501"/>
-			<point x="369" y="514"/>
-			<point x="350" y="503" type="curve"/>
-			<point x="44" y="327" type="line" smooth="yes"/>
-			<point x="32" y="319"/>
-			<point x="26" y="311"/>
-			<point x="24" y="296" type="curve"/>
-			<point x="7" y="176" type="line" smooth="yes"/>
-			<point x="5" y="159"/>
-			<point x="12" y="147"/>
-			<point x="34" y="160" type="curve"/>
-			<point x="339" y="342" type="line" smooth="yes"/>
-			<point x="352" y="351"/>
-			<point x="357" y="360"/>
-		</contour>
-		<component base="l" xOffset="3"/>
-	</outline>
+  <advance width="364"/>
+  <outline>
+    <contour>
+      <point x="359" y="372" type="curve"/>
+      <point x="375" y="485" type="line"/>
+      <point x="377" y="501"/>
+      <point x="369" y="514"/>
+      <point x="350" y="503" type="curve"/>
+      <point x="44" y="327" type="line" smooth="yes"/>
+      <point x="32" y="319"/>
+      <point x="26" y="311"/>
+      <point x="24" y="296" type="curve"/>
+      <point x="7" y="176" type="line" smooth="yes"/>
+      <point x="5" y="159"/>
+      <point x="12" y="147"/>
+      <point x="34" y="160" type="curve"/>
+      <point x="339" y="342" type="line" smooth="yes"/>
+      <point x="352" y="351"/>
+      <point x="357" y="360"/>
+    </contour>
+    <component base="l" xOffset="3"/>
+  </outline>
 </glyph>

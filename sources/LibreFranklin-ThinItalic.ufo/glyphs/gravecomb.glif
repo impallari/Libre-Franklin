@@ -1,27 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
-	<advance width="0"/>
-	<unicode hex="0300"/>
-	<anchor x="-81" y="530" name="_top"/>
-	<outline>
-		<contour>
-			<point x="-183" y="747" type="curve"/>
-			<point x="-183" y="747" type="line"/>
-			<point x="-198" y="715" type="line" smooth="yes"/>
-			<point x="-201" y="709"/>
-			<point x="-199" y="705"/>
-			<point x="-191" y="702" type="curve"/>
-			<point x="25" y="627" type="line" smooth="yes"/>
-			<point x="31" y="625"/>
-			<point x="33" y="625"/>
-			<point x="35" y="631" type="curve"/>
-			<point x="44" y="646" type="line" smooth="yes"/>
-			<point x="45" y="651"/>
-			<point x="43" y="656"/>
-			<point x="40" y="657" type="curve"/>
-			<point x="-176" y="749" type="line" smooth="yes"/>
-			<point x="-179" y="750"/>
-			<point x="-182" y="750"/>
-		</contour>
-	</outline>
+  <unicode hex="0300"/>
+  <anchor x="-81" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-183" y="747" type="curve"/>
+      <point x="-183" y="747" type="line"/>
+      <point x="-198" y="715" type="line" smooth="yes"/>
+      <point x="-201" y="709"/>
+      <point x="-199" y="705"/>
+      <point x="-191" y="702" type="curve"/>
+      <point x="25" y="627" type="line" smooth="yes"/>
+      <point x="31" y="625"/>
+      <point x="33" y="625"/>
+      <point x="35" y="631" type="curve"/>
+      <point x="44" y="646" type="line" smooth="yes"/>
+      <point x="45" y="651"/>
+      <point x="43" y="656"/>
+      <point x="40" y="657" type="curve"/>
+      <point x="-176" y="749" type="line" smooth="yes"/>
+      <point x="-179" y="750"/>
+      <point x="-182" y="750"/>
+    </contour>
+  </outline>
 </glyph>
