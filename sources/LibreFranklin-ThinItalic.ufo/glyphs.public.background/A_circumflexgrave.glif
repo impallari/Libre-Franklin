@@ -3,6 +3,6 @@
 	<advance width="700"/>
 	<outline>
 		<component base="A"/>
-		<component base="circumflexcomb_gravecomb.case" xOffset="156"/>
+		<component base="circumflexcomb_gravecomb" xOffset="156"/>
 	</outline>
 </glyph>

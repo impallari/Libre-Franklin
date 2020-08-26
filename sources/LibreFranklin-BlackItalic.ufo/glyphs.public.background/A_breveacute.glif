@@ -3,6 +3,6 @@
 	<advance width="799"/>
 	<outline>
 		<component base="A"/>
-		<component base="brevecomb_acutecomb.case" xOffset="153"/>
+		<component base="brevecomb_acutecomb" xOffset="153"/>
 	</outline>
 </glyph>

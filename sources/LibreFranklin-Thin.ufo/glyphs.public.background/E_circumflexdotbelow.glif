@@ -4,6 +4,6 @@
 	<outline>
 		<component base="E"/>
 		<component base="dotbelowcomb" xOffset="400"/>
-		<component base="circumflexcomb.case" xOffset="205" yOffset="212"/>
+		<component base="circumflexcomb" xOffset="205" yOffset="212"/>
 	</outline>
 </glyph>
