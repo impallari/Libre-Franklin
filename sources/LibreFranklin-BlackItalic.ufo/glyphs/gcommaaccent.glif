@@ -2,7 +2,7 @@
 <glyph name="gcommaaccent" format="2">
 	<advance width="653"/>
 	<unicode hex="0123"/>
-	<anchor x="380" y="550" name="_top"/>
+	<anchor x="380" y="550" name="top"/>
 	<outline>
 		<contour>
 			<point x="341" y="599" type="curve"/>
