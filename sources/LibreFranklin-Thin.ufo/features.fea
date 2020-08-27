@@ -9,6 +9,7 @@ languagesystem latn TRK;
 languagesystem latn CRT;
 languagesystem latn AZE;
 
+
 feature aalt {
 feature ccmp;
 feature locl;
@@ -20,7 +21,7 @@ feature dnom;
 feature frac;
 feature ordn;
 
-} aalt ;
+} aalt;
 
 feature ccmp {
 lookup ccmp_Other_1 {
@@ -43,7 +44,7 @@ lookup ccmp_latn_1 {
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } ccmp_latn_1;
 
-} ccmp ;
+} ccmp;
 
 feature locl {
 script latn;
@@ -71,7 +72,7 @@ sub i by idotaccent;
 language AZE;
 sub i by idotaccent;
 
-} locl ;
+} locl;
 
 feature subs {
 sub zero by zero.subs;
@@ -85,7 +86,7 @@ sub seven by seven.subs;
 sub eight by eight.subs;
 sub nine by nine.subs;
 
-} subs ;
+} subs;
 
 feature sinf {
 sub zero by zero.subs;
@@ -99,7 +100,7 @@ sub seven by seven.subs;
 sub eight by eight.subs;
 sub nine by nine.subs;
 
-} sinf ;
+} sinf;
 
 feature sups {
 sub zero by zerosuperior;
@@ -113,7 +114,7 @@ sub seven by sevensuperior;
 sub eight by eightsuperior;
 sub nine by ninesuperior;
 
-} sups ;
+} sups;
 
 feature numr {
 sub zero by zero.numr;
@@ -127,7 +128,7 @@ sub seven by seven.numr;
 sub eight by eight.numr;
 sub nine by nine.numr;
 
-} numr ;
+} numr;
 
 feature dnom {
 sub zero by zero.dnom;
@@ -141,7 +142,7 @@ sub seven by seven.dnom;
 sub eight by eight.dnom;
 sub nine by nine.dnom;
 
-} dnom ;
+} dnom;
 
 feature frac {
 lookup FRAC {
@@ -155,17 +156,17 @@ lookup DOWN {
 	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 } DOWN;
 
-} frac ;
+} frac;
 
 feature ordn {
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 sub N o period by numero;
 
-} ordn ;
+} ordn;
 
 feature liga {
 sub f i by fi;
 sub f l by fl;
 
-} liga ;
+} liga;
