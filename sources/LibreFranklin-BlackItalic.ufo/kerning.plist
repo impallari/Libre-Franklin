@@ -846,6 +846,8 @@
       <integer>-100</integer>
       <key>public.kern2.Y</key>
       <integer>-150</integer>
+      <key>public.kern2.d</key>
+      <integer>-20</integer>
       <key>public.kern2.f</key>
       <integer>-30</integer>
       <key>public.kern2.o</key>
@@ -866,6 +868,8 @@
     <dict>
       <key>public.kern2.A</key>
       <integer>-130</integer>
+      <key>public.kern2.d</key>
+      <integer>-60</integer>
       <key>public.kern2.o</key>
       <integer>-60</integer>
       <key>public.kern2.s</key>
@@ -877,6 +881,8 @@
     <dict>
       <key>public.kern2.A</key>
       <integer>-100</integer>
+      <key>public.kern2.d</key>
+      <integer>-20</integer>
       <key>public.kern2.o</key>
       <integer>-20</integer>
       <key>public.kern2.s</key>
