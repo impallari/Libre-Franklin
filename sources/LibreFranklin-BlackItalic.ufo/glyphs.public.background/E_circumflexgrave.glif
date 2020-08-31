@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecircumflexgrave" format="2">
-	<advance width="671"/>
-	<outline>
-		<component base="E"/>
-		<component base="circumflexcomb_gravecomb.case" xOffset="79"/>
-	</outline>
+  <advance width="671"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexcomb_gravecomb" xOffset="79"/>
+  </outline>
 </glyph>

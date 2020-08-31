@@ -1,8 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteleft" format="2">
-	<advance width="253"/>
-	<unicode hex="2018"/>
-	<outline>
-		<component base="quoteright" xScale="-1" yScale="-1" xOffset="253" yOffset="1153"/>
-	</outline>
+  <advance width="253"/>
+  <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="193" y="742" type="curve"/>
+      <point x="193" y="742" type="line"/>
+      <point x="177" y="742" type="line" smooth="yes"/>
+      <point x="163" y="742"/>
+      <point x="145" y="735"/>
+      <point x="136" y="721" type="curve" smooth="yes"/>
+      <point x="36" y="570" type="line" smooth="yes"/>
+      <point x="34" y="567"/>
+      <point x="32" y="562"/>
+      <point x="32" y="556" type="curve" smooth="yes"/>
+      <point x="32" y="429" type="line" smooth="yes"/>
+      <point x="32" y="418"/>
+      <point x="38" y="411"/>
+      <point x="49" y="411" type="curve" smooth="yes"/>
+      <point x="196" y="411" type="line" smooth="yes"/>
+      <point x="207" y="411"/>
+      <point x="214" y="418"/>
+      <point x="214" y="432" type="curve" smooth="yes"/>
+      <point x="214" y="564" type="line" smooth="yes"/>
+      <point x="214" y="580"/>
+      <point x="208" y="585"/>
+      <point x="190" y="587" type="curve" smooth="yes"/>
+      <point x="174" y="589" type="line"/>
+      <point x="159" y="592"/>
+      <point x="158" y="600"/>
+      <point x="165" y="618" type="curve" smooth="yes"/>
+      <point x="207" y="720" type="line" smooth="yes"/>
+      <point x="211" y="730"/>
+      <point x="205" y="742"/>
+    </contour>
+  </outline>
 </glyph>

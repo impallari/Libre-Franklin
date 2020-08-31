@@ -211,6 +211,8 @@
       <string>Zcaron</string>
       <string>Zdotaccent</string>
       <string>Zdotbelow</string>
+      <string>DZ</string>
+      <string>DZcaron</string>
     </array>
     <key>public.kern1.a</key>
     <array>
@@ -253,6 +255,10 @@
       <string>ccedilla</string>
       <string>ccircumflex</string>
       <string>cdotaccent</string>
+    </array>
+    <key>public.kern1.d</key>
+    <array>
+      <string>dz</string>
     </array>
     <key>public.kern1.e</key>
     <array>
@@ -443,6 +449,7 @@
       <string>zcaron</string>
       <string>zdotaccent</string>
       <string>zdotbelow</string>
+      <string>Dz</string>
     </array>
     <key>public.kern2.A</key>
     <array>
@@ -522,6 +529,7 @@
       <string>Otilde</string>
       <string>OE</string>
       <string>Q</string>
+      <string>Gacute</string>
     </array>
     <key>public.kern2.S</key>
     <array>
@@ -633,6 +641,7 @@
       <string>dcroat</string>
       <string>ddotbelow</string>
       <string>q</string>
+      <string>dz</string>
     </array>
     <key>public.kern2.f</key>
     <array>
@@ -647,6 +656,7 @@
       <string>gcircumflex</string>
       <string>gcommaaccent</string>
       <string>gdotaccent</string>
+      <string>gacute</string>
     </array>
     <key>public.kern2.hyphen</key>
     <array>
@@ -670,6 +680,7 @@
       <string>ndotaccent</string>
       <string>eng</string>
       <string>ntilde</string>
+      <string>nj</string>
     </array>
     <key>public.kern2.o</key>
     <array>

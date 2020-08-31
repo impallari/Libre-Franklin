@@ -38,6 +38,8 @@
     <string>C_.glif</string>
     <key>D</key>
     <string>D_.glif</string>
+    <key>Delta</key>
+    <string>D_elta.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>Ecircumflexacute</key>
@@ -92,6 +94,8 @@
     <string>O_circumflextilde.glif</string>
     <key>Ohm</key>
     <string>O_hm.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>Oslash</key>
     <string>O_slash.glif</string>
     <key>P</key>
@@ -154,8 +158,6 @@
     <string>bracketleft.glif</string>
     <key>brevecomb</key>
     <string>brevecomb.glif</string>
-    <key>brevecomb.case</key>
-    <string>brevecomb.case.glif</string>
     <key>brevecomb_acutecomb</key>
     <string>brevecomb_acutecomb.glif</string>
     <key>brevecomb_gravecomb</key>
@@ -186,8 +188,6 @@
     <string>circumflexcomb_gravecomb.glif</string>
     <key>circumflexcomb_hookabovecomb</key>
     <string>circumflexcomb_hookabovecomb.glif</string>
-    <key>circumflexcomb_hookabovecomb.case</key>
-    <string>circumflexcomb_hookabovecomb.case.glif</string>
     <key>circumflexcomb_tildecomb</key>
     <string>circumflexcomb_tildecomb.glif</string>
     <key>colon</key>
@@ -334,6 +334,8 @@
     <string>micro.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
+    <key>mu</key>
+    <string>mu.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
     <key>n</key>
