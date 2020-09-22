@@ -72,7 +72,7 @@
     <key>openTypeHheaDescender</key>
     <integer>-246</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>238</integer>
+    <integer>0</integer>
     <key>openTypeNameDescription</key>
     <string>Libre Franklin is a reinterpretation and expansion of the 1912 Morris Fuller Benton’s classic.</string>
     <key>openTypeNameDesigner</key>
@@ -91,6 +91,10 @@
     <string>Libre Franklin</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Thin</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
@@ -98,7 +102,7 @@
     <key>openTypeOS2TypoDescender</key>
     <integer>-246</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>238</integer>
+    <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>IMPA</string>
     <key>openTypeOS2WeightClass</key>
