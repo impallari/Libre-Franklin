@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <unicode hex="0311"/>
+  <anchor x="-207" y="530" name="_top"/>
+  <anchor x="-207" y="742" name="top"/>
+  <outline>
+    <contour>
+      <point x="-24" y="593" type="line"/>
+      <point x="-10" y="593"/>
+      <point x="-7" y="600"/>
+      <point x="-11" y="611" type="curve" smooth="yes"/>
+      <point x="-43" y="699"/>
+      <point x="-119" y="742"/>
+      <point x="-207" y="742" type="curve" smooth="yes"/>
+      <point x="-294" y="742"/>
+      <point x="-381" y="704"/>
+      <point x="-405" y="609" type="curve" smooth="yes"/>
+      <point x="-407" y="601"/>
+      <point x="-404" y="593"/>
+      <point x="-394" y="593" type="curve" smooth="yes"/>
+      <point x="-317" y="593" type="line" smooth="yes"/>
+      <point x="-305" y="593"/>
+      <point x="-301" y="596"/>
+      <point x="-293" y="607" type="curve" smooth="yes"/>
+      <point x="-274" y="633"/>
+      <point x="-240" y="653"/>
+      <point x="-207" y="653" type="curve" smooth="yes"/>
+      <point x="-177" y="653"/>
+      <point x="-139" y="634"/>
+      <point x="-122" y="606" type="curve" smooth="yes"/>
+      <point x="-115" y="594"/>
+      <point x="-110" y="593"/>
+      <point x="-102" y="593" type="curve" smooth="yes"/>
+      <point x="-24" y="593" type="line"/>
+    </contour>
+  </outline>
+</glyph>

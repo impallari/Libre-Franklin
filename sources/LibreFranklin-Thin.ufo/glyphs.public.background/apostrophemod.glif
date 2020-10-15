@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <advance width="129"/>
+  <outline>
+    <contour>
+      <point x="58" y="614" type="curve"/>
+      <point x="53" y="614" type="line"/>
+      <point x="47" y="614"/>
+      <point x="45" y="616"/>
+      <point x="45" y="622" type="curve"/>
+      <point x="45" y="735" type="line" smooth="yes"/>
+      <point x="45" y="740"/>
+      <point x="47" y="742"/>
+      <point x="51" y="742" type="curve"/>
+      <point x="94" y="742" type="line" smooth="yes"/>
+      <point x="97" y="742"/>
+      <point x="99" y="740"/>
+      <point x="99" y="736" type="curve"/>
+      <point x="99" y="614" type="line" smooth="yes"/>
+      <point x="99" y="612"/>
+      <point x="98" y="611"/>
+      <point x="98" y="610" type="curve"/>
+      <point x="64" y="484" type="line" smooth="yes"/>
+      <point x="63" y="479"/>
+      <point x="59" y="477"/>
+      <point x="51" y="477" type="curve"/>
+      <point x="35" y="477" type="line" smooth="yes"/>
+      <point x="31" y="477"/>
+      <point x="29" y="481"/>
+      <point x="30" y="484" type="curve"/>
+      <point x="61" y="604" type="line" smooth="yes"/>
+      <point x="63" y="612"/>
+      <point x="61" y="614"/>
+    </contour>
+  </outline>
+</glyph>

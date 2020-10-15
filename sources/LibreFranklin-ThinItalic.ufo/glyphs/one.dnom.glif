@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="299"/>
+  <outline>
+    <contour>
+      <point x="156" y="26" type="curve"/>
+      <point x="156" y="26" type="line"/>
+      <point x="78" y="26" type="line" smooth="yes"/>
+      <point x="77" y="26"/>
+      <point x="75" y="28"/>
+      <point x="76" y="30" type="curve"/>
+      <point x="137" y="460" type="line"/>
+      <point x="138" y="465"/>
+      <point x="136" y="467"/>
+      <point x="132" y="467" type="curve" smooth="yes"/>
+      <point x="115" y="467" type="line" smooth="yes"/>
+      <point x="110" y="467"/>
+      <point x="107" y="467"/>
+      <point x="100" y="464" type="curve" smooth="yes"/>
+      <point x="10" y="421" type="line"/>
+      <point x="6" y="420"/>
+      <point x="5" y="417"/>
+      <point x="4" y="413" type="curve"/>
+      <point x="2" y="399" type="line"/>
+      <point x="2" y="395"/>
+      <point x="4" y="394"/>
+      <point x="7" y="395" type="curve" smooth="yes"/>
+      <point x="99" y="430" type="line" smooth="yes"/>
+      <point x="102" y="431"/>
+      <point x="104" y="430"/>
+      <point x="103" y="427" type="curve"/>
+      <point x="47" y="30" type="line"/>
+      <point x="46" y="28"/>
+      <point x="44" y="26"/>
+      <point x="43" y="26" type="curve" smooth="yes"/>
+      <point x="-46" y="26" type="line" smooth="yes"/>
+      <point x="-49" y="26"/>
+      <point x="-49" y="26"/>
+      <point x="-50" y="23" type="curve"/>
+      <point x="-52" y="4" type="line"/>
+      <point x="-53" y="1"/>
+      <point x="-52" y="0"/>
+      <point x="-49" y="0" type="curve" smooth="yes"/>
+      <point x="154" y="0" type="line" smooth="yes"/>
+      <point x="156" y="0"/>
+      <point x="157" y="1"/>
+      <point x="158" y="4" type="curve"/>
+      <point x="161" y="22" type="line"/>
+      <point x="161" y="25"/>
+      <point x="160" y="26"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>one</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
