@@ -1,6 +1,9 @@
 {
 .appVersion = "3316";
 .formatVersion = 3;
+DisplayStrings = (
+"ИѲҜӨжишщљѳҝҩҹ₴₱₸"
+);
 axes = (
 {
 name = Weight;
@@ -9,37 +12,13 @@ tag = wght;
 );
 customParameters = (
 {
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = descriptions;
-value = "Libre Franklin is a reinterpretation and expansion of the 1912 Morris Fuller Benton’s classic.";
-},
-{
-name = licenses;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = preferredFamilyNames;
-value = "Libre Franklin";
-},
-{
 name = fsType;
 value = (
 );
 },
 {
-name = vendorID;
-value = IMPA;
-},
-{
-name = trademarks;
-value = "Libre Franklin is a trademark of Impallari Type.";
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-11-14 22:13:29 +0000";
@@ -130677,13 +130656,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;

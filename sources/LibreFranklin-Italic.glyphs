@@ -9,37 +9,13 @@ tag = wght;
 );
 customParameters = (
 {
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
-name = descriptions;
-value = "Libre Franklin is a reinterpretation and expansion of the 1912 Morris Fuller Benton’s classic.";
-},
-{
-name = licenses;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = preferredFamilyNames;
-value = "Libre Franklin";
-},
-{
 name = fsType;
 value = (
 );
 },
 {
-name = vendorID;
-value = IMPA;
-},
-{
-name = trademarks;
-value = "Libre Franklin is a trademark of Impallari Type.";
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-11-14 22:14:49 +0000";
@@ -48258,7 +48234,7 @@ unicode = 122;
 glyphname = zacute;
 kernLeft = z;
 kernRight = z;
-lastChange = "2024-09-04 12:17:37 +0000";
+lastChange = "2024-09-04 12:50:41 +0000";
 layers = (
 {
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -48280,7 +48256,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (108,0);
+pos = (93,0);
 ref = acutecomb;
 }
 );
@@ -48293,7 +48269,7 @@ unicode = 378;
 glyphname = zcaron;
 kernLeft = z;
 kernRight = z;
-lastChange = "2024-09-04 12:17:37 +0000";
+lastChange = "2024-09-04 12:50:41 +0000";
 layers = (
 {
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -48315,7 +48291,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (104,0);
+pos = (89,0);
 ref = caroncomb;
 }
 );
@@ -48328,7 +48304,7 @@ unicode = 382;
 glyphname = zdotaccent;
 kernLeft = z;
 kernRight = z;
-lastChange = "2024-09-04 12:17:37 +0000";
+lastChange = "2024-09-04 12:50:41 +0000";
 layers = (
 {
 layerId = "258ED206-D907-4350-8EBA-CBDDA1C16BF7";
@@ -48350,7 +48326,7 @@ shapes = (
 ref = z;
 },
 {
-pos = (209,0);
+pos = (194,0);
 ref = dotaccentcomb;
 }
 );
@@ -132277,13 +132253,13 @@ key = licenses;
 values = (
 {
 language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 }
 );
 },
 {
 key = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 key = manufacturers;
