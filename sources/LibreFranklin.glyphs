@@ -46,42 +46,50 @@ date = "2016-11-14 22:13:29 +0000";
 familyName = "Libre Franklin";
 featurePrefixes = (
 {
+automatic = 1;
 code = "languagesystem DFLT dflt;
+
 languagesystem latn dflt;
-languagesystem latn CAT;
-languagesystem latn ROM;
-languagesystem latn MOL;
+languagesystem latn AZE;
+languagesystem latn CRT;
 languagesystem latn KAZ;
 languagesystem latn TAT;
 languagesystem latn TRK;
-languagesystem latn CRT;
-languagesystem latn AZE;";
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+languagesystem cyrl dflt;
+languagesystem cyrl BSH;
+languagesystem cyrl CHU;
+";
 name = Languagesystems;
 }
 );
 features = (
 {
-code = "feature ccmp;
-feature locl;
+automatic = 1;
+code = "feature locl;
 feature subs;
 feature sinf;
 feature sups;
 feature numr;
 feature dnom;
 feature frac;
-feature ordn;";
+feature ordn;
+";
 tag = aalt;
 },
 {
-code = "lookup ccmp_Other_1 {
-	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb horncomb];
-	sub [i j]' @CombiningTopAccents by [idotless jdotless];
-	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-} ccmp_Other_1;
+automatic = 1;
+code = "lookup ccmp_DFLT_1 {
+	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_DFLT_1;
 
-lookup ccmp_latn_1 {
-	script latn;
+lookup ccmp_DFLT_2 {
 	lookupflag 0;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
 	sub brevecomb gravecomb by brevecomb_gravecomb;
@@ -91,37 +99,91 @@ lookup ccmp_latn_1 {
 	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
 	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-} ccmp_latn_1;";
+} ccmp_DFLT_2;
+
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub fi by f i;
+	sub fl by f l;
+	sub ldot by l periodcentered.loclCAT;
+	sub napostrophe by apostrophemod n;
+	sub lj by l j;
+	sub Lj by L j;
+	sub LJ by L J;
+	sub nj by n j;
+	sub Nj by N j;
+	sub NJ by N J;
+	sub dzcaron by d zcaron;
+	sub Dzcaron by D zcaron;
+	sub DZcaron by D Zcaron;
+	sub dz by d z;
+	sub Dz by D z;
+	sub DZ by D Z;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+";
 tag = ccmp;
 },
 {
+automatic = 1;
 code = "script latn;
-language CAT;
-sub  l' periodcentered' l by ldot;
-sub  L' periodcentered' L by Ldot;
-language ROM;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language MOL;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language KAZ;
-sub i by idotaccent;
-language TAT;
-sub i by idotaccent;
-language TRK;
-sub i by idotaccent;
-language CRT;
-sub i by idotaccent;
 language AZE;
-sub i by idotaccent;";
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language CAT;
+lookup locl_latn_2 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT;
+} locl_latn_2;
+
+script cyrl;
+language BSH;
+lookup locl_cyrl_0 {
+	sub Gestroke-cy by Gestroke-cy.loclBSH;
+	sub I-cy by I-cy.loclBSH;
+	sub Zedescender-cy by Zedescender-cy.loclBSH;
+	sub Esdescender-cy by Esdescender-cy.loclBSH;
+	sub gestroke-cy by gestroke-cy.loclBSH;
+	sub i-cy by i-cy.loclBSH;
+	sub zedescender-cy by zedescender-cy.loclBSH;
+	sub esdescender-cy by esdescender-cy.loclBSH;
+} locl_cyrl_0;
+
+script cyrl;
+language CHU;
+lookup locl_cyrl_1 {
+	sub Esdescender-cy by Esdescender-cy.loclCHU;
+	sub esdescender-cy by esdescender-cy.loclCHU;
+} locl_cyrl_1;
+";
 tag = locl;
 },
 {
+automatic = 1;
 code = "sub zero by zero.subs;
 sub one by one.subs;
 sub two by two.subs;
@@ -131,10 +193,12 @@ sub five by five.subs;
 sub six by six.subs;
 sub seven by seven.subs;
 sub eight by eight.subs;
-sub nine by nine.subs;";
+sub nine by nine.subs;
+";
 tag = subs;
 },
 {
+automatic = 1;
 code = "sub zero by zero.subs;
 sub one by one.subs;
 sub two by two.subs;
@@ -144,10 +208,12 @@ sub five by five.subs;
 sub six by six.subs;
 sub seven by seven.subs;
 sub eight by eight.subs;
-sub nine by nine.subs;";
+sub nine by nine.subs;
+";
 tag = sinf;
 },
 {
+automatic = 1;
 code = "sub zero by zerosuperior;
 sub one by onesuperior;
 sub two by twosuperior;
@@ -157,10 +223,12 @@ sub five by fivesuperior;
 sub six by sixsuperior;
 sub seven by sevensuperior;
 sub eight by eightsuperior;
-sub nine by ninesuperior;";
+sub nine by ninesuperior;
+";
 tag = sups;
 },
 {
+automatic = 1;
 code = "sub zero by zero.numr;
 sub one by one.numr;
 sub two by two.numr;
@@ -170,10 +238,12 @@ sub five by five.numr;
 sub six by six.numr;
 sub seven by seven.numr;
 sub eight by eight.numr;
-sub nine by nine.numr;";
+sub nine by nine.numr;
+";
 tag = numr;
 },
 {
+automatic = 1;
 code = "sub zero by zero.dnom;
 sub one by one.dnom;
 sub two by two.dnom;
@@ -183,10 +253,12 @@ sub five by five.dnom;
 sub six by six.dnom;
 sub seven by seven.dnom;
 sub eight by eight.dnom;
-sub nine by nine.dnom;";
+sub nine by nine.dnom;
+";
 tag = dnom;
 },
 {
+automatic = 1;
 code = "lookup FRAC {
 	sub slash by fraction;
 } FRAC;
@@ -196,25 +268,34 @@ lookup UP {
 lookup DOWN {
 	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
 	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-} DOWN;";
+} DOWN;
+";
 tag = frac;
 },
 {
+automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-sub N o period by numero;";
+sub N o period by numero;
+";
 tag = ordn;
 },
 {
-code = "sub f i by fi;
-sub f l by fl;";
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+";
 tag = liga;
 }
 );
 fontMaster = (
 {
 axesValues = (
-300
+40
 );
 customParameters = (
 {
@@ -320,7 +401,7 @@ layerinfo.color = "1,0.75,0,0.7";
 },
 {
 axesValues = (
-700
+200
 );
 customParameters = (
 {
@@ -129341,32 +129422,101 @@ width = 200;
 );
 instances = (
 {
-customParameters = (
-{
-name = "Use Typo Metrics";
-value = 1;
-}
+axesValues = (
+40
 );
 instanceInterpolations = {
 "91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 1;
 };
 name = Thin;
-properties = (
-{
-key = postscriptFontName;
-value = "LibreFranklin-Thin";
+weightClass = 100;
 },
 {
-key = styleMapFamilyNames;
-values = (
+axesValues = (
+50
+);
+instanceInterpolations = {
+"258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.0625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.9375;
+};
+name = ExtraLight;
+weightClass = 275;
+},
 {
-language = dflt;
-value = "Libre Franklin Thin";
-}
+axesValues = (
+66
 );
-}
+instanceInterpolations = {
+"258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.1625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.8375;
+};
+name = Light;
+weightClass = 300;
+},
+{
+axesValues = (
+84
 );
-weightClass = 100;
+instanceInterpolations = {
+"258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.275;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.725;
+};
+name = Regular;
+},
+{
+axesValues = (
+106
+);
+instanceInterpolations = {
+"258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.4125;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.5875;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+130
+);
+instanceInterpolations = {
+"258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.5625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.4375;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
+154
+);
+instanceInterpolations = {
+"258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.7125;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.2875;
+};
+isBold = 1;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+178
+);
+instanceInterpolations = {
+"258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.8625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.1375;
+};
+name = ExtraBold;
+weightClass = 800;
+},
+{
+axesValues = (
+200
+);
+instanceInterpolations = {
+"258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 1;
+};
+name = Black;
+weightClass = 900;
 }
 );
 kerningLTR = {
@@ -130833,6 +130983,6 @@ zerosuperior = uni2070;
 };
 UFOFormat = 3;
 };
-versionMajor = 2;
+versionMajor = 3;
 versionMinor = 0;
 }
