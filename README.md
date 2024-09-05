@@ -18,8 +18,8 @@ March 2018 GF Cyrillic Plus, Pro support was added by Alexei Vanyashin (v1.500).
 
 ## License
 
-- Libre Franklin is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
-- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/impallari/Libre-Franklin/blob/master/OFL.txt)
+- Libre Franklin is licensed under the SIL Open Font License v1.1 (<https://openfontlicense.org>)
+- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/googlefonts/Libre-Franklin/blob/master/OFL.txt)
 
 ## Authors
 
