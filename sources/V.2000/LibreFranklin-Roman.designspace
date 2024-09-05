@@ -1,0 +1,313 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100">
+      <map input="100" output="40"/>
+      <map input="200" output="50"/>
+      <map input="300" output="66"/>
+      <map input="400" output="84"/>
+      <map input="500" output="106"/>
+      <map input="600" output="130"/>
+      <map input="700" output="154"/>
+      <map input="800" output="178"/>
+      <map input="900" output="200"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="LibreFranklin-Thin.ufo" name="Libre Franklin Thin" familyname="Libre Franklin" stylename="Thin">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="40"/>
+      </location>
+    </source>
+    <source filename="LibreFranklin-Black.ufo" name="Libre Franklin Black" familyname="Libre Franklin" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Libre Franklin Thin" familyname="Libre Franklin" stylename="Thin" filename="instance_ufos/LibreFranklin-Thin.ufo">
+      <location>
+        <dimension name="Weight" xvalue="40"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Thin</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Libre Franklin ExtraLight" familyname="Libre Franklin" stylename="ExtraLight" filename="instance_ufos/LibreFranklin-ExtraLight.ufo">
+      <location>
+        <dimension name="Weight" xvalue="50"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+            <real>0.0625</real>
+            <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+            <real>0.9375</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraLight</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Libre Franklin Light" familyname="Libre Franklin" stylename="Light" filename="instance_ufos/LibreFranklin-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="66"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+            <real>0.1625</real>
+            <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+            <real>0.8375</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Libre Franklin Regular" familyname="Libre Franklin" stylename="Regular" filename="instance_ufos/LibreFranklin-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="84"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+            <real>0.275</real>
+            <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+            <real>0.725</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Libre Franklin Medium" familyname="Libre Franklin" stylename="Medium" filename="instance_ufos/LibreFranklin-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="106"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+            <real>0.4125</real>
+            <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+            <real>0.5875</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Libre Franklin SemiBold" familyname="Libre Franklin" stylename="SemiBold" filename="instance_ufos/LibreFranklin-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="130"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+            <real>0.5625</real>
+            <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+            <real>0.4375</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Libre Franklin Bold" familyname="Libre Franklin" stylename="Bold" filename="instance_ufos/LibreFranklin-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="154"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+            <real>0.7125</real>
+            <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+            <real>0.2875</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Libre Franklin ExtraBold" familyname="Libre Franklin" stylename="ExtraBold" filename="instance_ufos/LibreFranklin-ExtraBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="178"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+            <real>0.8625</real>
+            <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+            <real>0.1375</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>ExtraBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Libre Franklin Black" familyname="Libre Franklin" stylename="Black" filename="instance_ufos/LibreFranklin-Black.ufo">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Black</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>258ED206-D907-4350-8EBA-CBDDA1C16BF7</key>
+        <dict>
+          <key>HH</key>
+          <integer>172</integer>
+          <key>HV</key>
+          <integer>227</integer>
+          <key>OH</key>
+          <integer>154</integer>
+          <key>OV</key>
+          <integer>238</integer>
+          <key>nV</key>
+          <integer>200</integer>
+          <key>nd</key>
+          <integer>141</integer>
+          <key>oH</key>
+          <integer>128</integer>
+          <key>oV</key>
+          <integer>202</integer>
+          <key>tH</key>
+          <integer>135</integer>
+        </dict>
+        <key>91AB5BCA-6A50-42DA-B2F7-8181BF189245</key>
+        <dict>
+          <key>HH</key>
+          <integer>40</integer>
+          <key>HV</key>
+          <integer>46</integer>
+          <key>OH</key>
+          <integer>42</integer>
+          <key>OV</key>
+          <integer>48</integer>
+          <key>nV</key>
+          <integer>40</integer>
+          <key>nd</key>
+          <integer>38</integer>
+          <key>oH</key>
+          <integer>38</integer>
+          <key>oV</key>
+          <integer>42</integer>
+          <key>tH</key>
+          <integer>35</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>
