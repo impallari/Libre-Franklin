@@ -23,6 +23,10 @@ March 2018 GF Cyrillic Plus, Pro support was added by Alexei Vanyashin (v1.500).
 
 ## Authors
 
-[Pablo Impallari](http://www.impallari.com),  [Rodrigo Fuenzalida](http://www.rfuenzalida.com) and Nhung Nguyen, [Alexei Vanyashin (Cyrillic)](http://cyreal.rog)
+[Pablo Impallari](http://www.impallari.com),  [Rodrigo Fuenzalida](http://www.rfuenzalida.com) 
+
+## Contributors
+
+Nhung Nguyen, [Alexei Vanyashin (Cyrillic)](http://cyreal.rog)
 
 ![image](documents/sample.png)
