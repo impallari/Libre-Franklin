@@ -1,5 +1,5 @@
 {
-.appVersion = "937";
+.appVersion = "1211";
 copyright = "Copyright (c) 2015, Impallari Type (www.impallari.com)";
 customParameters = (
 {
@@ -16002,6 +16002,7 @@ hints = (
 {
 horizontal = 1;
 place = "{4037, 100}";
+type = Stem;
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -17390,6 +17391,7 @@ hints = (
 {
 horizontal = 1;
 place = "{4037, 100}";
+type = Stem;
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -17951,6 +17953,7 @@ position = "{295, 530}";
 hints = (
 {
 place = "{0, 0}";
+type = Stem;
 }
 );
 paths = (
@@ -23472,7 +23475,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2016-09-02 21:53:36 +0000";
+lastChange = "2019-02-19 06:27:02 +0000";
 layers = (
 {
 components = (
@@ -23492,6 +23495,7 @@ width = 457;
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
@@ -32063,6 +32067,7 @@ hints = (
 {
 horizontal = 1;
 place = "{2528.183, 62.625}";
+type = Stem;
 }
 );
 layerId = "91AB5BCA-6A50-42DA-B2F7-8181BF189245";
@@ -63567,13 +63572,13 @@ weightClass = Thin;
 customParameters = (
 {
 name = weightClass;
-value = "275";
+value = 275;
 }
 );
 interpolationWeight = 50;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.9375;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.0625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.9375;
 };
 name = ExtraLight;
 weightClass = ExtraLight;
@@ -63581,8 +63586,8 @@ weightClass = ExtraLight;
 {
 interpolationWeight = 66;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.8375;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.1625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.8375;
 };
 name = Light;
 weightClass = Light;
@@ -63590,16 +63595,16 @@ weightClass = Light;
 {
 interpolationWeight = 84;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.725;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.275;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.725;
 };
 name = Regular;
 },
 {
 interpolationWeight = 106;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.5875;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.4125;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.5875;
 };
 name = Medium;
 weightClass = Medium;
@@ -63607,8 +63612,8 @@ weightClass = Medium;
 {
 interpolationWeight = 130;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.4375;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.5625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.4375;
 };
 name = SemiBold;
 weightClass = SemiBold;
@@ -63616,8 +63621,8 @@ weightClass = SemiBold;
 {
 interpolationWeight = 154;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.2875;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.7125;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.2875;
 };
 isBold = 1;
 name = Bold;
@@ -63626,8 +63631,8 @@ weightClass = Bold;
 {
 interpolationWeight = 178;
 instanceInterpolations = {
-"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.1375;
 "258ED206-D907-4350-8EBA-CBDDA1C16BF7" = 0.8625;
+"91AB5BCA-6A50-42DA-B2F7-8181BF189245" = 0.1375;
 };
 name = ExtraBold;
 weightClass = ExtraBold;
