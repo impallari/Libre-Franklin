@@ -27,6 +27,6 @@ March 2018 GF Cyrillic Plus, Pro support was added by Alexei Vanyashin (v1.500).
 
 ## Contributors
 
-Nhung Nguyen, [Alexei Vanyashin (Cyrillic)](http://cyreal.rog)
+Nhung Nguyen (Vietnamese), [Alexei Vanyashin (Cyrillic)](http://cyreal.rog)
 
 ![image](documents/sample.png)
