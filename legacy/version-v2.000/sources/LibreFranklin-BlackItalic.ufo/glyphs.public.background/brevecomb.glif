@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <anchor x="-175" y="530" name="_top"/>
+  <outline>
+    <contour>
+      <point x="40" y="742" type="curve"/>
+      <point x="40" y="742" type="line"/>
+      <point x="-32" y="742" type="line" smooth="yes"/>
+      <point x="-40" y="742"/>
+      <point x="-50" y="740"/>
+      <point x="-57" y="729" type="curve"/>
+      <point x="-80" y="695"/>
+      <point x="-120" y="682"/>
+      <point x="-154" y="682" type="curve"/>
+      <point x="-183" y="682"/>
+      <point x="-214" y="695"/>
+      <point x="-231" y="718" type="curve"/>
+      <point x="-241" y="731"/>
+      <point x="-242" y="742"/>
+      <point x="-254" y="742" type="curve"/>
+      <point x="-325" y="742" type="line" smooth="yes"/>
+      <point x="-342" y="742"/>
+      <point x="-343" y="730"/>
+      <point x="-341" y="717" type="curve"/>
+      <point x="-324" y="618"/>
+      <point x="-248" y="593"/>
+      <point x="-157" y="593" type="curve"/>
+      <point x="-73" y="593"/>
+      <point x="10" y="628"/>
+      <point x="52" y="711" type="curve"/>
+      <point x="59" y="725"/>
+      <point x="54" y="742"/>
+    </contour>
+  </outline>
+</glyph>

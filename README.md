@@ -10,17 +10,19 @@ Afar, Afrikaans, Albanian, Azerbaijani, Basque, Belarusian, Bislama, Bosnian, Br
 #### Cyrillic 
 March 2018 GF Cyrillic Plus, Pro support was added by Alexei Vanyashin (v1.500). Missing Latin glyphs were added to fully support GF Latin Plus, and Pro.
 
+
+#### Sources
+
+1. `sources/ *.glyphs` latest 1.500 source files
+2. `sources/old/GX v1015` older version with less character support (no Cyrillic, Vietnamese, etc.), prepared for GX.
+
 ## License
 
-- Libre Franklin is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
-- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/impallari/Libre-Franklin/blob/master/OFL.txt)
+- Libre Franklin is licensed under the SIL Open Font License v1.1 (<https://openfontlicense.org>)
+- To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/googlefonts/Libre-Franklin/blob/master/OFL.txt)
 
 ## Authors
 
-[Pablo Impallari](http://www.impallari.com),  [Rodrigo Fuenzalida](http://www.rfuenzalida.com) 
-
-## Contributors
-
-Nhung Nguyen (Vietnamese), [Alexei Vanyashin (Cyrillic)](http://cyreal.rog)
+[Pablo Impallari](http://www.impallari.com),  [Rodrigo Fuenzalida](http://www.rfuenzalida.com) and Nhung Nguyen, [Alexei Vanyashin (Cyrillic)](http://cyreal.rog)
 
 ![image](documents/sample.png)
