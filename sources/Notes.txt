@@ -1,7 +1,11 @@
 Current Work in Progress (New from version 3.000):
 - Language Extension to AfricanPri (similar charset to latest Baskerville)
-- 271 new glyphs in 4 masters.
+- 271 new glyphs in 4 masters (Thin & Black masters - regular and italic).
 - All the African related, plus some more latin diacritics.
+
+Extra idea, optional:
+Add a intermedie medium master for better interpolation control and finesse.
+Both in regular & italic
 
 Cheers,
 Pablo
